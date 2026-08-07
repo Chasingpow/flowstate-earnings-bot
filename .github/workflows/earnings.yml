@@ -1,0 +1,88 @@
+name: Flowstate earnings poster
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_ticker:
+        description: "Post the latest earnings for ONE ticker (e.g. V) — ignores dedupe/recency."
+        required: false
+        default: ""
+      dry_run:
+        description: "Build cards but do not post (1 = dry run)."
+        required: false
+        default: "0"
+      seed_only:
+        description: "Mark current reporters as posted WITHOUT posting (1 = seed). Run once on first deploy."
+        required: false
+        default: "0"
+  schedule:
+    # Times are UTC. US earnings cluster before the open (~10-14 UTC) and after the close (~20-02 UTC).
+    - cron: "*/15 9-14 * * 1-5"
+    - cron: "*/15 20-23 * * 1-5"
+    - cron: "*/15 0-2 * * 2-6"
+
+concurrency:
+  group: earnings-poster
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup fonts
+        run: |
+          npm i @fontsource/inter @fontsource/space-grotesk
+          mkdir -p fonts
+          cp node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2 fonts/inter-400.woff2
+          cp node_modules/@fontsource/inter/files/inter-latin-500-normal.woff2 fonts/inter-500.woff2
+          cp node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2 fonts/inter-600.woff2
+          cp node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2 fonts/inter-700.woff2
+          cp node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2 fonts/inter-800.woff2
+          cp node_modules/@fontsource/space-grotesk/files/space-grotesk-latin-500-normal.woff2 fonts/grotesk-500.woff2
+          cp node_modules/@fontsource/space-grotesk/files/space-grotesk-latin-700-normal.woff2 fonts/grotesk-700.woff2
+
+      - name: Install Chrome
+        id: chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run poster
+        env:
+          BENZINGA_API_KEY: ${{ secrets.BENZINGA_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          CHROME_BIN: ${{ steps.chrome.outputs.chrome-path }}
+          MIN_MARKET_CAP: "2000000000"
+          MAX_PER_RUN: "12"
+          LOOKBACK_HOURS: "30"
+          TEST_TICKER: ${{ github.event.inputs.test_ticker }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          SEED_ONLY: ${{ github.event.inputs.seed_only }}
+        run: python post_earnings.py
+
+      - name: Persist de-dupe state
+        if: ${{ github.event.inputs.test_ticker == '' && github.event.inputs.dry_run != '1' }}
+        run: |
+          git config user.name "flowstate-bot"
+          git config user.email "flowstate-bot@users.noreply.github.com"
+          git add state/posted.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update posted state [skip ci]"
+            git push
+          else
+            echo "no state change"
+          fi
