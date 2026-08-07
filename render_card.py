@@ -68,10 +68,11 @@ TEMPLATE = r"""<!DOCTYPE html><html><head><meta charset="utf-8"/><style>
 @font-face{font-family:'Grotesk';font-weight:700;src:url('fonts/grotesk-700.woff2') format('woff2');}
 *{margin:0;padding:0;box-sizing:border-box;}
 :root{--cyan:#25D7EE;--blue:#3E7DF6;--green:#3BD07F;--red:#F4655F;--amber:#F7AB15;--yellow:#FACC15;--white:#EEF1FF;--muted:#8B93B4;--card:rgba(128,150,214,0.065);--cardbd:rgba(150,170,235,0.14);}
-html,body{width:1200px;height:675px;}
-body{font-family:'Inter',sans-serif;background:radial-gradient(1100px 700px at 12% -10%,#241a5e 0%,rgba(36,26,94,0) 55%),radial-gradient(900px 600px at 108% 120%,#34206b 0%,rgba(52,32,107,0) 50%),linear-gradient(150deg,#0b0e28 0%,#141149 48%,#1c1550 100%);color:var(--white);overflow:hidden;position:relative;padding:46px 54px 40px;}
+html,body{margin:0;padding:0;}
+body{width:1200px;box-sizing:border-box;font-family:'Inter',sans-serif;color:var(--white);position:relative;padding:44px 54px 42px;background:radial-gradient(1100px 700px at 12% -10%,#241a5e 0%,rgba(36,26,94,0) 55%),radial-gradient(900px 600px at 108% 120%,#34206b 0%,rgba(52,32,107,0) 50%),linear-gradient(150deg,#0b0e28 0%,#141149 55%,#1c1550 100%);}
 body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400px 500px at 50% -20%,rgba(62,125,246,0.10),transparent 60%);pointer-events:none;}
-.wrap{position:relative;z-index:2;height:100%;display:flex;flex-direction:column;}
+.wrap{position:relative;z-index:2;display:flex;flex-direction:column;}
+.mid{display:flex;flex-direction:column;}
 .hdr{display:flex;justify-content:space-between;align-items:flex-start;}
 .brand{display:flex;align-items:center;gap:14px;}
 .logo{width:42px;height:42px;border-radius:12px;background:linear-gradient(140deg,var(--cyan),var(--blue));position:relative;box-shadow:0 6px 18px rgba(62,125,246,0.35);}
@@ -82,27 +83,27 @@ body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400
 .hmeta{text-align:right;}
 .hmeta .d{font-size:11px;font-weight:600;letter-spacing:2.5px;color:var(--muted);}
 .hmeta .t{font-size:12px;font-weight:700;letter-spacing:2.5px;color:var(--cyan);margin-top:5px;}
-.tick{margin-top:30px;display:flex;align-items:baseline;gap:16px;}
+.tick{margin-top:26px;display:flex;align-items:baseline;gap:16px;}
 .tick .sym{font-family:'Grotesk';font-weight:700;font-size:66px;line-height:0.9;background:linear-gradient(120deg,var(--cyan),var(--blue));-webkit-background-clip:text;background-clip:text;color:transparent;}
 .tick .cap{font-size:13px;font-weight:600;letter-spacing:2px;color:var(--muted);text-transform:uppercase;padding-bottom:6px;}
-.head{margin-top:12px;font-size:34px;font-weight:800;letter-spacing:-0.5px;}
+.head{margin-top:16px;font-size:34px;font-weight:800;letter-spacing:-0.5px;}
 .head b{font-weight:800;}
-.cards{margin-top:26px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;}
-.c{background:var(--card);border:1px solid var(--cardbd);border-radius:16px;padding:20px 20px 18px;position:relative;}
+.cards{margin-top:28px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;}
+.c{background:var(--card);border:1px solid var(--cardbd);border-radius:16px;padding:22px 22px;position:relative;min-height:204px;display:flex;flex-direction:column;}
 .c .lab{font-size:10.5px;font-weight:700;letter-spacing:2.5px;color:var(--muted);}
-.c .val{font-family:'Grotesk';font-weight:700;font-size:38px;margin-top:10px;letter-spacing:-0.5px;}
-.c .est{font-size:12.5px;font-weight:500;color:var(--muted);margin-top:8px;}
-.chip{display:inline-block;font-size:11px;font-weight:700;letter-spacing:0.5px;padding:3px 9px;border-radius:20px;margin-top:12px;}
+.c .val{font-family:'Grotesk';font-weight:700;font-size:42px;margin-top:14px;letter-spacing:-0.5px;}
+.c .est{font-size:13px;font-weight:500;color:var(--muted);margin-top:10px;}
+.chip{display:inline-block;align-self:flex-start;font-size:11px;font-weight:700;letter-spacing:0.5px;padding:3px 9px;border-radius:20px;margin-top:auto;}
 .chip.g{background:rgba(59,208,127,0.14);color:var(--green);border:1px solid rgba(59,208,127,0.30);}
 .chip.r{background:rgba(244,101,95,0.14);color:var(--red);border:1px solid rgba(244,101,95,0.30);}
 .chip.a{background:rgba(247,171,21,0.14);color:var(--amber);border:1px solid rgba(247,171,21,0.32);}
-.delta{font-size:12.5px;font-weight:600;margin-top:12px;color:var(--muted);}
+.delta{font-size:13px;font-weight:600;margin-top:14px;color:var(--muted);}
 .delta .m{color:var(--muted);font-weight:500;}
-.verdict .val{font-size:30px;}
-.tags{margin-top:20px;display:flex;gap:10px;flex-wrap:wrap;}
-.tag{font-size:11px;font-weight:600;letter-spacing:0.4px;color:#b9c0dd;background:rgba(255,255,255,0.035);border:1px solid rgba(255,255,255,0.08);padding:6px 12px;border-radius:8px;}
+.verdict .val{font-size:32px;}
+.tags{margin-top:22px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+.tag{font-size:11px;font-weight:600;letter-spacing:0.4px;color:#b9c0dd;background:rgba(255,255,255,0.035);border:1px solid rgba(255,255,255,0.08);padding:9px 12px;border-radius:8px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .tag b{color:var(--cyan);font-weight:700;}
-.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;padding-top:18px;}
+.foot{margin-top:26px;display:flex;justify-content:space-between;align-items:flex-end;}
 .foot .disc{font-size:10.5px;color:#666e92;letter-spacing:0.3px;line-height:1.5;max-width:640px;}
 .foot .mk{font-family:'Grotesk';font-weight:700;font-size:14px;letter-spacing:3px;}
 .foot .mk span{color:var(--cyan);}
@@ -112,6 +113,7 @@ body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400
  <div class="brand"><div class="logo"></div><div class="txt"><div class="n">FLOWSTATE ALPHA</div><div class="s">MARKET BREAKDOWN</div></div></div>
  <div class="hmeta"><div class="d">{{DATELINE}}</div><div class="t">{{TAG}}</div></div>
 </div>
+<div class="mid">
 <div class="tick"><div class="sym">{{TICKER}}</div><div class="cap">{{CAP}}</div></div>
 <div class="head">{{HEADLINE}}</div>
 <div class="cards">
@@ -120,6 +122,7 @@ body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400
  <div class="c verdict"><div class="lab">VERDICT</div><div class="val" style="color:{{VERDICT_COLOR}}">{{VERDICT_VAL}}</div><div class="est">{{VERDICT_SUB}}</div>{{VERDICT_CHIP}}<div class="delta">{{VERDICT_DELTA}}</div></div>
 </div>
 <div class="tags">{{TAGS}}</div>
+</div>
 <div class="foot"><div><div class="rule"></div><div class="disc" style="margin-top:12px;">Educational content only — not financial advice. Figures are estimate-vs-actual as reported by Benzinga; verify against primary filings. Do your own research.</div></div><div class="mk">FLOWSTATE<span>ALPHA</span></div></div>
 </div></body></html>"""
 
@@ -213,12 +216,44 @@ def render(d, out_png):
     with open(html_path, "w") as f:
         f.write(html)
     chrome = find_chrome()
+    # Render into a tall window, then crop off the uncovered area so the final
+    # image is exactly content-height (this headless build sizes the page to
+    # content and pads the rest of the window, so we trim the padding).
     cmd = [chrome, "--headless", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
-           "--force-device-scale-factor=2", "--window-size=1200,675",
-           "--default-background-color=00000000",
+           "--force-device-scale-factor=2", "--window-size=1200,1400",
            f"--screenshot={out_png}", "file://" + html_path]
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    _crop_to_content(out_png)
     return out_png
+
+
+def _crop_to_content(png):
+    """Trim to the lowest real content row (text/marks) + a bottom margin, so
+    the card is exactly content-height with even padding and no dead space."""
+    from PIL import Image
+    im = Image.open(png).convert("RGB")
+    W, H = im.size
+    px = im.load()
+    margin = 84  # ~42px @1x of breathing room below the footer
+    def is_content_row(y):
+        bright = dark = False
+        for x in range(0, W, 5):
+            r, g, b = px[x, y]
+            if r > 150 or g > 165 or b > 205:      # text / marks
+                bright = True
+            elif r < 60 and g < 60 and b < 120:    # navy gradient (not white padding)
+                dark = True
+            if bright and dark:
+                return True
+        return False
+    bottom = None
+    for y in range(H - 1, -1, -1):
+        if is_content_row(y):
+            bottom = y
+            break
+    if bottom is not None:
+        cut = min(H, bottom + margin)
+        im.crop((0, 0, W, cut)).save(png)
 
 
 if __name__ == "__main__":
