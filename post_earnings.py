@@ -234,12 +234,24 @@ def main():
     if SEED_ONLY:
         for r in fresh:
             posted.add(r["id"])
-        save_state({ÜÝY
-BˆÙÊˆ”ÑQQÓÓ“NˆX\šÙYÛ[Šœ™\Ú
-_H\ÈÜÝY›Û™HÙ[ˆŠBˆ™]\›‚‚ˆˆHˆ›Üˆˆ[ˆœ™\Ú‚ˆYˆˆHPVÔT—Ô•SŽ‚ˆÙÊˆ“PVÔT—Ô•Sˆ
-ÓPVÔT—Ô•SŸJH™XXÚYÈÛ[Šœ™\Ú
-K[ŸHY™\œ™YÈ™^[‹ˆŠNÈœ™XZÂˆžN‚ˆYˆ›ØÙ\ÜÊ‹ÜÝY›Û™JN‚ˆˆ
-ÏHBˆ^Ù\^Ù\[Ûˆ\ÈN‚ˆÙÊˆ\œ›ÜˆÛˆ‹‹™Ù]
-XÚÙ\ˆŠKJB‚ˆYˆ›Ý–WÔ•SŽ‚ˆØ]™WÜÝ]JÜÝY
-BˆÙÊˆ™Û™NˆÛŸHÜÝYˆŠB‚‚šYˆ×Û˜[YW×ÈOH—×ÛXZ[—×ÈŽ‚ˆXZ[Š
-B
+        save_state(posted)
+        log(f"SEED_ONLY: marked {len(fresh)} as posted, none sent.")
+        return
+
+    n = 0
+    for r in fresh:
+        if n >= MAX_PER_RUN:
+            log(f"MAX_PER_RUN ({MAX_PER_RUN}) reached; {len(fresh)-n} deferred to next run."); break
+        try:
+            if process(r, posted, None):
+                n += 1
+        except Exception as e:
+            log("  error on", r.get("ticker"), e)
+
+    if not DRY_RUN:
+        save_state(posted)
+    log(f"done: {n} posted.")
+
+
+if __name__ == "__main__":
+    main()
