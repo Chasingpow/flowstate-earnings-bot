@@ -210,7 +210,10 @@ def blurb(d):
 
 
 def post_discord(d, png):
-    payload = {"content": blurb(d)}
+    content = blurb(d)
+    if len(content) > 2000:            # Discord hard limit on message content
+        content = content[:1960].rstrip() + "\n…"
+    payload = {"content": content}
     with open(png, "rb") as fh:
         files = {"file": (f"{d['ticker']}_earnings.png", fh, "image/png")}
         r = requests.post(DISCORD_WEBHOOK_URL, data={"payload_json": json.dumps(payload)},
