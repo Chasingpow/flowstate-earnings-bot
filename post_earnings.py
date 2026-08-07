@@ -63,7 +63,18 @@ def bz_get(params):
     p.update(params)
     r = requests.get(BZ_URL, params=p, headers={"accept": "application/json"}, timeout=30)
     r.raise_for_status()
-    return r.json().get("earnings", []) or []
+    data = r.json()
+    if isinstance(data, dict):
+        return data.get("earnings", []) or []
+    if isinstance(data, list):
+        out = []
+        for it in data:
+            if isinstance(it, dict) and "earnings" in it:
+                out.extend(it.get("earnings") or [])
+            elif isinstance(it, dict):
+                out.append(it)
+        return out
+    return []
 
 
 def bz_window():
