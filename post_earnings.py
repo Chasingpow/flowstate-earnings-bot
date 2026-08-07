@@ -13,7 +13,7 @@ Env vars:
   LOOKBACK_HOURS     (default 30)   how recently 'updated' to count as "just reported"
   DRY_RUN            (default "0")  build cards but don't post / don't touch state
   SEED_ONLY          (default "0")  mark current reporters as posted WITHOUT posting (first deploy)
-  TEST_TICKER        (optional)     post the latest earnings for this one ticker, ignore dedupe/recency
+  TEST_TICKER        (optional)     post the latest earnings for these ticker(s), ignore dedupe/recency
 """
 import os, sys, json, time, datetime as dt
 import requests
@@ -86,7 +86,14 @@ def bz_window():
 
 
 def bz_latest_for(ticker):
+    # Constrain to a trailing window ending today so we get the most recent
+    # REPORTED quarter (with actuals) rather than future estimate rows, which
+    # a bare date:desc surfaces first.
+    today = dt.datetime.utcnow().date()
+    start = today - dt.timedelta(days=200)
     rows = bz_get({"parameters[tickers]": ticker,
+                   "parameters[date_from]": start.isoformat(),
+                   "parameters[date_to]": today.isoformat(),
                    "parameters[date_sort]": "date:desc", "pagesize": 8})
     return rows
 
