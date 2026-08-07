@@ -256,14 +256,24 @@ def main():
     if not BENZINGA_API_KEY or not DISCORD_WEBHOOK_URL:
         log("ERROR: BENZINGA_API_KEY and DISCORD_WEBHOOK_URL must be set."); sys.exit(1)
 
-    # --- test mode: post one ticker's latest, ignore dedupe/recency/state ---
+    # --- test mode: force-post one or more tickers' latest, ignore dedupe/recency/state ---
     if TEST_TICKER:
-        log(f"TEST MODE: {TEST_TICKER}")
-        rows = [r for r in bz_latest_for(TEST_TICKER) if has_actuals(r)]
-        if not rows:
-            log("  no reported earnings found for", TEST_TICKER); sys.exit(1)
-        rows.sort(key=lambda r: r.get("date", ""), reverse=True)
-        process(rows[0], set(), None, force=True)
+        tickers = [t for t in TEST_TICKER.replace(" ", ",").split(",") if t]
+        log(f"TEST MODE: {tickers}")
+        local = set()
+        posted_any = False
+        for tk in tickers:
+            rows = [r for r in bz_latest_for(tk) if has_actuals(r)]
+            if not rows:
+                log("  no reported earnings found for", tk); continue
+            rows.sort(key=lambda r: r.get("date", ""), reverse=True)
+            try:
+                if process(rows[0], local, None, force=True):
+                    posted_any = True
+            except Exception as e:
+                log("  error on", tk, e)
+        if not posted_any:
+            log("  nothing posted (no finalized earnings for given ticker[s])."); sys.exit(1)
         return
 
     posted = load_state()
