@@ -163,13 +163,50 @@ def normalize(row, mc, sector):
     }
 
 
+def _yoy_line(label, val_str, g):
+    frac, ok = g
+    if not ok:
+        return f"• {label}: {val_str}"
+    sign = "+" if frac >= 0 else "−"
+    emoji = "✅" if frac >= 0 else "🔻"
+    return f"• {label}: {val_str}; {sign}{abs(frac)*100:.0f}% YoY {emoji}"
+
+
+def _qoq_line(label, g):
+    frac, ok = g
+    if not ok:
+        return None
+    if abs(frac) < 0.005:
+        return f"• {label}: flat QoQ"
+    sign = "+" if frac >= 0 else "−"
+    emoji = "✅" if frac >= 0 else "🔻"
+    return f"• {label}: {sign}{abs(frac)*100:.0f}% QoQ {emoji}"
+
+
 def blurb(d):
     beats = int(d["eps_surprise"] >= 0) + int(d["rev_surprise"] >= 0)
-    verdict = "DOUBLE BEAT" if beats == 2 else ("DOUBLE MISS" if beats == 0 else "MIXED")
-    return (f"**${d['ticker']} · {d['name']} — {d['period']} {d['period_year']}**  ·  {verdict}\n"
-            f"Revenue {rc.money(d['revenue'])} ({d['rev_surprise']*100:+.1f}% vs est) · "
-            f"EPS {rc.eps_fmt(d['eps'])} ({d['eps_surprise']*100:+.1f}% vs est)\n"
-            f"_Educational only — not financial advice. Source: Benzinga._")
+    verdict = "Double Beat" if beats == 2 else ("Double Miss" if beats == 0 else "Mixed")
+    rev_beat = d["rev_surprise"] >= 0
+    eps_beat = d["eps_surprise"] >= 0
+    rev_c = (f"• Revenue: {'beat +' if rev_beat else 'miss '}{d['rev_surprise']*100:.1f}% "
+             f"(est. {rc.money(d['revenue_est'])}) {'✅' if rev_beat else '❌'}")
+    eps_c = (f"• EPS: {'beat +' if eps_beat else 'miss -'}${abs(d['eps_surprise_abs']):.2f} "
+             f"(est. {rc.eps_fmt(d['eps_est'])}) {'✅' if eps_beat else '❌'}")
+    lines = [
+        f"**${d['ticker']} — {d['name']} · {d['period']} {d['period_year']} EARNINGS**",
+        _yoy_line("Revenue", rc.money(d["revenue"]), d["rev_yoy"]),
+        _yoy_line(f"EPS ({d['eps_type']})", rc.eps_fmt(d["eps"]), d["eps_yoy"]),
+        "*vs Consensus:*",
+        rev_c,
+        eps_c,
+    ]
+    qoq = [x for x in (_qoq_line("Revenue", d["rev_qoq"]), _qoq_line("EPS", d["eps_qoq"])) if x]
+    if qoq:
+        lines.append("*Sequential:*")
+        lines += qoq
+    lines.append(f"Verdict: **{verdict}** {'✅' if beats==2 else ('❌' if beats==0 else '⚠️')}")
+    lines.append("_Educational only — not financial advice. Source: Benzinga._")
+    return "\n".join(lines)
 
 
 def post_discord(d, png):
