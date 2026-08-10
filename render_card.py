@@ -123,7 +123,7 @@ body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400
 </div>
 <div class="tags">{{TAGS}}</div>
 </div>
-<div class="foot"><div><div class="rule"></div><div class="disc" style="margin-top:12px;">Educational content only — not financial advice. Figures are estimate-vs-actual as reported by Benzinga; verify against primary filings. Do your own research.</div></div><div class="mk">FLOWSTATE<span>ALPHA</span></div></div>
+<div class="foot"><div><div class="rule"></div><div class="disc" style="margin-top:12px;">Educational content only — not financial advice. Figures are estimate-vs-actual {{SRCNOTE}}; verify against primary filings. Do your own research.</div></div><div class="mk">FLOWSTATE<span>ALPHA</span></div></div>
 </div></body></html>"""
 
 
@@ -164,12 +164,12 @@ def build_html(d):
     tags = "".join([
         f'<div class="tag">MKT CAP <b>{capstr}</b> · {tier}</div>',
         f'<div class="tag">SECTOR · {d["sector"].upper()}</div>',
-        f'<div class="tag">REPORTED · {d["timing"]}</div>',
-        f'<div class="tag">SOURCE · BENZINGA</div>',
+        f'<div class="tag">{("REPORTED · " + d["timing"]) if d.get("timing") else "RESULTS"}</div>',
+        f'<div class="tag">SOURCE · {d.get("source","BENZINGA")}</div>',
     ])
 
     repl = {
-        "DATELINE": f'{d["date_str"]} · {d["timing"]}',
+        "DATELINE": (f'{d["date_str"]} · {d["timing"]}' if d.get("timing") else d["date_str"]),
         "TAG": f'EARNINGS · {vval}',
         "TICKER": f'${d["ticker"]}',
         "CAP": f'{d["name"]} · {d["period"]} {d["period_year"]} · vs consensus',
@@ -189,6 +189,7 @@ def build_html(d):
         "VERDICT_CHIP": vchip,
         "VERDICT_DELTA": f'Surprise: <span style="color:{CM}">Rev {pct1(d["rev_surprise"])} · EPS {pct1(d["eps_surprise"])}</span>',
         "TAGS": tags,
+        "SRCNOTE": d.get("source_note", "as reported by Benzinga"),
     }
     html = TEMPLATE
     for k, v in repl.items():
@@ -216,9 +217,6 @@ def render(d, out_png):
     with open(html_path, "w") as f:
         f.write(html)
     chrome = find_chrome()
-    # Render into a tall window, then crop off the uncovered area so the final
-    # image is exactly content-height (this headless build sizes the page to
-    # content and pads the rest of the window, so we trim the padding).
     cmd = [chrome, "--headless", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
            "--force-device-scale-factor=2", "--window-size=1200,1400",
            f"--screenshot={out_png}", "file://" + html_path]
@@ -234,14 +232,14 @@ def _crop_to_content(png):
     im = Image.open(png).convert("RGB")
     W, H = im.size
     px = im.load()
-    margin = 84  # ~42px @1x of breathing room below the footer
+    margin = 84
     def is_content_row(y):
         bright = dark = False
         for x in range(0, W, 5):
             r, g, b = px[x, y]
-            if r > 150 or g > 165 or b > 205:      # text / marks
+            if r > 150 or g > 165 or b > 205:
                 bright = True
-            elif r < 60 and g < 60 and b < 120:    # navy gradient (not white padding)
+            elif r < 60 and g < 60 and b < 120:
                 dark = True
             if bright and dark:
                 return True
@@ -257,7 +255,6 @@ def _crop_to_content(png):
 
 
 if __name__ == "__main__":
-    # quick self-test with fixture data
     import json
     fixture = json.loads(sys.argv[1]) if len(sys.argv) > 1 else {}
     render(fixture, os.path.join(HERE, "test_out.png"))

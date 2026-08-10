@@ -63,6 +63,7 @@ jobs:
 
       - name: Run poster
         env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
           BENZINGA_API_KEY: ${{ secrets.BENZINGA_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           CHROME_BIN: ${{ steps.chrome.outputs.chrome-path }}
