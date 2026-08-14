@@ -263,6 +263,6 @@ def _crop_to_content(png):
 if __name__ == "__main__":
     # quick self-test with fixture data
     import json
-    fixture = json.loads(ssys.argv[1]) if len(sys.argv) > 1 else {}
+    fixture = json.loads(sys.argv[1]) if len(sys.argv) > 1 else {}
     render(fixture, os.path.join(HERE, "test_out.png"))
     print("wrote", os.path.join(HERE, "test_out.png"))
