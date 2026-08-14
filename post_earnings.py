@@ -212,6 +212,8 @@ def blurb(d):
         lines += qoq
     lines.append(f"Verdict: **{verdict}** {'✅' if beats==2 else ('❌' if beats==0 else '⚠️')}")
     lines.append(f"_Educational only — not financial advice. Source: {d.get('source','FMP')}._")
+    if beats == 2:
+        lines.insert(0, "🟢 **DOUBLE BEAT — beat on every metric** 🟢")
     return "\n".join(lines)
 
 
