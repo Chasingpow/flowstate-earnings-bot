@@ -72,6 +72,8 @@ html,body{margin:0;padding:0;}
 body{width:1200px;box-sizing:border-box;font-family:'Inter',sans-serif;color:var(--white);position:relative;padding:44px 54px 42px;background:radial-gradient(1100px 700px at 12% -10%,#241a5e 0%,rgba(36,26,94,0) 55%),radial-gradient(900px 600px at 108% 120%,#34206b 0%,rgba(52,32,107,0) 50%),linear-gradient(150deg,#0b0e28 0%,#141149 55%,#1c1550 100%);}
 body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400px 500px at 50% -20%,rgba(62,125,246,0.10),transparent 60%);pointer-events:none;}
 .wrap{position:relative;z-index:2;display:flex;flex-direction:column;}
+.wrap.beat{border:4px solid #2BE38A;border-radius:24px;padding:26px 30px;background:rgba(43,227,138,0.045);box-shadow:0 0 34px rgba(43,227,138,0.40),inset 0 0 70px rgba(43,227,138,0.12);}
+.wrap.beat .hmeta .t{color:#2BE38A;}
 .mid{display:flex;flex-direction:column;}
 .hdr{display:flex;justify-content:space-between;align-items:flex-start;}
 .brand{display:flex;align-items:center;gap:14px;}
@@ -108,7 +110,7 @@ body:before{content:"";position:absolute;inset:0;background:radial-gradient(1400
 .foot .mk{font-family:'Grotesk';font-weight:700;font-size:14px;letter-spacing:3px;}
 .foot .mk span{color:var(--cyan);}
 .rule{height:1px;background:linear-gradient(90deg,rgba(255,255,255,0.10),rgba(255,255,255,0));margin-top:16px;}
-</style></head><body><div class="wrap">
+</style></head><body><div class="wrap {{WRAPCLASS}}">
 <div class="hdr">
  <div class="brand"><div class="logo"></div><div class="txt"><div class="n">FLOWSTATE ALPHA</div><div class="s">MARKET BREAKDOWN</div></div></div>
  <div class="hmeta"><div class="d">{{DATELINE}}</div><div class="t">{{TAG}}</div></div>
@@ -189,6 +191,7 @@ def build_html(d):
         "VERDICT_CHIP": vchip,
         "VERDICT_DELTA": f'Surprise: <span style="color:{CM}">Rev {pct1(d["rev_surprise"])} · EPS {pct1(d["eps_surprise"])}</span>',
         "TAGS": tags,
+        "WRAPCLASS": ("beat" if beats == 2 else ""),
         "SRCNOTE": d.get("source_note", "as reported by Benzinga"),
     }
     html = TEMPLATE
@@ -217,6 +220,9 @@ def render(d, out_png):
     with open(html_path, "w") as f:
         f.write(html)
     chrome = find_chrome()
+    # Render into a tall window, then crop off the uncovered area so the final
+    # image is exactly content-height (this headless build sizes the page to
+    # content and pads the rest of the window, so we trim the padding).
     cmd = [chrome, "--headless", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
            "--force-device-scale-factor=2", "--window-size=1200,1400",
            f"--screenshot={out_png}", "file://" + html_path]
@@ -232,14 +238,14 @@ def _crop_to_content(png):
     im = Image.open(png).convert("RGB")
     W, H = im.size
     px = im.load()
-    margin = 84
+    margin = 84  # ~42px @1x of breathing room below the footer
     def is_content_row(y):
         bright = dark = False
         for x in range(0, W, 5):
             r, g, b = px[x, y]
-            if r > 150 or g > 165 or b > 205:
+            if r > 150 or g > 165 or b > 205:      # text / marks
                 bright = True
-            elif r < 60 and g < 60 and b < 120:
+            elif r < 60 and g < 60 and b < 120:    # navy gradient (not white padding)
                 dark = True
             if bright and dark:
                 return True
@@ -255,7 +261,8 @@ def _crop_to_content(png):
 
 
 if __name__ == "__main__":
+    # quick self-test with fixture data
     import json
-    fixture = json.loads(sys.argv[1]) if len(sys.argv) > 1 else {}
+    fixture = json.loads(ssys.argv[1]) if len(sys.argv) > 1 else {}
     render(fixture, os.path.join(HERE, "test_out.png"))
     print("wrote", os.path.join(HERE, "test_out.png"))
