@@ -1,1 +1,84 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIEZsb3dzdGF0ZSBBbHBoYSByZWFsLXRpbWUgd29ya2VyIOKAlCBvbmUtc2hvdCBzZXR1cCBmb3IgYSBmcmVzaCBVYnVudHUgVk0KIyAoT3JhY2xlIENsb3VkIEFsd2F5cyBGcmVlIEFSTS9BTUQsIEdDUCBlMi1taWNybywgb3IgYW55IGFsd2F5cy1vbiBMaW51eCBib3gpLgojCiMgVXNhZ2U6CiMgICBzdWRvIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQ2hhc2luZ3Bvdy9mbG93c3RhdGUtZWFybmluZ3MtYm90IC9vcHQvZmxvd3N0YXRlLWVhcm5pbmdzLWJvdAojICAgY2QgL29wdC9mbG93c3RhdGUtZWFybmluZ3MtYm90L2RlcGxveQojICAgc3VkbyBiYXNoIGJvb3RzdHJhcC5zaAojICAgc3VkbyBuYW5vIC9vcHQvZmxvd3N0YXRlLWVhcm5pbmdzLWJvdC8uZW52ICAgICAgIyBwYXN0ZSBGTVAgKyBEaXNjb3JkIHNlY3JldHMKIyAgIHN1ZG8gc3lzdGVtY3RsIHJlc3RhcnQgZmxvd3N0YXRlLXdvcmtlcgojICAgam91cm5hbGN0bCAtdSBmbG93c3RhdGUtd29ya2VyIC1mICAgICAgICAgICAgICAgIyB3YXRjaCBpdCBsaXZlCnNldCAtZXVvIHBpcGVmYWlsCgpSRVBPPSIvb3B0L2Zsb3dzdGF0ZS1lYXJuaW5ncy1ib3QiClNDUklQVF9ESVI9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iKSIgJiYgcHdkKSIKIyBpZiBydW4gZnJvbSBpbnNpZGUgYSBkaWZmZXJlbnRseS1sb2NhdGVkIGNoZWNrb3V0LCB1c2UgdGhhdCBhcyB0aGUgcmVwbyByb290CmlmIFsgLWYgIiRTQ1JJUFRfRElSLy4uL3dvcmtlci5weS5nei5iNjQiIF0gfHwgWyAtZiAiJFNDUklQVF9ESVIvLi4vd29ya2VyLnB5IiBdOyB0aGVuIFJFUE89IiQoY2QgIiRTQ1JJUFRfRElSLy4uIiAmJiBwd2QpIjsgZmkKZWNobyAiPT0+IHJlcG86ICRSRVBPIgoKIyB3b3JrZXIucHkgaXMgc2hpcHBlZCBwYWNrZWQgKHdvcmtlci5weS5nei5iNjQpIHRvIHN1cnZpdmUgdHJhbnNwb3J0OyB1bnBhY2sgaXQuCmlmIFsgLWYgIiRSRVBPL3dvcmtlci5weS5nei5iNjQiIF07IHRoZW4KICBlY2hvICI9PT4gdW5wYWNraW5nIHdvcmtlci5weSBmcm9tIHdvcmtlci5weS5nei5iNjQiCiAgYmFzZTY0IC1kICIkUkVQTy93b3JrZXIucHkuZ3ouYjY0IiB8IGd1bnppcCA+ICIkUkVQTy93b3JrZXIucHkiCiAgcHl0aG9uMyAtYyAiaW1wb3J0IGFzdCxzeXM7IGFzdC5wYXJzZShvcGVuKCckUkVQTy93b3JrZXIucHknKS5yZWFkKCkpOyBwcmludCgnICAgd29ya2VyLnB5IE9LJykiIFwKICAgIHx8IHsgZWNobyAnISEgd29ya2VyLnB5IGZhaWxlZCB0byB1bnBhY2svcGFyc2UnOyBleGl0IDE7IH0KZmkKCmVjaG8gIj09PiBpbnN0YWxsaW5nIHN5c3RlbSBwYWNrYWdlcyIKZXhwb3J0IERFQklBTl9GUk9OVEVORD1ub25pbnRlcmFjdGl2ZQphcHQtZ2V0IHVwZGF0ZSAteQphcHQtZ2V0IGluc3RhbGwgLXkgcHl0aG9uMyBweXRob24zLXBpcCBnaXQgY3VybCBjYS1jZXJ0aWZpY2F0ZXMgZm9udGNvbmZpZyBjaHJvbWl1bS1icm93c2VyIHx8IFwKICBhcHQtZ2V0IGluc3RhbGwgLXkgcHl0aG9uMyBweXRob24zLXBpcCBnaXQgY3VybCBjYS1jZXJ0aWZpY2F0ZXMgZm9udGNvbmZpZyBjaHJvbWl1bQoKIyBsb2NhdGUgdGhlIGNocm9taXVtIGJpbmFyeSAoYXB0IGRlYiwgc25hcCwgb3IgdHJhbnNpdGlvbmFsKQpDSFJPTUU9IiIKZm9yIGMgaW4gY2hyb21pdW0tYnJvd3NlciBjaHJvbWl1bSAvc25hcC9iaW4vY2hyb21pdW0gL3Vzci9iaW4vY2hyb21pdW0tYnJvd3NlciAvdXNyL2Jpbi9jaHJvbWl1bTsgZG8KICBpZiBjb21tYW5kIC12ICIkYyIgPi9kZXYvbnVsbCAyPiYxOyB0aGVuIENIUk9NRT0iJChjb21tYW5kIC12ICIkYyIpIjsgYnJlYWs7IGZpCiAgaWYgWyAteCAiJGMiIF07IHRoZW4gQ0hST01FPSIkYyI7IGJyZWFrOyBmaQpkb25lCmlmIFsgLXogIiRDSFJPTUUiIF07IHRoZW4KICBlY2hvICIhISBjaHJvbWl1bSBub3QgZm91bmQgdmlhIGFwdDsgaW5zdGFsbGluZyB2aWEgc25hcCIKICBzbmFwIGluc3RhbGwgY2hyb21pdW0gfHwgdHJ1ZQogIENIUk9NRT0iL3NuYXAvYmluL2Nocm9taXVtIgpmaQplY2hvICI9PT4gY2hyb21pdW06ICRDSFJPTUUiCgplY2hvICI9PT4gcHl0aG9uIGRlcHMiCnBpcDMgaW5zdGFsbCAtLW5vLWlucHV0IC1yICIkUkVQTy9yZXF1aXJlbWVudHMudHh0IgoKZWNobyAiPT0+IGZvbnRzIChJbnRlciArIFNwYWNlIEdyb3Rlc2sgZnJvbSB0aGUgZm9udHNvdXJjZSBDRE4pIgpta2RpciAtcCAiJFJFUE8vZm9udHMiCmRsKCkgeyBjdXJsIC1mc1NMICIkMSIgLW8gIiQyIiAmJiBlY2hvICIgICBnb3QgJChiYXNlbmFtZSAiJDIiKSIgfHwgZWNobyAiICAgKHNraXAgJChiYXNlbmFtZSAiJDIiKSkiOyB9CkJBU0U9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9ucG0iCmRsICIkQkFTRS9AZm9udHNvdXJjZS9pbnRlci9maWxlcy9pbnRlci1sYXRpbi00MDAtbm9ybWFsLndvZmYyIiAiJFJFUE8vZm9udHMvaW50ZXItNDAwLndvZmYyIgpkbCAiJEJBU0UvQGZvbnRzb3VyY2UvaW50ZXIvZmlsZXMvaW50ZXItbGF0aW4tNTAwLW5vcm1hbC53b2ZmMiIgIiRSRVBPL2ZvbnRzL2ludGVyLTUwMC53b2ZmMiIKZGwgIiRCQVNFL0Bmb250c291cmNlL2ludGVyL2ZpbGVzL2ludGVyLWxhdGluLTYwMC1ub3JtYWwud29mZjIiICIkUkVQTy9mb250cy9pbnRlci02MDAud29mZjIiCmRsICIkQkFTRS9AZm9udHNvdXJjZS9pbnRlci9maWxlcy9pbnRlci1sYXRpbi03MDAtbm9ybWFsLndvZmYyIiAiJFJFUE8vZm9udHMvaW50ZXItNzAwLndvZmYyIgpkbCAiJEJBU0UvQGZvbnRzb3VyY2UvaW50ZXIvZmlsZXMvaW50ZXItbGF0aW4tODAwLW5vcm1hbC53b2ZmMiIgIiRSRVBPL2ZvbnRzL2ludGVyLTgwMC53b2ZmMiIKZGwgIiRCQVNFL0Bmb250c291cmNlL3NwYWNlLWdyb3Rlc2svZmlsZXMvc3BhY2UtZ3JvdGVzay1sYXRpbi01MDAtbm9ybWFsLndvZmYyIiAiJFJFUE8vZm9udHMvZ3JvdGVzay01MDAud29mZjIiCmRsICIkQkFTRS9AZm9udHNvdXJjZS9zcGFjZS1ncm90ZXNrL2ZpbGVzL3NwYWNlLWdyb3Rlc2stbGF0aW4tNzAwLW5vcm1hbC53b2ZmMiIgIiRSRVBPL2ZvbnRzL2dyb3Rlc2stNzAwLndvZmYyIgoKZWNobyAiPT0+IC5lbnYiCmlmIFsgISAtZiAiJFJFUE8vLmVudiIgXTsgdGhlbgogIGNwICIkUkVQTy9kZXBsb3kvLmVudi5leGFtcGxlIiAiJFJFUE8vLmVudiIKICBzZWQgLWkgInMjXkNIUk9NRV9CSU49LiojQ0hST01FX0JJTj0kQ0hST01FIyIgIiRSRVBPLy5lbnYiCiAgY2htb2QgNjAwICIkUkVQTy8uZW52IgogIGVjaG8gIiAgIGNyZWF0ZWQgJFJFUE8vLmVudiDigJQgRURJVCBJVCBhbmQgcGFzdGUgRk1QX0FQSV9LRVkgKyBESVNDT1JEX1dFQkhPT0tfVVJMIgplbHNlCiAgZWNobyAiICAgJFJFUE8vLmVudiBhbHJlYWR5IGV4aXN0czsgbGVhdmluZyBpdCIKZmkKbWtkaXIgLXAgIiRSRVBPL3N0YXRlIgoKZWNobyAiPT0+IHN5c3RlbWQgc2VydmljZSIKaW5zdGFsbCAtbSA2NDQgIiRSRVBPL2RlcGxveS9mbG93c3RhdGUtd29ya2VyLnNlcnZpY2UiIC9ldGMvc3lzdGVtZC9zeXN0ZW0vZmxvd3N0YXRlLXdvcmtlci5zZXJ2aWNlCnN5c3RlbWN0bCBkYWVtb24tcmVsb2FkCnN5c3RlbWN0bCBlbmFibGUgZmxvd3N0YXRlLXdvcmtlcgplY2hvICIiCmVjaG8gIj09PiBET05FLiBOZXh0OiIKZWNobyAiICAgMSkgc3VkbyBuYW5vICRSRVBPLy5lbnYgICAgICAgICMgcGFzdGUgeW91ciBGTVAgKyBEaXNjb3JkIHNlY3JldHMiCmVjaG8gIiAgIDIpIHN1ZG8gc3lzdGVtY3RsIHJlc3RhcnQgZmxvd3N0YXRlLXdvcmtlciIKZWNobyAiICAgMykgam91cm5hbGN0bCAtdSBmbG93c3RhdGUtd29ya2VyIC1mICAgIyB3YXRjaCBpdCIKZWNobyAiIgplY2hvICIgICBUaXA6IHNldCBTRUxGVEVTVF9USUNLRVI9QUFQTCBpbiAuZW52IG9uY2UsIHJlc3RhcnQsIGFuZCBpdCB3aWxsIHBvc3QiCmVjaG8gIiAgIG9uZSBjYXJkIGltbWVkaWF0ZWx5IHNvIHlvdSBjYW4gY29uZmlybSByZW5kZXJpbmcgKyBwb3N0aW5nIHdvcmsuIgo=
+#!/usr/bin/env bash
+# Flowstate Alpha real-time worker — one-shot setup for a fresh Ubuntu VM
+# (Oracle Cloud Always Free ARM/AMD, GCP e2-micro, or any always-on Linux box).
+#
+# Usage:
+#   sudo git clone https://github.com/Chasingpow/flowstate-earnings-bot /opt/flowstate-earnings-bot
+#   cd /opt/flowstate-earnings-bot/deploy
+#   sudo bash bootstrap.sh
+#   sudo nano /opt/flowstate-earnings-bot/.env      # paste FMP + Discord secrets
+#   sudo systemctl restart flowstate-worker
+#   journalctl -u flowstate-worker -f               # watch it live
+set -euo pipefail
+
+REPO="/opt/flowstate-earnings-bot"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# if run from inside a differently-located checkout, use that as the repo root
+if [ -f "$SCRIPT_DIR/../worker.py.gz.b64" ] || [ -f "$SCRIPT_DIR/../worker.py" ]; then REPO="$(cd "$SCRIPT_DIR/.." && pwd)"; fi
+echo "==> repo: $REPO"
+
+# worker.py is shipped packed (worker.py.gz.b64) to survive transport; unpack it.
+if [ -f "$REPO/worker.py.gz.b64" ]; then
+  echo "==> unpacking worker.py from worker.py.gz.b64"
+  base64 -d "$REPO/worker.py.gz.b64" | gunzip > "$REPO/worker.py"
+  python3 -c "import ast,sys; ast.parse(open('$REPO/worker.py').read()); print('   worker.py OK')" \
+    || { echo '!! worker.py failed to unpack/parse'; exit 1; }
+fi
+
+echo "==> installing system packages"
+export DEBIAN_FRONTEND=noninteractive
+apt-get update -y
+apt-get install -y python3 python3-pip git curl ca-certificates fontconfig chromium-browser || \
+  apt-get install -y python3 python3-pip git curl ca-certificates fontconfig chromium
+
+# locate the chromium binary (apt deb, snap, or transitional)
+CHROME=""
+for c in chromium-browser chromium /snap/bin/chromium /usr/bin/chromium-browser /usr/bin/chromium; do
+  if command -v "$c" >/dev/null 2>&1; then CHROME="$(command -v "$c")"; break; fi
+  if [ -x "$c" ]; then CHROME="$c"; break; fi
+done
+if [ -z "$CHROME" ]; then
+  echo "!! chromium not found via apt; installing via snap"
+  snap install chromium || true
+  CHROME="/snap/bin/chromium"
+fi
+echo "==> chromium: $CHROME"
+
+echo "==> python deps"
+pip3 install --no-input -r "$REPO/requirements.txt"
+
+echo "==> fonts (Inter + Space Grotesk from the fontsource CDN)"
+mkdir -p "$REPO/fonts"
+dl() { curl -fsSL "$1" -o "$2" && echo "   got $(basename "$2")" || echo "   (skip $(basename "$2"))"; }
+BASE="https://cdn.jsdelivr.net/npm"
+dl "$BASE/@fontsource/inter/files/inter-latin-400-normal.woff2" "$REPO/fonts/inter-400.woff2"
+dl "$BASE/@fontsource/inter/files/inter-latin-500-normal.woff2" "$REPO/fonts/inter-500.woff2"
+dl "$BASE/@fontsource/inter/files/inter-latin-600-normal.woff2" "$REPO/fonts/inter-600.woff2"
+dl "$BASE/@fontsource/inter/files/inter-latin-700-normal.woff2" "$REPO/fonts/inter-700.woff2"
+dl "$BASE/@fontsource/inter/files/inter-latin-800-normal.woff2" "$REPO/fonts/inter-800.woff2"
+dl "$BASE/@fontsource/space-grotesk/files/space-grotesk-latin-500-normal.woff2" "$REPO/fonts/grotesk-500.woff2"
+dl "$BASE/@fontsource/space-grotesk/files/space-grotesk-latin-700-normal.woff2" "$REPO/fonts/grotesk-700.woff2"
+
+echo "==> .env"
+if [ ! -f "$REPO/.env" ]; then
+  cp "$REPO/deploy/.env.example" "$REPO/.env"
+  sed -i "s#^CHROME_BIN=.*#CHROME_BIN=$CHROME#" "$REPO/.env"
+  chmod 600 "$REPO/.env"
+  echo "   created $REPO/.env — EDIT IT and paste FMP_API_KEY + DISCORD_WEBHOOK_URL"
+else
+  echo "   $REPO/.env already exists; leaving it"
+fi
+mkdir -p "$REPO/state"
+
+echo "==> systemd service"
+install -m 644 "$REPO/deploy/flowstate-worker.service" /etc/systemd/system/flowstate-worker.service
+systemctl daemon-reload
+systemctl enable flowstate-worker
+echo ""
+echo "==> DONE. Next:"
+echo "   1) sudo nano $REPO/.env        # paste your FMP + Discord secrets"
+echo "   2) sudo systemctl restart flowstate-worker"
+echo "   3) journalctl -u flowstate-worker -f   # watch it"
+echo ""
+echo "   Tip: set SELFTEST_TICKER=AAPL in .env once, restart, and it will post"
+echo "   one card immediately so you can confirm rendering + posting work."

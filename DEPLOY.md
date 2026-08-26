@@ -1,1 +1,94 @@
-IyBGbG93c3RhdGUgQWxwaGEg4oCUIHJlYWwtdGltZSB3b3JrZXIgZGVwbG95CgpUaGlzIHJ1bnMgdGhlIGVhcm5pbmdzIGJvdCBhcyBhbiAqKmFsd2F5cy1vbiBzZXJ2aWNlKiogc28gaXQgcG9zdHMgKnRoZSBtb21lbnQqCmEgY29tcGFueSByZXBvcnRzLCBpbnN0ZWFkIG9mIHdhaXRpbmcgZm9yIGEgc2NoZWR1bGVkIHN3ZWVwLiBJdCB3YXRjaGVzIHRoZSBTRUMKRURHQVIgbGl2ZSA4LUsgZmVlZCBmb3IgbmFtZXMgZXhwZWN0ZWQgdG8gcmVwb3J0IHRvZGF5IGFuZCBmaXJlcyBhbiBpbnN0YW50CkRpc2NvcmQgcGluZyB3aXRoaW4gfjHigJMyIG1pbnV0ZXMgb2YgdGhlIHJlbGVhc2UsIHRoZW4gcG9zdHMgdGhlIGZ1bGwgY2FyZCBvbmNlCnRoZSBzdHJ1Y3R1cmVkIG51bWJlcnMgbGFuZCBvbiBGTVAuCgpZb3UgbmVlZCBvbmUgc21hbGwgTGludXggVk0gdGhhdCBzdGF5cyBvbiAyNC83LiBGcmVlIG9wdGlvbnMgYmVsb3cuCgotLS0KCiMjIE9wdGlvbiBBIOKAlCBPcmFjbGUgQ2xvdWQgQWx3YXlzIEZyZWUgKHJlY29tbWVuZGVkLCAkMCBmb3JldmVyKQoKMS4gKipDcmVhdGUgYW4gYWNjb3VudCoqIGF0IGNsb3VkLm9yYWNsZS5jb20gKGEgY2FyZCBpcyByZXF1aXJlZCBmb3IgaWRlbnRpdHkKICAgdmVyaWZpY2F0aW9uLCBidXQgQWx3YXlzIEZyZWUgcmVzb3VyY2VzIGFyZSBuZXZlciBjaGFyZ2VkKS4gUGljayBhIGhvbWUKICAgcmVnaW9uIGNsb3NlIHRvIHlvdS4KCjIuICoqQ3JlYXRlIGEgVk0gaW5zdGFuY2UqKjogTWVudSDihpIgQ29tcHV0ZSDihpIgSW5zdGFuY2VzIOKGkiBDcmVhdGUgaW5zdGFuY2UuCiAgIC0gSW1hZ2U6ICoqQ2Fub25pY2FsIFVidW50dSAyMi4wNCoqLgogICAtIFNoYXBlOiAqKlZNLlN0YW5kYXJkLkExLkZsZXgqKiAoQW1wZXJlL0FSTSwgQWx3YXlzIEZyZWUg4oCUIDEgT0NQVSAvIDYgR0IgaXMKICAgICBwbGVudHkpLiBJZiBBMSBzaG93cyAib3V0IG9mIGNhcGFjaXR5LCIgdXNlICoqVk0uU3RhbmRhcmQuRTIuMS5NaWNybyoqCiAgICAgKEFNRCwgYWxzbyBBbHdheXMgRnJlZSkgb3IgdHJ5IGFub3RoZXIgYXZhaWxhYmlsaXR5IGRvbWFpbi4KICAgLSBBZGQgeW91ciBTU0ggcHVibGljIGtleSAob3IgbGV0IGl0IGdlbmVyYXRlIG9uZSBhbmQgZG93bmxvYWQgaXQpLgogICAtIENyZWF0ZS4KCjMuICoqT3BlbiBvdXRib3VuZCBvbmx5Kiog4oCUIG5vIGluYm91bmQgcG9ydHMgbmVlZGVkOyB0aGUgd29ya2VyIG9ubHkgbWFrZXMKICAgb3V0Ym91bmQgY2FsbHMgdG8gU0VDL0ZNUC9EaXNjb3JkLiBEZWZhdWx0IGVncmVzcyBpcyBvcGVuLCBzbyBub3RoaW5nIHRvIGRvLgoKNC4gKipTU0ggaW4qKjogYHNzaCB1YnVudHVAPHB1YmxpYy1pcD5gIChVYnVudHUgaW1hZ2VzIHVzZSB1c2VyIGB1YnVudHVgKS4KCjUuICoqSW5zdGFsbCBhbmQgcnVuKio6CiAgIGBgYGJhc2gKICAgc3VkbyBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL0NoYXNpbmdwb3cvZmxvd3N0YXRlLWVhcm5pbmdzLWJvdCAvb3B0L2Zsb3dzdGF0ZS1lYXJuaW5ncy1ib3QKICAgY2QgL29wdC9mbG93c3RhdGUtZWFybmluZ3MtYm90L2RlcGxveQogICBzdWRvIGJhc2ggYm9vdHN0cmFwLnNoCiAgIHN1ZG8gbmFubyAvb3B0L2Zsb3dzdGF0ZS1lYXJuaW5ncy1ib3QvLmVudiAgICAgICMgcGFzdGUgRk1QX0FQSV9LRVkgKyBESVNDT1JEX1dFQkhPT0tfVVJMCiAgIHN1ZG8gc3lzdGVtY3RsIHJlc3RhcnQgZmxvd3N0YXRlLXdvcmtlcgogICBqb3VybmFsY3RsIC11IGZsb3dzdGF0ZS13b3JrZXIgLWYgICAgICAgICAgICAgICAjIHdhdGNoIGl0IGxpdmUgKEN0cmwtQyB0byBzdG9wIHdhdGNoaW5nKQogICBgYGAKICAgSWYgdGhlIHJlcG8gaXMgcHJpdmF0ZSwgY2xvbmUgd2l0aCBhIHRva2VuIGluc3RlYWQ6CiAgIGBzdWRvIGdpdCBjbG9uZSBodHRwczovLzxZT1VSX0dJVEhVQl9QQVQ+QGdpdGh1Yi5jb20vQ2hhc2luZ3Bvdy9mbG93c3RhdGUtZWFybmluZ3MtYm90IC9vcHQvZmxvd3N0YXRlLWVhcm5pbmdzLWJvdGAKCjYuICoqUHJvdmUgaXQgd29ya3MqKjogc2V0IGBTRUxGVEVTVF9USUNLRVI9QUFQTGAgaW4gYC5lbnZgLCBgc3VkbyBzeXN0ZW1jdGwKICAgcmVzdGFydCBmbG93c3RhdGUtd29ya2VyYC4gV2l0aGluIGEgZmV3IHNlY29uZHMgYW4gQUFQTCBjYXJkIHNob3VsZCBwb3N0IHRvCiAgIERpc2NvcmQuIFRoZW4gYmxhbmsgb3V0IGBTRUxGVEVTVF9USUNLRVJgIGFuZCByZXN0YXJ0IHRvIHJ1biBub3JtYWxseS4KClRoYXQncyBpdCDigJQgaXQgbm93IHJlc3RhcnRzIG9uIGNyYXNoIGFuZCBvbiBWTSByZWJvb3QgYXV0b21hdGljYWxseS4KCi0tLQoKIyMgT3B0aW9uIEIg4oCUIEdvb2dsZSBDbG91ZCBmcmVlIGUyLW1pY3JvIChhbHNvICQwKQoKU2FtZSBpZGVhLiBDcmVhdGUgYSBwcm9qZWN0IOKGkiBDb21wdXRlIEVuZ2luZSDihpIgVk0gaW5zdGFuY2Ug4oaSIG1hY2hpbmUgdHlwZQoqKmUyLW1pY3JvKiogaW4gYSBVUyBmcmVlLXRpZXIgcmVnaW9uICh1cy13ZXN0MS91cy1jZW50cmFsMS91cy1lYXN0MSksIFVidW50dQoyMi4wNCwgYWxsb3cgZGVmYXVsdCBlZ3Jlc3MuIFRoZW4gcnVuIHRoZSBzYW1lIGZpdmUgY29tbWFuZHMgZnJvbSBzdGVwIDUuCgotLS0KCiMjIE9wZXJhdGluZyBpdAoKLSAqKldhdGNoIGxvZ3M6KiogYGpvdXJuYWxjdGwgLXUgZmxvd3N0YXRlLXdvcmtlciAtZmAKLSAqKlJlc3RhcnQ6KiogYHN1ZG8gc3lzdGVtY3RsIHJlc3RhcnQgZmxvd3N0YXRlLXdvcmtlcmAKLSAqKlN0b3A6KiogYHN1ZG8gc3lzdGVtY3RsIHN0b3AgZmxvd3N0YXRlLXdvcmtlcmAKLSAqKlVwZGF0ZSBjb2RlOioqIGBjZCAvb3B0L2Zsb3dzdGF0ZS1lYXJuaW5ncy1ib3QgJiYgc3VkbyBnaXQgcHVsbCAmJiBzdWRvIHN5c3RlbWN0bCByZXN0YXJ0IGZsb3dzdGF0ZS13b3JrZXJgCi0gKipDaGFuZ2Ugc2V0dGluZ3M6KiogZWRpdCBgL29wdC9mbG93c3RhdGUtZWFybmluZ3MtYm90Ly5lbnZgLCB0aGVuIHJlc3RhcnQuCgojIyMgVGltaW5nIGtub2JzIChgLmVudmApCi0gYEVER0FSX1BPTExfU0VDYCDigJQgaG93IG9mdGVuIGl0IGNoZWNrcyB0aGUgOC1LIGZlZWQgKGRlZmF1bHQgMjBzKS4gVGhlIGluc3RhbnQKICBwaW5nIGxhbmRzIHdpdGhpbiByb3VnaGx5IHRoaXMgaW50ZXJ2YWwgKyBTRUMncyBvd24gcHVibGlzaCBsYWcgKH4x4oCTMiBtaW4pLgotIGBNSU5fTUFSS0VUX0NBUGAg4oCUIG9ubHkgcGluZy9wb3N0IG5hbWVzIGF0L2Fib3ZlIHRoaXMgY2FwIChkZWZhdWx0ICQyQikuCi0gYFBBUlNFX1BSRUxJTT0xYCDigJQgYWxzbyBwYXJzZSBwcmVsaW1pbmFyeSBFUFMvcmV2ZW51ZSBmcm9tIHRoZSBwcmVzcyByZWxlYXNlCiAgaW50byB0aGUgaW5zdGFudCBwaW5nLiBPZmYgYnkgZGVmYXVsdDsgdHVybiBvbiBvbmNlIHlvdSd2ZSBzZWVuIGl0IHJlYWQgYSBmZXcKICByZWxlYXNlcyBjb3JyZWN0bHkuCgojIyMgQXZvaWRpbmcgZG91YmxlIHBvc3RzIHdpdGggdGhlIG9sZCBjcm9uIGJvdApPbmNlIHRoZSB3b3JrZXIgaXMgdmFsaWRhdGVkLCAqKnR1cm4gb2ZmIHRoZSBHaXRIdWIgQWN0aW9ucyBzY2hlZHVsZSoqIHNvIHRoZQp3b3JrZXIgaXMgdGhlIHNpbmdsZSBhdXRvbWF0ZWQgcG9zdGVyIChrZWVwIGB3b3JrZmxvd19kaXNwYXRjaGAgZm9yIG1hbnVhbApiYWNrZmlsbHMpLiBDb21tZW50IG91dCB0aGUgdGhyZWUgYGNyb246YCBsaW5lcyBpbgpgLmdpdGh1Yi93b3JrZmxvd3MvZWFybmluZ3MueW1sYC4gVGhlIHR3byBzeXN0ZW1zIGtlZXAgc2VwYXJhdGUgZGUtZHVwZSBzdGF0ZSwKc28gbGVhdmluZyBib3RoIG9uIHRoZSBzY2hlZHVsZSBjYW4gZG91YmxlLXBvc3QuCgotLS0KCiMjIFdoYXQgIm9uIHRoZSBzcG90IiByZWFsbHkgbWVhbnMKCi0gKipJbnN0YW50IHBpbmcgKH4x4oCTMiBtaW4pOioqIEVER0FSIHB1Ymxpc2hlcyB0aGUgOC1LIHdpdGhpbiBhIGNvdXBsZSBtaW51dGVzCiAgb2YgdGhlIGNvbXBhbnkgZmlsaW5nIGl0OyB0aGUgd29ya2VyIGNhdGNoZXMgaXQgb24gdGhlIG5leHQgcG9sbCBhbmQgcGluZ3MuCiAgVGhpcyBpcyBhYm91dCBhcyBmYXN0IGFzIGlzIHBvc3NpYmxlIHdpdGhvdXQgYSBwYWlkIGxvdy1sYXRlbmN5IG5ld3MgZmVlZC4KLSAqKkZ1bGwgY2FyZCAocmVsZWFzZS1kZXBlbmRlbnQpOioqIHRoZSBicmFuZGVkIGNhcmQgbmVlZHMgc3RydWN0dXJlZCBudW1iZXJzLAogIHdoaWNoIEZNUCBwb3B1bGF0ZXMgbWludXRlcyB0byB0ZW5zIG9mIG1pbnV0ZXMgYWZ0ZXIgdGhlIHJlbGVhc2UuIFRoZSBwaW5nIGlzCiAgd2hhdCBnZXRzIHlvdSBsb29raW5nICpiZWZvcmUqIHRoYXQuCi0gVHVybmluZyBvbiBgUEFSU0VfUFJFTElNYCBwdXRzIHVub2ZmaWNpYWwgbnVtYmVycyBpbiB0aGUgcGluZyBpdHNlbGYsIGNsb3NpbmcKICBtb3N0IG9mIHRoYXQgZ2FwIGZvciB0aGUgYmlnIG5hbWVzIOKAlCB2ZXJpZnkgYWdhaW5zdCB0aGUgbGlua2VkIGZpbGluZy4K
+# Flowstate Alpha — real-time worker deploy
+
+This runs the earnings bot as an **always-on service** so it posts *the moment*
+a company reports, instead of waiting for a scheduled sweep. It watches the SEC
+EDGAR live 8-K feed for names expected to report today and fires an instant
+Discord ping within ~1–2 minutes of the release, then posts the full card once
+the structured numbers land on FMP.
+
+You need one small Linux VM that stays on 24/7. Free options below.
+
+---
+
+## Option A — Oracle Cloud Always Free (recommended, $0 forever)
+
+1. **Create an account** at cloud.oracle.com (a card is required for identity
+   verification, but Always Free resources are never charged). Pick a home
+   region close to you.
+
+2. **Create a VM instance**: Menu → Compute → Instances → Create instance.
+   - Image: **Canonical Ubuntu 22.04**.
+   - Shape: **VM.Standard.A1.Flex** (Ampere/ARM, Always Free — 1 OCPU / 6 GB is
+     plenty). If A1 shows "out of capacity," use **VM.Standard.E2.1.Micro**
+     (AMD, also Always Free) or try another availability domain.
+   - Add your SSH public key (or let it generate one and download it).
+   - Create.
+
+3. **Open outbound only** — no inbound ports needed; the worker only makes
+   outbound calls to SEC/FMP/Discord. Default egress is open, so nothing to do.
+
+4. **SSH in**: `ssh ubuntu@<public-ip>` (Ubuntu images use user `ubuntu`).
+
+5. **Install and run**:
+   ```bash
+   sudo git clone https://github.com/Chasingpow/flowstate-earnings-bot /opt/flowstate-earnings-bot
+   cd /opt/flowstate-earnings-bot/deploy
+   sudo bash bootstrap.sh
+   sudo nano /opt/flowstate-earnings-bot/.env      # paste FMP_API_KEY + DISCORD_WEBHOOK_URL
+   sudo systemctl restart flowstate-worker
+   journalctl -u flowstate-worker -f               # watch it live (Ctrl-C to stop watching)
+   ```
+   If the repo is private, clone with a token instead:
+   `sudo git clone https://<YOUR_GITHUB_PAT>@github.com/Chasingpow/flowstate-earnings-bot /opt/flowstate-earnings-bot`
+
+6. **Prove it works**: set `SELFTEST_TICKER=AAPL` in `.env`, `sudo systemctl
+   restart flowstate-worker`. Within a few seconds an AAPL card should post to
+   Discord. Then blank out `SELFTEST_TICKER` and restart to run normally.
+
+That's it — it now restarts on crash and on VM reboot automatically.
+
+---
+
+## Option B — Google Cloud free e2-micro (also $0)
+
+Same idea. Create a project → Compute Engine → VM instance → machine type
+**e2-micro** in a US free-tier region (us-west1/us-central1/us-east1), Ubuntu
+22.04, allow default egress. Then run the same five commands from step 5.
+
+---
+
+## Operating it
+
+- **Watch logs:** `journalctl -u flowstate-worker -f`
+- **Restart:** `sudo systemctl restart flowstate-worker`
+- **Stop:** `sudo systemctl stop flowstate-worker`
+- **Update code:** `cd /opt/flowstate-earnings-bot && sudo git pull && sudo systemctl restart flowstate-worker`
+- **Change settings:** edit `/opt/flowstate-earnings-bot/.env`, then restart.
+
+### Timing knobs (`.env`)
+- `EDGAR_POLL_SEC` — how often it checks the 8-K feed (default 20s). The instant
+  ping lands within roughly this interval + SEC's own publish lag (~1–2 min).
+- `MIN_MARKET_CAP` — only ping/post names at/above this cap (default $2B).
+- `PARSE_PRELIM=1` — also parse preliminary EPS/revenue from the press release
+  into the instant ping. Off by default; turn on once you've seen it read a few
+  releases correctly.
+
+### Avoiding double posts with the old cron bot
+Once the worker is validated, **turn off the GitHub Actions schedule** so the
+worker is the single automated poster (keep `workflow_dispatch` for manual
+backfills). Comment out the three `cron:` lines in
+`.github/workflows/earnings.yml`. The two systems keep separate de-dupe state,
+so leaving both on the schedule can double-post.
+
+---
+
+## What "on the spot" really means
+
+- **Instant ping (~1–2 min):** EDGAR publishes the 8-K within a couple minutes
+  of the company filing it; the worker catches it on the next poll and pings.
+  This is about as fast as is possible without a paid low-latency news feed.
+- **Full card (release-dependent):** the branded card needs structured numbers,
+  which FMP populates minutes to tens of minutes after the release. The ping is
+  what gets you looking *before* that.
+- Turning on `PARSE_PRELIM` puts unofficial numbers in the ping itself, closing
+  most of that gap for the big names — verify against the linked filing.
