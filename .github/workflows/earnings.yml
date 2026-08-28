@@ -15,11 +15,13 @@ on:
         description: "Mark current reporters as posted WITHOUT posting (1 = seed). Run once on first deploy."
         required: false
         default: "0"
-  schedule:
-    # Times are UTC. US earnings cluster before the open (~10-14 UTC) and after the close (~20-02 UTC).
-    - cron: "*/15 9-14 * * 1-5"
-    - cron: "*/15 20-23 * * 1-5"
-    - cron: "*/15 0-2 * * 2-6"
+  # Cron disabled: the always-on realtime.yml worker is now the sole automated
+  # poster. This workflow stays for manual force-posts (workflow_dispatch with a
+  # test_ticker). To re-enable the old cron, uncomment the schedule below.
+  # schedule:
+  #   - cron: "*/15 9-14 * * 1-5"
+  #   - cron: "*/15 20-23 * * 1-5"
+  #   - cron: "*/15 0-2 * * 2-6"
 
 concurrency:
   group: earnings-poster
