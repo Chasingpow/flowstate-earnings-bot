@@ -1,7 +1,4 @@
 {
- "2026-08-31": {
-  "SAIC": "pinged"
- },
  "2026-09-01": {
   "RGS": "small",
   "MDT": "pinged",
@@ -38,5 +35,8 @@
   "PVH": "pinged",
   "AVGO": "pinged",
   "MTRX": "small"
+ },
+ "2026-09-03": {
+  "GOLD": "small"
  }
 }
