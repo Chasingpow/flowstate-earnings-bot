@@ -41,6 +41,8 @@
   "LE": "small",
   "BRC": "pinged",
   "VSXY": "pinged",
-  "CIEN": "pinged"
+  "CIEN": "pinged",
+  "GCO": "small",
+  "CPB": "pinged"
  }
 }
