@@ -62,6 +62,7 @@
   "SWBI": "small",
   "NX": "small",
   "EGAN": "small",
-  "AMBA": "pinged"
+  "AMBA": "pinged",
+  "PATH": "pinged"
  }
 }
