@@ -51,6 +51,7 @@
   "CURV": "small",
   "GWRE": "pinged",
   "AOUT": "small",
-  "BBCP": "small"
+  "BBCP": "small",
+  "ASAN": "pinged"
  }
 }
