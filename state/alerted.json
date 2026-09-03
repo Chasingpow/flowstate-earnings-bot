@@ -60,6 +60,8 @@
   "IOT": "pinged",
   "PDEX": "small",
   "SWBI": "small",
-  "NX": "small"
+  "NX": "small",
+  "EGAN": "small",
+  "AMBA": "pinged"
  }
 }
