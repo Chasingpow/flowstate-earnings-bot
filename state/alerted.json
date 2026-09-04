@@ -1,17 +1,4 @@
 {
- "2026-09-01": {
-  "RGS": "small",
-  "MDT": "pinged",
-  "MMED": "pinged",
-  "YEXT": "small",
-  "COPR": "small",
-  "CRDO": "pinged",
-  "MDB": "pinged",
-  "SPWH": "small",
-  "DELL": "pinged",
-  "GTLB": "pinged",
-  "PANW": "pinged"
- },
  "2026-09-02": {
   "OLLI": "pinged",
   "CXM": "small",
@@ -65,5 +52,8 @@
   "AMBA": "pinged",
   "PATH": "pinged",
   "GROW": "small"
+ },
+ "2026-09-04": {
+  "AOUT": "small"
  }
 }
