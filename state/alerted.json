@@ -1,28 +1,4 @@
 {
- "2026-09-02": {
-  "OLLI": "pinged",
-  "CXM": "small",
-  "GIII": "small",
-  "FCEL": "small",
-  "DAKT": "small",
-  "NTAP": "pinged",
-  "PHR": "small",
-  "HPE": "pinged",
-  "TLYS": "small",
-  "CHPT": "small",
-  "SCTX": "small",
-  "SNOW": "pinged",
-  "WOOF": "small",
-  "NTSK": "pinged",
-  "AI": "small",
-  "AGX": "pinged",
-  "ATTO": "small",
-  "FIVE": "pinged",
-  "MEI": "small",
-  "PVH": "pinged",
-  "AVGO": "pinged",
-  "MTRX": "small"
- },
  "2026-09-03": {
   "GOLD": "small",
   "LE": "small",
@@ -60,5 +36,8 @@
   "VIRC": "small",
   "LTGO": "small",
   "SWBI": "small"
+ },
+ "2026-09-08": {
+  "UNFI": "pinged"
  }
 }
