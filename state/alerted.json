@@ -1,34 +1,4 @@
 {
- "2026-09-03": {
-  "GOLD": "small",
-  "LE": "small",
-  "BRC": "pinged",
-  "VSXY": "pinged",
-  "CIEN": "pinged",
-  "GCO": "small",
-  "CPB": "pinged",
-  "DLTH": "small",
-  "TTC": "pinged",
-  "WLYB": "pinged",
-  "PL": "pinged",
-  "CURV": "small",
-  "GWRE": "pinged",
-  "AOUT": "small",
-  "BBCP": "small",
-  "ASAN": "pinged",
-  "LULU": "pinged",
-  "OXM": "small",
-  "ZS": "pinged",
-  "DOCU": "pinged",
-  "IOT": "pinged",
-  "PDEX": "small",
-  "SWBI": "small",
-  "NX": "small",
-  "EGAN": "small",
-  "AMBA": "pinged",
-  "PATH": "pinged",
-  "GROW": "small"
- },
  "2026-09-04": {
   "AOUT": "small",
   "PL": "pinged",
@@ -50,5 +20,8 @@
   "AVO": "small",
   "CASY": "pinged",
   "MIND": "small"
+ },
+ "2026-09-09": {
+  "JILL": "small"
  }
 }
