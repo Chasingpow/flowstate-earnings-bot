@@ -49,6 +49,8 @@
   "VNCE": "small",
   "FLWS": "small",
   "MCFT": "small",
-  "ADBE": "pinged"
+  "ADBE": "pinged",
+  "REF": "small",
+  "LPTH": "small"
  }
 }
