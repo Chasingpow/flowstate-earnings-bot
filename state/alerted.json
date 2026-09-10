@@ -1,12 +1,4 @@
 {
- "2026-09-04": {
-  "AOUT": "small",
-  "PL": "pinged",
-  "HURC": "small",
-  "VIRC": "small",
-  "LTGO": "small",
-  "SWBI": "small"
- },
  "2026-09-08": {
   "UNFI": "pinged",
   "ABM": "pinged",
@@ -48,5 +40,8 @@
   "CULP": "small",
   "COO": "pinged",
   "LSAK": "small"
+ },
+ "2026-09-10": {
+  "SHOE": "small"
  }
 }
