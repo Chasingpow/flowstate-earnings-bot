@@ -56,6 +56,7 @@
   "FEIM": "small",
   "ZUMZ": "small",
   "CPRT": "pinged",
-  "ORCL": "pinged"
+  "ORCL": "pinged",
+  "IBEX": "small"
  }
 }
