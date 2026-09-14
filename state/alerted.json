@@ -1,32 +1,4 @@
 {
- "2026-09-09": {
-  "JILL": "small",
-  "JMKE": "pinged",
-  "KFY": "pinged",
-  "SIG": "pinged",
-  "CHWY": "pinged",
-  "SUNB": "pinged",
-  "SAIL": "pinged",
-  "DXLG": "small",
-  "CNM": "pinged",
-  "IXHL": "small",
-  "PPIH": "small",
-  "CAL": "small",
-  "ASO": "pinged",
-  "CRMT": "small",
-  "LMNR": "small",
-  "AVAV": "pinged",
-  "WLTH": "small",
-  "SKIL": "small",
-  "GLOO": "small",
-  "RSSS": "small",
-  "LAKE": "small",
-  "KEQU": "small",
-  "AEO": "pinged",
-  "CULP": "small",
-  "COO": "pinged",
-  "LSAK": "small"
- },
  "2026-09-10": {
   "SHOE": "small",
   "DBI": "small",
@@ -51,5 +23,8 @@
   "KR": "pinged",
   "RENT": "small",
   "FIZZ": "pinged"
+ },
+ "2026-09-14": {
+  "HAIN": "small"
  }
 }
