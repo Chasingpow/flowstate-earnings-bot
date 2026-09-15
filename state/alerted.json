@@ -1,23 +1,4 @@
 {
- "2026-09-10": {
-  "SHOE": "small",
-  "DBI": "small",
-  "M": "pinged",
-  "LOVE": "small",
-  "VNCE": "small",
-  "FLWS": "small",
-  "MCFT": "small",
-  "ADBE": "pinged",
-  "REF": "small",
-  "LPTH": "small",
-  "GITS": "small",
-  "FEIM": "small",
-  "ZUMZ": "small",
-  "CPRT": "pinged",
-  "ORCL": "pinged",
-  "IBEX": "small",
-  "CSBR": "small"
- },
  "2026-09-11": {
   "HOFT": "small",
   "KR": "pinged",
@@ -29,5 +10,8 @@
   "KMTS": "small",
   "PLAY": "small",
   "RLGT": "small"
+ },
+ "2026-09-15": {
+  "FPS": "pinged"
  }
 }
