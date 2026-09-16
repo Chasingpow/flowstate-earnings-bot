@@ -1,10 +1,4 @@
 {
- "2026-09-11": {
-  "HOFT": "small",
-  "KR": "pinged",
-  "RENT": "small",
-  "FIZZ": "pinged"
- },
  "2026-09-14": {
   "HAIN": "small",
   "KMTS": "small",
@@ -16,5 +10,8 @@
   "VRA": "small",
   "EPM": "small",
   "HSCS": "small"
+ },
+ "2026-09-16": {
+  "LEN": "pinged"
  }
 }
