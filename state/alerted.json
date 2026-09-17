@@ -1,10 +1,4 @@
 {
- "2026-09-14": {
-  "HAIN": "small",
-  "KMTS": "small",
-  "PLAY": "small",
-  "RLGT": "small"
- },
  "2026-09-15": {
   "FPS": "pinged",
   "VRA": "small",
@@ -14,5 +8,8 @@
  "2026-09-16": {
   "LEN": "pinged",
   "ALMU": "small"
+ },
+ "2026-09-17": {
+  "ISPR": "small"
  }
 }
