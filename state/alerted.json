@@ -15,6 +15,7 @@
   "CBRL": "small",
   "CTAS": "pinged",
   "PAYX": "pinged",
-  "SFIX": "small"
+  "SFIX": "small",
+  "ATCH": "small"
  }
 }
