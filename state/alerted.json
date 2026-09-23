@@ -1,10 +1,4 @@
 {
- "2026-09-17": {
-  "ISPR": "small",
-  "HSCSW": "small",
-  "HUBG": "pinged",
-  "UPXI": "small"
- },
  "2026-09-21": {
   "EBF": "small"
  },
@@ -15,5 +9,8 @@
   "AYTU": "small",
   "KBH": "pinged",
   "WOR": "pinged"
+ },
+ "2026-09-23": {
+  "GIS": "pinged"
  }
 }
