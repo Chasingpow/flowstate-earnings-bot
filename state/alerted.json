@@ -1,7 +1,4 @@
 {
- "2026-09-21": {
-  "EBF": "small"
- },
  "2026-09-22": {
   "THO": "pinged",
   "AZO": "pinged",
@@ -18,5 +15,8 @@
   "SFIX": "small",
   "ATCH": "small",
   "NEOV": "small"
+ },
+ "2026-09-24": {
+  "DRI": "pinged"
  }
 }
