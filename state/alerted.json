@@ -1,12 +1,4 @@
 {
- "2026-09-22": {
-  "THO": "pinged",
-  "AZO": "pinged",
-  "MLKN": "small",
-  "AYTU": "small",
-  "KBH": "pinged",
-  "WOR": "pinged"
- },
  "2026-09-23": {
   "GIS": "pinged",
   "CBRL": "small",
@@ -24,5 +16,8 @@
   "FUL": "pinged",
   "RAVE": "small",
   "TRT": "small"
+ },
+ "2026-09-25": {
+  "TBN": "small"
  }
 }
