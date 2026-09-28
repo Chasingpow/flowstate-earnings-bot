@@ -1,13 +1,4 @@
 {
- "2026-09-23": {
-  "GIS": "pinged",
-  "CBRL": "small",
-  "CTAS": "pinged",
-  "PAYX": "pinged",
-  "SFIX": "small",
-  "ATCH": "small",
-  "NEOV": "small"
- },
  "2026-09-24": {
   "DRI": "pinged",
   "SNX": "pinged",
@@ -21,5 +12,8 @@
   "TBN": "small",
   "ASTC": "small",
   "NCPLW": "small"
+ },
+ "2026-09-28": {
+  "MTN": "pinged"
  }
 }
