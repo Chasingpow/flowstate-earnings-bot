@@ -1,13 +1,4 @@
 {
- "2026-09-24": {
-  "DRI": "pinged",
-  "SNX": "pinged",
-  "BB": "pinged",
-  "SFIX": "small",
-  "FUL": "pinged",
-  "RAVE": "small",
-  "TRT": "small"
- },
  "2026-09-25": {
   "TBN": "small",
   "ASTC": "small",
@@ -16,5 +7,8 @@
  "2026-09-28": {
   "MTN": "pinged",
   "JEF": "pinged"
+ },
+ "2026-09-29": {
+  "NTWK": "small"
  }
 }
