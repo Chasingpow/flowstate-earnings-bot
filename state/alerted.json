@@ -1,9 +1,4 @@
 {
- "2026-09-25": {
-  "TBN": "small",
-  "ASTC": "small",
-  "NCPLW": "small"
- },
  "2026-09-28": {
   "MTN": "pinged",
   "JEF": "pinged"
@@ -18,5 +13,8 @@
   "LUVU": "small",
   "MSS": "small",
   "CNXC": "small"
+ },
+ "2026-09-30": {
+  "CALM": "pinged"
  }
 }
