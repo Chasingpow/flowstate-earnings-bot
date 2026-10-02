@@ -1,15 +1,4 @@
 {
- "2026-09-29": {
-  "NTWK": "small",
-  "AIR": "pinged",
-  "UEC": "pinged",
-  "KMX": "pinged",
-  "CCL": "pinged",
-  "INTG": "small",
-  "LUVU": "small",
-  "MSS": "small",
-  "CNXC": "small"
- },
  "2026-09-30": {
   "CALM": "pinged",
   "FDS": "pinged",
@@ -22,5 +11,8 @@
   "AYI": "pinged",
   "MKC-V": "pinged",
   "NKE": "pinged"
+ },
+ "2026-10-02": {
+  "HUBG": "small"
  }
 }
