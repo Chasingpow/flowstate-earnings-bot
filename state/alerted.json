@@ -1,10 +1,4 @@
 {
- "2026-10-01": {
-  "ACN": "pinged",
-  "AYI": "pinged",
-  "MKC-V": "pinged",
-  "NKE": "pinged"
- },
  "2026-10-02": {
   "HUBG": "small"
  },
@@ -15,5 +9,8 @@
   "SAZ": "small",
   "STZ": "pinged",
   "PENG": "pinged"
+ },
+ "2026-10-07": {
+  "WS": "small"
  }
 }
