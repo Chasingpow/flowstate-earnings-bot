@@ -1,11 +1,4 @@
 {
- "2026-10-07": {
-  "WS": "small",
-  "RGP": "small",
-  "LEVI": "pinged",
-  "RELL": "small",
-  "APLD": "pinged"
- },
  "2026-10-08": {
   "PEP": "pinged",
   "HELE": "small",
@@ -21,5 +14,8 @@
   "DAL": "pinged",
   "HOVRW": "small",
   "ARTW": "small"
+ },
+ "2026-10-13": {
+  "DPZ": "pinged"
  }
 }
