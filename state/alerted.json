@@ -31,6 +31,7 @@
   "USB-PS": "pinged",
   "WABC": "small",
   "IBKR": "pinged",
-  "NTRP": "small"
+  "NTRP": "small",
+  "AA": "pinged"
  }
 }
