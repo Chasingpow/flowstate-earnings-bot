@@ -1,9 +1,4 @@
 {
- "2026-10-09": {
-  "DAL": "pinged",
-  "HOVRW": "small",
-  "ARTW": "small"
- },
  "2026-10-13": {
   "DPZ": "pinged",
   "UNTY": "small",
@@ -29,5 +24,8 @@
   "EQBK": "small",
   "CMTL": "small",
   "HOMB": "pinged"
+ },
+ "2026-10-15": {
+  "BNY": "pinged"
  }
 }
