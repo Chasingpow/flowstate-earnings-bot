@@ -30,6 +30,7 @@
   "PNC": "pinged",
   "USB-PS": "pinged",
   "WABC": "small",
-  "IBKR": "pinged"
+  "IBKR": "pinged",
+  "NTRP": "small"
  }
 }
