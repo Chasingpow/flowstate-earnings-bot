@@ -1,17 +1,4 @@
 {
- "2026-10-13": {
-  "DPZ": "pinged",
-  "UNTY": "small",
-  "UNH": "pinged",
-  "FBK": "pinged",
-  "NRIX": "pinged",
-  "WFC-PZ": "pinged",
-  "JPM-PM": "pinged",
-  "ACI": "pinged",
-  "GS-PD": "pinged",
-  "JNJ": "pinged",
-  "AZZ": "pinged"
- },
  "2026-10-14": {
   "BLK": "pinged",
   "MER-PK": "pinged",
@@ -40,5 +27,8 @@
   "SFNC": "pinged",
   "LOOP": "small",
   "CHRN": "small"
+ },
+ "2026-10-16": {
+  "MTB-PJ": "pinged"
  }
 }
