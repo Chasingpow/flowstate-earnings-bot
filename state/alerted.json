@@ -1,17 +1,4 @@
 {
- "2026-10-14": {
-  "BLK": "pinged",
-  "MER-PK": "pinged",
-  "SOTK": "small",
-  "STT-PG": "pinged",
-  "MS-PQ": "pinged",
-  "FAST": "pinged",
-  "PGR": "pinged",
-  "EDUC": "small",
-  "EQBK": "small",
-  "CMTL": "small",
-  "HOMB": "pinged"
- },
  "2026-10-15": {
   "BNY": "pinged",
   "PNC": "pinged",
@@ -39,5 +26,8 @@
   "ATLO": "small",
   "FFIN": "pinged",
   "WAFDP": "pinged"
+ },
+ "2026-10-19": {
+  "FITB-PA": "pinged"
  }
 }
