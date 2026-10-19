@@ -40,6 +40,7 @@
   "WAL-PA": "pinged",
   "RLI": "pinged",
   "STLD": "pinged",
-  "COSO": "small"
+  "COSO": "small",
+  "HBCP": "small"
  }
 }
