@@ -45,6 +45,7 @@
   "HAL": "pinged",
   "RTX": "pinged",
   "UCB": "pinged",
-  "VMI": "pinged"
+  "VMI": "pinged",
+  "VICR": "pinged"
  }
 }
