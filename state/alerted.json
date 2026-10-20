@@ -1,20 +1,4 @@
 {
- "2026-10-15": {
-  "BNY": "pinged",
-  "PNC": "pinged",
-  "USB-PS": "pinged",
-  "WABC": "small",
-  "IBKR": "pinged",
-  "NTRP": "small",
-  "AA": "pinged",
-  "INDB": "pinged",
-  "SCHW-PJ": "pinged",
-  "JBHT": "pinged",
-  "CNS": "pinged",
-  "SFNC": "pinged",
-  "LOOP": "small",
-  "CHRN": "small"
- },
  "2026-10-16": {
   "MTB-PJ": "pinged",
   "RF-PF": "pinged",
@@ -46,5 +30,8 @@
   "WTFCN": "small",
   "SMBK": "small",
   "RMCF": "small"
+ },
+ "2026-10-20": {
+  "NOC": "pinged"
  }
 }
