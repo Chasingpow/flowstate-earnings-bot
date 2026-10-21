@@ -104,6 +104,7 @@
   "LOB": "small",
   "IBM": "pinged",
   "WSBCO": "pinged",
-  "RS": "pinged"
+  "RS": "pinged",
+  "URI": "pinged"
  }
 }
