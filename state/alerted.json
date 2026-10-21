@@ -108,6 +108,9 @@
   "URI": "pinged",
   "HXL": "pinged",
   "STC": "small",
-  "EGBN": "small"
+  "EGBN": "small",
+  "TCBX": "small",
+  "LSBK": "small",
+  "WH": "pinged"
  }
 }
