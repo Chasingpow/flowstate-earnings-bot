@@ -81,6 +81,7 @@
   "HBNC": "small",
   "SEIC": "pinged",
   "KNX": "pinged",
-  "WCN": "pinged"
+  "WCN": "pinged",
+  "FRMEP": "pinged"
  }
 }
