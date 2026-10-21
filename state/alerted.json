@@ -69,6 +69,11 @@
   "CSX": "pinged",
   "META": "pinged",
   "ASIC": "small",
-  "TXN": "pinged"
+  "TXN": "pinged",
+  "FCCO": "small",
+  "OSBC": "small",
+  "MMLP": "small",
+  "CASH": "small",
+  "BBT": "pinged"
  }
 }
