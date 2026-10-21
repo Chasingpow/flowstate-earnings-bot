@@ -100,6 +100,8 @@
   "CCI": "pinged",
   "MOH": "pinged",
   "QS": "pinged",
-  "ESI": "pinged"
+  "ESI": "pinged",
+  "LOB": "small",
+  "IBM": "pinged"
  }
 }
