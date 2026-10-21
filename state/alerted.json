@@ -85,6 +85,7 @@
   "FRMEP": "pinged",
   "LVS": "pinged",
   "EGP": "pinged",
-  "KMI": "pinged"
+  "KMI": "pinged",
+  "WDFC": "pinged"
  }
 }
