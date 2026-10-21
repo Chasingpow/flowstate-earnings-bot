@@ -65,6 +65,7 @@
   "FMCB": "small",
   "FDBC": "small",
   "PNFP": "pinged",
-  "HTLD": "small"
+  "HTLD": "small",
+  "CSX": "pinged"
  }
 }
