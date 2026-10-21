@@ -82,6 +82,7 @@
   "SEIC": "pinged",
   "KNX": "pinged",
   "WCN": "pinged",
-  "FRMEP": "pinged"
+  "FRMEP": "pinged",
+  "LVS": "pinged"
  }
 }
