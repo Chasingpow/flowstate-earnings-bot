@@ -1,16 +1,4 @@
 {
- "2026-10-16": {
-  "MTB-PJ": "pinged",
-  "RF-PF": "pinged",
-  "TFC-PR": "pinged",
-  "CFG-PH": "pinged",
-  "TRV": "pinged",
-  "PBAM": "small",
-  "LADR": "small",
-  "ATLO": "small",
-  "FFIN": "pinged",
-  "WAFDP": "pinged"
- },
  "2026-10-19": {
   "FITB-PA": "pinged",
   "CLF": "pinged",
@@ -71,5 +59,8 @@
   "NPB": "small",
   "ALK": "pinged",
   "CB": "pinged"
+ },
+ "2026-10-21": {
+  "DHR": "pinged"
  }
 }
