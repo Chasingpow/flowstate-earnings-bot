@@ -75,6 +75,7 @@
   "MMLP": "small",
   "CASH": "small",
   "BBT": "pinged",
-  "EFSCP": "pinged"
+  "EFSCP": "pinged",
+  "ROL": "pinged"
  }
 }
