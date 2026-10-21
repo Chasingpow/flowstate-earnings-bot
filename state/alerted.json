@@ -115,6 +115,8 @@
   "FULTP": "pinged",
   "CATY": "pinged",
   "TRST": "small",
-  "BANR": "pinged"
+  "BANR": "pinged",
+  "FSBW": "small",
+  "GL-PD": "pinged"
  }
 }
