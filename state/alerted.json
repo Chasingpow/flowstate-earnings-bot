@@ -86,6 +86,7 @@
   "LVS": "pinged",
   "EGP": "pinged",
   "KMI": "pinged",
-  "WDFC": "pinged"
+  "WDFC": "pinged",
+  "TCBIO": "small"
  }
 }
