@@ -91,6 +91,8 @@
   "NTST": "small",
   "LRCX": "pinged",
   "TFIN": "small",
-  "MEDP": "pinged"
+  "MEDP": "pinged",
+  "RPT": "small",
+  "FAF": "pinged"
  }
 }
