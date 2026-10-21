@@ -66,6 +66,7 @@
   "FDBC": "small",
   "PNFP": "pinged",
   "HTLD": "small",
-  "CSX": "pinged"
+  "CSX": "pinged",
+  "META": "pinged"
  }
 }
