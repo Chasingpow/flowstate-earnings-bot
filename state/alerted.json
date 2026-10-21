@@ -87,6 +87,8 @@
   "EGP": "pinged",
   "KMI": "pinged",
   "WDFC": "pinged",
-  "TCBIO": "small"
+  "TCBIO": "small",
+  "NTST": "small",
+  "LRCX": "pinged"
  }
 }
