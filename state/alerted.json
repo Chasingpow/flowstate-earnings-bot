@@ -90,6 +90,7 @@
   "TCBIO": "small",
   "NTST": "small",
   "LRCX": "pinged",
-  "TFIN": "small"
+  "TFIN": "small",
+  "MEDP": "pinged"
  }
 }
