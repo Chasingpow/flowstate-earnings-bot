@@ -68,6 +68,7 @@
   "HTLD": "small",
   "CSX": "pinged",
   "META": "pinged",
-  "ASIC": "small"
+  "ASIC": "small",
+  "TXN": "pinged"
  }
 }
