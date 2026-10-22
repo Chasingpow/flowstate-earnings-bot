@@ -190,6 +190,7 @@
   "ASB-PF": "pinged",
   "FPH": "small",
   "SIGIP": "pinged",
-  "SAM": "pinged"
+  "SAM": "pinged",
+  "BCML": "small"
  }
 }
