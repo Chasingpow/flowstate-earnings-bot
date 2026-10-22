@@ -144,6 +144,7 @@
   "STBA": "small",
   "CNOBP": "small",
   "COCO": "pinged",
-  "UNP": "pinged"
+  "UNP": "pinged",
+  "UBSI": "pinged"
  }
 }
