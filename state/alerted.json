@@ -1,24 +1,4 @@
 {
- "2026-10-19": {
-  "FITB-PA": "pinged",
-  "CLF": "pinged",
-  "DX-PC": "small",
-  "SFBS": "pinged",
-  "ZIONP": "pinged",
-  "BOKF": "pinged",
-  "CCK": "pinged",
-  "WASH": "small",
-  "WRB-PH": "pinged",
-  "WAL-PA": "pinged",
-  "RLI": "pinged",
-  "STLD": "pinged",
-  "COSO": "small",
-  "HBCP": "small",
-  "RBB": "small",
-  "WTFCN": "small",
-  "SMBK": "small",
-  "RMCF": "small"
- },
  "2026-10-20": {
   "NOC": "pinged",
   "SYF-PB": "pinged",
@@ -123,5 +103,8 @@
   "EPRT": "pinged",
   "CACI": "pinged",
   "GTY": "small"
+ },
+ "2026-10-22": {
+  "BANF": "pinged"
  }
 }
