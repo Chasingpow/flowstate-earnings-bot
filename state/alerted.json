@@ -147,6 +147,8 @@
   "UNP": "pinged",
   "UBSI": "pinged",
   "ACNB": "small",
-  "NSC": "pinged"
+  "NSC": "pinged",
+  "CASS": "small",
+  "VLO": "pinged"
  }
 }
