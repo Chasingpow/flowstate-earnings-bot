@@ -140,6 +140,7 @@
   "CIVB": "small",
   "TSCO": "pinged",
   "NDAQ": "pinged",
-  "PHM": "pinged"
+  "PHM": "pinged",
+  "STBA": "small"
  }
 }
