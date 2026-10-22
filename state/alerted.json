@@ -161,6 +161,9 @@
   "APPF": "pinged",
   "WDC": "pinged",
   "RHI": "pinged",
-  "KN": "pinged"
+  "KN": "pinged",
+  "BHRB": "small",
+  "MSBIP": "small",
+  "NEM": "pinged"
  }
 }
