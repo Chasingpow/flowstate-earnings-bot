@@ -158,6 +158,7 @@
   "DAIO": "small",
   "USCB": "small",
   "SHBI": "small",
-  "APPF": "pinged"
+  "APPF": "pinged",
+  "WDC": "pinged"
  }
 }
