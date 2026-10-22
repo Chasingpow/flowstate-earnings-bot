@@ -204,6 +204,7 @@
   "GBCI": "pinged",
   "EBC": "pinged",
   "CUBI": "pinged",
-  "RNG": "pinged"
+  "RNG": "pinged",
+  "ORC": "small"
  }
 }
