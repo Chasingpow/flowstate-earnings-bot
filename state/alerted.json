@@ -165,6 +165,7 @@
   "BHRB": "small",
   "MSBIP": "small",
   "NEM": "pinged",
-  "FIX": "pinged"
+  "FIX": "pinged",
+  "VRSN": "pinged"
  }
 }
