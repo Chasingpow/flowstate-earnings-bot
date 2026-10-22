@@ -168,6 +168,8 @@
   "FIX": "pinged",
   "VRSN": "pinged",
   "OMC": "pinged",
-  "WSFS": "pinged"
+  "WSFS": "pinged",
+  "CWBC": "small",
+  "BYD": "pinged"
  }
 }
