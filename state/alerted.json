@@ -187,6 +187,8 @@
   "ABCB": "pinged",
   "COLB": "pinged",
   "ENVA": "pinged",
-  "ASB-PF": "pinged"
+  "ASB-PF": "pinged",
+  "FPH": "small",
+  "SIGIP": "pinged"
  }
 }
