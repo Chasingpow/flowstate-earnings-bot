@@ -141,6 +141,8 @@
   "TSCO": "pinged",
   "NDAQ": "pinged",
   "PHM": "pinged",
-  "STBA": "small"
+  "STBA": "small",
+  "CNOBP": "small",
+  "COCO": "pinged"
  }
 }
