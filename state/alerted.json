@@ -191,6 +191,7 @@
   "FPH": "small",
   "SIGIP": "pinged",
   "SAM": "pinged",
-  "BCML": "small"
+  "BCML": "small",
+  "SSNC": "pinged"
  }
 }
