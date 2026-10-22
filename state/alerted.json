@@ -192,6 +192,7 @@
   "SIGIP": "pinged",
   "SAM": "pinged",
   "BCML": "small",
-  "SSNC": "pinged"
+  "SSNC": "pinged",
+  "REXR-PC": "pinged"
  }
 }
