@@ -122,6 +122,7 @@
   "SNA": "pinged",
   "CURB": "pinged",
   "LNN": "small",
-  "BFH": "pinged"
+  "BFH": "pinged",
+  "DGX": "pinged"
  }
 }
