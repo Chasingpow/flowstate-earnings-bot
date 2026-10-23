@@ -1,45 +1,4 @@
 {
- "2026-10-20": {
-  "NOC": "pinged",
-  "SYF-PB": "pinged",
-  "PEBO": "small",
-  "GE": "pinged",
-  "KEY-PL": "pinged",
-  "EFX": "pinged",
-  "HAS": "pinged",
-  "MMM": "pinged",
-  "MSCI": "pinged",
-  "AUB": "pinged",
-  "HAL": "pinged",
-  "RTX": "pinged",
-  "UCB": "pinged",
-  "VMI": "pinged",
-  "VICR": "pinged",
-  "ALLY": "pinged",
-  "FNB": "pinged",
-  "GM": "pinged",
-  "GPC": "pinged",
-  "SPCX": "pinged",
-  "BFC": "small",
-  "HWCPZ": "pinged",
-  "NFLX": "pinged",
-  "EWBC": "pinged",
-  "QCRH": "small",
-  "COF-PN": "pinged",
-  "ADC-PA": "pinged",
-  "ISRG": "pinged",
-  "PEGA": "pinged",
-  "NLY-PG": "pinged",
-  "NP": "pinged",
-  "NIC": "pinged",
-  "LRN": "pinged",
-  "BWBBP": "small",
-  "MCB": "small",
-  "WFRD": "pinged",
-  "NPB": "small",
-  "ALK": "pinged",
-  "CB": "pinged"
- },
  "2026-10-21": {
   "DHR": "pinged",
   "FMCB": "small",
@@ -207,5 +166,9 @@
   "RNG": "pinged",
   "ORC": "small",
   "KRC": "pinged"
+ },
+ "2026-10-23": {
+  "FRST": "small",
+  "FLG": "pinged"
  }
 }
