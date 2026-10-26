@@ -136,6 +136,7 @@
   "PDM": "small",
   "CLS": "pinged",
   "CFFI": "small",
-  "GABC": "small"
+  "GABC": "small",
+  "HTO": "pinged"
  }
 }
