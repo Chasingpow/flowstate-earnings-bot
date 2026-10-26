@@ -133,6 +133,7 @@
   "BOH-PA": "pinged",
   "BMRC": "small",
   "BSRR": "small",
-  "PDM": "small"
+  "PDM": "small",
+  "CLS": "pinged"
  }
 }
