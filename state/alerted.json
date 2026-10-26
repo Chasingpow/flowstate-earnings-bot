@@ -138,6 +138,7 @@
   "CFFI": "small",
   "GABC": "small",
   "HTO": "pinged",
-  "DORM": "pinged"
+  "DORM": "pinged",
+  "WELL": "pinged"
  }
 }
