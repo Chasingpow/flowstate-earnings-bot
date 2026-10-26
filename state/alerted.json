@@ -134,6 +134,7 @@
   "BMRC": "small",
   "BSRR": "small",
   "PDM": "small",
-  "CLS": "pinged"
+  "CLS": "pinged",
+  "CFFI": "small"
  }
 }
