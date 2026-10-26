@@ -137,6 +137,7 @@
   "CLS": "pinged",
   "CFFI": "small",
   "GABC": "small",
-  "HTO": "pinged"
+  "HTO": "pinged",
+  "DORM": "pinged"
  }
 }
