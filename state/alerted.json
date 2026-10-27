@@ -88,6 +88,8 @@
   "CTS": "small",
   "CBC": "pinged",
   "SFD": "pinged",
-  "ECL": "pinged"
+  "ECL": "pinged",
+  "CAC": "small",
+  "PCAR": "pinged"
  }
 }
