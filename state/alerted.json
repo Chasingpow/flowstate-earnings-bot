@@ -137,6 +137,7 @@
   "LPLA": "pinged",
   "BANC-PF": "pinged",
   "AAT": "small",
-  "ST": "pinged"
+  "ST": "pinged",
+  "INTA": "pinged"
  }
 }
