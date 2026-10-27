@@ -145,6 +145,7 @@
   "APAM": "pinged",
   "LSTR": "pinged",
   "PPG": "pinged",
-  "NXPI": "pinged"
+  "NXPI": "pinged",
+  "NBR": "small"
  }
 }
