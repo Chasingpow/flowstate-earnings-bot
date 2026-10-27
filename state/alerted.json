@@ -46,6 +46,8 @@
  "2026-10-27": {
   "NAUT": "small",
   "PII": "pinged",
-  "CNC": "pinged"
+  "CNC": "pinged",
+  "IBCP": "small",
+  "HLT": "pinged"
  }
 }
