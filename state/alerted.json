@@ -135,6 +135,8 @@
   "FCBC": "small",
   "MIR": "pinged",
   "LPLA": "pinged",
-  "BANC-PF": "pinged"
+  "BANC-PF": "pinged",
+  "AAT": "small",
+  "ST": "pinged"
  }
 }
