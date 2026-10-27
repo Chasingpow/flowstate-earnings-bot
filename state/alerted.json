@@ -51,6 +51,7 @@
   "HLT": "pinged",
   "AWI": "pinged",
   "UPS": "pinged",
-  "HYMC": "small"
+  "HYMC": "small",
+  "ARCC": "pinged"
  }
 }
