@@ -84,6 +84,8 @@
   "KNSA": "pinged",
   "WVE": "small",
   "NWFL": "small",
-  "CVLT": "pinged"
+  "CVLT": "pinged",
+  "CTS": "small",
+  "CBC": "pinged"
  }
 }
