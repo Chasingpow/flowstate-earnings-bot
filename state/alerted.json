@@ -50,6 +50,7 @@
   "IBCP": "small",
   "HLT": "pinged",
   "AWI": "pinged",
-  "UPS": "pinged"
+  "UPS": "pinged",
+  "HYMC": "small"
  }
 }
