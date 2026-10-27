@@ -48,6 +48,7 @@
   "PII": "pinged",
   "CNC": "pinged",
   "IBCP": "small",
-  "HLT": "pinged"
+  "HLT": "pinged",
+  "AWI": "pinged"
  }
 }
