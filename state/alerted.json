@@ -90,6 +90,7 @@
   "SFD": "pinged",
   "ECL": "pinged",
   "CAC": "small",
-  "PCAR": "pinged"
+  "PCAR": "pinged",
+  "HUBB": "pinged"
  }
 }
