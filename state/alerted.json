@@ -140,6 +140,8 @@
   "ST": "pinged",
   "INTA": "pinged",
   "FFBC": "pinged",
-  "EXR": "pinged"
+  "EXR": "pinged",
+  "RBBN": "small",
+  "APAM": "pinged"
  }
 }
