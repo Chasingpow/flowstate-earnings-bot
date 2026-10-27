@@ -86,6 +86,7 @@
   "NWFL": "small",
   "CVLT": "pinged",
   "CTS": "small",
-  "CBC": "pinged"
+  "CBC": "pinged",
+  "SFD": "pinged"
  }
 }
