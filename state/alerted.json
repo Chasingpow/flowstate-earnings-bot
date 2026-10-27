@@ -118,6 +118,8 @@
   "ZWS": "pinged",
   "LUNG": "small",
   "UCTT": "pinged",
-  "ENPH": "pinged"
+  "ENPH": "pinged",
+  "KIDS": "small",
+  "STAG": "pinged"
  }
 }
