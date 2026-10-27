@@ -146,6 +146,9 @@
   "LSTR": "pinged",
   "PPG": "pinged",
   "NXPI": "pinged",
-  "NBR": "small"
+  "NBR": "small",
+  "UHT": "small",
+  "FSP": "small",
+  "CTO-PA": "small"
  }
 }
