@@ -139,6 +139,7 @@
   "AAT": "small",
   "ST": "pinged",
   "INTA": "pinged",
-  "FFBC": "pinged"
+  "FFBC": "pinged",
+  "EXR": "pinged"
  }
 }
