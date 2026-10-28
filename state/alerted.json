@@ -1,20 +1,4 @@
 {
- "2026-10-23": {
-  "FRST": "small",
-  "FLG": "pinged",
-  "ALV": "pinged",
-  "FCNCP": "pinged",
-  "EAF": "small",
-  "BAH": "pinged",
-  "BPOPO": "pinged",
-  "SBFG": "small",
-  "CPSS": "small",
-  "SHBI": "small",
-  "MCBS": "small",
-  "CIVB": "small",
-  "AVBC": "small",
-  "FCAP": "small"
- },
  "2026-10-26": {
   "DEA": "small",
   "LKFN": "small",
@@ -174,5 +158,8 @@
   "BKR": "pinged",
   "SFBC": "small",
   "RUSHB": "pinged"
+ },
+ "2026-10-28": {
+  "FCF": "pinged"
  }
 }
