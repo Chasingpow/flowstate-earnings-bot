@@ -198,6 +198,8 @@
   "FORM": "pinged",
   "TMUS": "pinged",
   "OBK": "small",
-  "MDXG": "small"
+  "MDXG": "small",
+  "TDOC": "small",
+  "BOOT": "pinged"
  }
 }
