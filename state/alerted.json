@@ -307,6 +307,8 @@
   "QUAD": "small",
   "NEU": "pinged",
   "AM": "pinged",
-  "AR": "pinged"
+  "AR": "pinged",
+  "AIN": "small",
+  "THG": "pinged"
  }
 }
