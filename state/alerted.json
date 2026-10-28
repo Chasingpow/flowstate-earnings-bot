@@ -281,6 +281,10 @@
   "KREF-PA": "small",
   "TYL": "pinged",
   "HRTG": "small",
-  "EHC": "pinged"
+  "EHC": "pinged",
+  "NWPX": "small",
+  "ILPT": "small",
+  "RM": "small",
+  "MCHB": "pinged"
  }
 }
