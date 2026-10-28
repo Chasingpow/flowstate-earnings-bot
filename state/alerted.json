@@ -234,6 +234,11 @@
   "EFOR": "small",
   "PRCH": "small",
   "JOE": "pinged",
-  "VKTX": "pinged"
+  "VKTX": "pinged",
+  "HAPN": "small",
+  "HDSN": "small",
+  "FPI": "small",
+  "MRAM": "small",
+  "GKOS": "pinged"
  }
 }
