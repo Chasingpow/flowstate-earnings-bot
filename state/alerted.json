@@ -280,6 +280,7 @@
   "LXFR": "small",
   "KREF-PA": "small",
   "TYL": "pinged",
-  "HRTG": "small"
+  "HRTG": "small",
+  "EHC": "pinged"
  }
 }
