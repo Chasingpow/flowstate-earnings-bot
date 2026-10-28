@@ -297,6 +297,7 @@
   "HLI": "pinged",
   "RSI": "pinged",
   "MORN": "pinged",
-  "OBT": "small"
+  "OBT": "small",
+  "SCI": "pinged"
  }
 }
