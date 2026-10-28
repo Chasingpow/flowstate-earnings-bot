@@ -241,6 +241,7 @@
   "MRAM": "small",
   "GKOS": "pinged",
   "KEX": "pinged",
-  "INVH": "pinged"
+  "INVH": "pinged",
+  "CMG": "pinged"
  }
 }
