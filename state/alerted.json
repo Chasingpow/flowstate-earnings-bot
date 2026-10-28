@@ -169,6 +169,7 @@
   "HOOD": "pinged",
   "GNRC": "pinged",
   "TER": "pinged",
-  "SITE": "pinged"
+  "SITE": "pinged",
+  "VFC": "pinged"
  }
 }
