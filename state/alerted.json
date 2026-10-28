@@ -240,6 +240,7 @@
   "FPI": "small",
   "MRAM": "small",
   "GKOS": "pinged",
-  "KEX": "pinged"
+  "KEX": "pinged",
+  "INVH": "pinged"
  }
 }
