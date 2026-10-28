@@ -168,6 +168,7 @@
   "OPFI": "small",
   "HOOD": "pinged",
   "GNRC": "pinged",
-  "TER": "pinged"
+  "TER": "pinged",
+  "SITE": "pinged"
  }
 }
