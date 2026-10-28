@@ -203,6 +203,8 @@
   "BOOT": "pinged",
   "SFM": "pinged",
   "MSFT": "pinged",
-  "CNXN": "pinged"
+  "CNXN": "pinged",
+  "NEWTP": "small",
+  "MBINN": "pinged"
  }
 }
