@@ -205,6 +205,10 @@
   "MSFT": "pinged",
   "CNXN": "pinged",
   "NEWTP": "small",
-  "MBINN": "pinged"
+  "MBINN": "pinged",
+  "CLPT": "small",
+  "JUSH": "small",
+  "CLMB": "small",
+  "GENVR": "pinged"
  }
 }
