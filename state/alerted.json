@@ -228,6 +228,11 @@
   "F-PD": "pinged",
   "CNMD": "small",
   "OLED": "pinged",
-  "FTNT": "pinged"
+  "FTNT": "pinged",
+  "PBI-PB": "small",
+  "MAX": "small",
+  "EFOR": "small",
+  "PRCH": "small",
+  "JOE": "pinged"
  }
 }
