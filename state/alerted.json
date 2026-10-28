@@ -253,6 +253,9 @@
   "AMSF": "small",
   "CHDN": "pinged",
   "MGM": "pinged",
-  "EPR-PG": "pinged"
+  "EPR-PG": "pinged",
+  "GBFH": "small",
+  "CBAN": "small",
+  "STRL": "pinged"
  }
 }
