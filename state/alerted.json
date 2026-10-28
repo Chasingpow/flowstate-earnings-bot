@@ -170,6 +170,8 @@
   "GNRC": "pinged",
   "TER": "pinged",
   "SITE": "pinged",
-  "VFC": "pinged"
+  "VFC": "pinged",
+  "DMC": "small",
+  "VRT": "pinged"
  }
 }
