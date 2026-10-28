@@ -277,6 +277,8 @@
   "CMPR": "small",
   "CLB": "small",
   "PUMP": "small",
-  "LXFR": "small"
+  "LXFR": "small",
+  "KREF-PA": "small",
+  "TYL": "pinged"
  }
 }
