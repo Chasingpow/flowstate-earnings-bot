@@ -358,6 +358,8 @@
   "TROW": "pinged",
   "LTH": "pinged",
   "HWM": "pinged",
-  "WST": "pinged"
+  "WST": "pinged",
+  "BCYC": "small",
+  "CELG-RI": "small"
  }
 }
