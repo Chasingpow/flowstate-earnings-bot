@@ -505,6 +505,8 @@
   "CVSA": "pinged",
   "AXTI": "pinged",
   "ACCO": "small",
-  "DLR-PL": "pinged"
+  "DLR-PL": "pinged",
+  "REAL": "small",
+  "DXC": "pinged"
  }
 }
