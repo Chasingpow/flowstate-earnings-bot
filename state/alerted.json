@@ -543,6 +543,7 @@
   "CVCO": "pinged",
   "FMC": "small",
   "MTX": "small",
-  "NEU": "pinged"
+  "NEU": "pinged",
+  "ATR": "pinged"
  }
 }
