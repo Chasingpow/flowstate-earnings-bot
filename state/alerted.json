@@ -508,6 +508,8 @@
   "DLR-PL": "pinged",
   "REAL": "small",
   "DXC": "pinged",
-  "IR": "pinged"
+  "IR": "pinged",
+  "IVR-PC": "small",
+  "MHK": "pinged"
  }
 }
