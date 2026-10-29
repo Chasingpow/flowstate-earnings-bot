@@ -400,6 +400,9 @@
   "OSK": "pinged",
   "ITGR": "pinged",
   "UPBD": "small",
-  "MA": "pinged"
+  "MA": "pinged",
+  "AROW": "small",
+  "NSP": "small",
+  "PWP": "small"
  }
 }
