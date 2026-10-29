@@ -291,6 +291,7 @@
   "EPD": "pinged",
   "FOR": "small",
   "TWI": "small",
-  "PTEN": "pinged"
+  "PTEN": "pinged",
+  "HIPO": "small"
  }
 }
