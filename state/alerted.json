@@ -474,6 +474,8 @@
   "ILMN": "pinged",
   "AX": "pinged",
   "MMSI": "pinged",
-  "INGM": "pinged"
+  "INGM": "pinged",
+  "OLN": "small",
+  "SPSC": "pinged"
  }
 }
