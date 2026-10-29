@@ -417,6 +417,7 @@
   "BWFG": "small",
   "MCS": "small",
   "ESTA": "pinged",
-  "HSY": "pinged"
+  "HSY": "pinged",
+  "EME": "pinged"
  }
 }
