@@ -526,6 +526,8 @@
   "PEB-PH": "pinged",
   "STRT": "small",
   "SLGN": "pinged",
-  "PFSI": "pinged"
+  "PFSI": "pinged",
+  "OFSSH": "small",
+  "VLTO": "pinged"
  }
 }
