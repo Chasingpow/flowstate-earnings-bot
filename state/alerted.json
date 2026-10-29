@@ -499,6 +499,8 @@
   "BFAM": "pinged",
   "SNDK": "pinged",
   "FND": "pinged",
-  "HG": "pinged"
+  "HG": "pinged",
+  "PCB": "small",
+  "MIAX": "pinged"
  }
 }
