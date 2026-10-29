@@ -476,6 +476,7 @@
   "MMSI": "pinged",
   "INGM": "pinged",
   "OLN": "small",
-  "SPSC": "pinged"
+  "SPSC": "pinged",
+  "COIN": "pinged"
  }
 }
