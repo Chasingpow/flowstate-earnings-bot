@@ -487,6 +487,8 @@
   "RSG": "pinged",
   "PTCT": "pinged",
   "MDLZ": "pinged",
-  "EXEL": "pinged"
+  "EXEL": "pinged",
+  "GDYN": "small",
+  "GDDY": "pinged"
  }
 }
