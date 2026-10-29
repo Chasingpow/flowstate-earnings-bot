@@ -407,6 +407,9 @@
   "CARE": "small",
   "BWA": "pinged",
   "PACK": "small",
-  "ALNY": "pinged"
+  "ALNY": "pinged",
+  "RFL": "small",
+  "RJET": "small",
+  "PATK": "pinged"
  }
 }
