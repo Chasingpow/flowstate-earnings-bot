@@ -533,6 +533,7 @@
   "PMTW": "small",
   "KWR": "pinged",
   "FHI": "pinged",
-  "NPKI": "small"
+  "NPKI": "small",
+  "ATOM": "small"
  }
 }
