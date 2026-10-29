@@ -375,6 +375,7 @@
   "BAX": "pinged",
   "TNET": "pinged",
   "CARR": "pinged",
-  "WEC": "pinged"
+  "WEC": "pinged",
+  "DRS": "pinged"
  }
 }
