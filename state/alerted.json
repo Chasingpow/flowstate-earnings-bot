@@ -541,6 +541,8 @@
   "CVEO": "small",
   "FET": "small",
   "CVCO": "pinged",
-  "FMC": "small"
+  "FMC": "small",
+  "MTX": "small",
+  "NEU": "pinged"
  }
 }
