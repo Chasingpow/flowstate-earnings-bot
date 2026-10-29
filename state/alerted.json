@@ -405,6 +405,8 @@
   "NSP": "small",
   "PWP": "small",
   "CARE": "small",
-  "BWA": "pinged"
+  "BWA": "pinged",
+  "PACK": "small",
+  "ALNY": "pinged"
  }
 }
