@@ -451,6 +451,8 @@
   "STRK": "pinged",
   "SPOK": "small",
   "PDEX": "small",
-  "COLM": "pinged"
+  "COLM": "pinged",
+  "STOK": "small",
+  "FORR": "small"
  }
 }
