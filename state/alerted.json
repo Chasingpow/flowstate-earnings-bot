@@ -335,6 +335,7 @@
   "VMC": "pinged",
   "AOS": "pinged",
   "H": "pinged",
-  "PWR": "pinged"
+  "PWR": "pinged",
+  "GTX": "pinged"
  }
 }
