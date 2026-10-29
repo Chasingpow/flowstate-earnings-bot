@@ -305,6 +305,8 @@
   "PRLB": "pinged",
   "FRBT": "small",
   "FTAIM": "pinged",
-  "BC-PC": "pinged"
+  "BC-PC": "pinged",
+  "DGICB": "small",
+  "BAND": "small"
  }
 }
