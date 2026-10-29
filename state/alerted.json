@@ -376,6 +376,7 @@
   "TNET": "pinged",
   "CARR": "pinged",
   "WEC": "pinged",
-  "DRS": "pinged"
+  "DRS": "pinged",
+  "ICE": "pinged"
  }
 }
