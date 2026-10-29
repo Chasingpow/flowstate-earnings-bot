@@ -540,6 +540,7 @@
   "WTI": "small",
   "CVEO": "small",
   "FET": "small",
-  "CVCO": "pinged"
+  "CVCO": "pinged",
+  "FMC": "small"
  }
 }
