@@ -1,32 +1,4 @@
 {
- "2026-10-26": {
-  "DEA": "small",
-  "LKFN": "small",
-  "VZ": "pinged",
-  "HBT": "small",
-  "ABOS": "small",
-  "MNSBP": "small",
-  "ARLP": "pinged",
-  "MED": "small",
-  "BFST": "small",
-  "CZWI": "small",
-  "BOH-PA": "pinged",
-  "BMRC": "small",
-  "BSRR": "small",
-  "PDM": "small",
-  "CLS": "pinged",
-  "CFFI": "small",
-  "GABC": "small",
-  "HTO": "pinged",
-  "DORM": "pinged",
-  "WELL": "pinged",
-  "FSUN": "small",
-  "FLXS": "small",
-  "NUE": "pinged",
-  "NE": "pinged",
-  "BRO": "pinged",
-  "CBK": "small"
- },
  "2026-10-27": {
   "NAUT": "small",
   "PII": "pinged",
@@ -313,5 +285,9 @@
   "NNBR": "small",
   "MKL": "pinged",
   "PFBX": "small"
+ },
+ "2026-10-29": {
+  "SBSI": "small",
+  "EPD": "pinged"
  }
 }
