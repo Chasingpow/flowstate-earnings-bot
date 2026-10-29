@@ -491,6 +491,7 @@
   "GDYN": "small",
   "GDDY": "pinged",
   "COUR": "small",
-  "SPXC": "pinged"
+  "SPXC": "pinged",
+  "CLBK": "pinged"
  }
 }
