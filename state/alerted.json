@@ -536,6 +536,8 @@
   "NPKI": "small",
   "ATOM": "small",
   "CVLG": "small",
-  "MTZ": "pinged"
+  "MTZ": "pinged",
+  "WTI": "small",
+  "CVEO": "small"
  }
 }
