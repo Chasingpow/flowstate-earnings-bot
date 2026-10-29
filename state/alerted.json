@@ -310,6 +310,7 @@
   "BAND": "small",
   "BFLY": "pinged",
   "CAT": "pinged",
-  "QSR": "pinged"
+  "QSR": "pinged",
+  "OMCL": "small"
  }
 }
