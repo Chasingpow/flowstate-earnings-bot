@@ -337,6 +337,10 @@
   "H": "pinged",
   "PWR": "pinged",
   "GTX": "pinged",
-  "NCLH": "pinged"
+  "NCLH": "pinged",
+  "NVCR": "small",
+  "FMBH": "small",
+  "DFIN": "small",
+  "INDV": "pinged"
  }
 }
