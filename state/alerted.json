@@ -523,6 +523,8 @@
   "CDP": "pinged",
   "HTGC": "pinged",
   "VABK": "small",
-  "PEB-PH": "pinged"
+  "PEB-PH": "pinged",
+  "STRT": "small",
+  "SLGN": "pinged"
  }
 }
