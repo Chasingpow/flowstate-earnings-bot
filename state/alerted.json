@@ -293,6 +293,7 @@
   "TWI": "small",
   "PTEN": "pinged",
   "HIPO": "small",
-  "KBR": "pinged"
+  "KBR": "pinged",
+  "ARES": "pinged"
  }
 }
