@@ -467,6 +467,7 @@
   "TWLO": "pinged",
   "MFIN": "small",
   "SBUX": "pinged",
-  "PINS": "pinged"
+  "PINS": "pinged",
+  "EIX": "pinged"
  }
 }
