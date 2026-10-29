@@ -501,6 +501,7 @@
   "FND": "pinged",
   "HG": "pinged",
   "PCB": "small",
-  "MIAX": "pinged"
+  "MIAX": "pinged",
+  "CVSA": "pinged"
  }
 }
