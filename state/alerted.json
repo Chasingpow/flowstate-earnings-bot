@@ -334,6 +334,7 @@
   "WNC": "small",
   "VMC": "pinged",
   "AOS": "pinged",
-  "H": "pinged"
+  "H": "pinged",
+  "PWR": "pinged"
  }
 }
