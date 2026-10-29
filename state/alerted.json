@@ -464,6 +464,8 @@
   "DVA": "pinged",
   "FISI": "small",
   "SNDR": "pinged",
-  "TWLO": "pinged"
+  "TWLO": "pinged",
+  "MFIN": "small",
+  "SBUX": "pinged"
  }
 }
