@@ -288,6 +288,9 @@
  },
  "2026-10-29": {
   "SBSI": "small",
-  "EPD": "pinged"
+  "EPD": "pinged",
+  "FOR": "small",
+  "TWI": "small",
+  "PTEN": "pinged"
  }
 }
