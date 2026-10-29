@@ -448,6 +448,9 @@
   "MSEXP": "small",
   "DXCM": "pinged",
   "GILD": "pinged",
-  "STRK": "pinged"
+  "STRK": "pinged",
+  "SPOK": "small",
+  "PDEX": "small",
+  "COLM": "pinged"
  }
 }
