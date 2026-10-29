@@ -309,6 +309,7 @@
   "DGICB": "small",
   "BAND": "small",
   "BFLY": "pinged",
-  "CAT": "pinged"
+  "CAT": "pinged",
+  "QSR": "pinged"
  }
 }
