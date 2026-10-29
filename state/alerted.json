@@ -445,6 +445,7 @@
   "OSPN": "small",
   "FSLR": "pinged",
   "BBIO": "pinged",
-  "MSEXP": "small"
+  "MSEXP": "small",
+  "DXCM": "pinged"
  }
 }
