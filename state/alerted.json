@@ -466,6 +466,7 @@
   "SNDR": "pinged",
   "TWLO": "pinged",
   "MFIN": "small",
-  "SBUX": "pinged"
+  "SBUX": "pinged",
+  "PINS": "pinged"
  }
 }
