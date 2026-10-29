@@ -489,6 +489,8 @@
   "MDLZ": "pinged",
   "EXEL": "pinged",
   "GDYN": "small",
-  "GDDY": "pinged"
+  "GDDY": "pinged",
+  "COUR": "small",
+  "SPXC": "pinged"
  }
 }
