@@ -436,6 +436,7 @@
   "CPRI": "small",
   "CHD": "pinged",
   "TXNM": "pinged",
-  "SXT": "pinged"
+  "SXT": "pinged",
+  "AN": "pinged"
  }
 }
