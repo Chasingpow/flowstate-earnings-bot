@@ -438,6 +438,7 @@
   "TXNM": "pinged",
   "SXT": "pinged",
   "AN": "pinged",
-  "LEA": "pinged"
+  "LEA": "pinged",
+  "COFS": "small"
  }
 }
