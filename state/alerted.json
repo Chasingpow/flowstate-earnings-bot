@@ -434,6 +434,7 @@
   "OIS": "small",
   "NWL": "pinged",
   "CPRI": "small",
-  "CHD": "pinged"
+  "CHD": "pinged",
+  "TXNM": "pinged"
  }
 }
