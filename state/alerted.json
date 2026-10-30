@@ -444,6 +444,7 @@
   "NPKI": "small",
   "PFIS": "small",
   "SXI": "pinged",
-  "FCN": "pinged"
+  "FCN": "pinged",
+  "BSBK": "small"
  }
 }
