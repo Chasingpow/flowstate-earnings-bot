@@ -443,6 +443,7 @@
   "GLPI": "pinged",
   "NPKI": "small",
   "PFIS": "small",
-  "SXI": "pinged"
+  "SXI": "pinged",
+  "FCN": "pinged"
  }
 }
