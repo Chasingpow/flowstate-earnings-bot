@@ -439,6 +439,7 @@
   "SXT": "pinged",
   "AN": "pinged",
   "LEA": "pinged",
-  "COFS": "small"
+  "COFS": "small",
+  "GLPI": "pinged"
  }
 }
