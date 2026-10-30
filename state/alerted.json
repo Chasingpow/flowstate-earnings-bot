@@ -441,6 +441,7 @@
   "LEA": "pinged",
   "COFS": "small",
   "GLPI": "pinged",
-  "NPKI": "small"
+  "NPKI": "small",
+  "PFIS": "small"
  }
 }
