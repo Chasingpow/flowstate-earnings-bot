@@ -419,6 +419,8 @@
  "2026-10-30": {
   "LNT": "pinged",
   "EIX": "pinged",
-  "FNRN": "small"
+  "FNRN": "small",
+  "CRI": "small",
+  "BTSGU": "pinged"
  }
 }
