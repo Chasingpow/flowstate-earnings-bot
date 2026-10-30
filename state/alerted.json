@@ -445,6 +445,7 @@
   "PFIS": "small",
   "SXI": "pinged",
   "FCN": "pinged",
-  "BSBK": "small"
+  "BSBK": "small",
+  "IR": "pinged"
  }
 }
