@@ -442,6 +442,7 @@
   "COFS": "small",
   "GLPI": "pinged",
   "NPKI": "small",
-  "PFIS": "small"
+  "PFIS": "small",
+  "SXI": "pinged"
  }
 }
