@@ -440,6 +440,7 @@
   "AN": "pinged",
   "LEA": "pinged",
   "COFS": "small",
-  "GLPI": "pinged"
+  "GLPI": "pinged",
+  "NPKI": "small"
  }
 }
