@@ -380,6 +380,7 @@
   "RXRX": "pinged",
   "CC": "small",
   "TNC": "small",
-  "HSTM": "small"
+  "HSTM": "small",
+  "DHCNL": "small"
  }
 }
