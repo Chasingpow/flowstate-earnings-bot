@@ -330,6 +330,10 @@
   "HNGE": "pinged",
   "PPLI": "pinged",
   "BMRN": "pinged",
-  "O": "pinged"
+  "O": "pinged",
+  "VTS": "small",
+  "HLIT": "small",
+  "CERS": "small",
+  "JAZZ": "pinged"
  }
 }
