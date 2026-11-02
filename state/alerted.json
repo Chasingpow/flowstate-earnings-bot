@@ -389,6 +389,7 @@
   "CVGI": "small",
   "MSA": "pinged",
   "ALG": "small",
-  "CRC": "pinged"
+  "CRC": "pinged",
+  "UMH-PD": "small"
  }
 }
