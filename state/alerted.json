@@ -387,6 +387,8 @@
   "HLMN": "small",
   "NMFCZ": "small",
   "CVGI": "small",
-  "MSA": "pinged"
+  "MSA": "pinged",
+  "ALG": "small",
+  "CRC": "pinged"
  }
 }
