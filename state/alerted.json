@@ -392,6 +392,7 @@
   "CRC": "pinged",
   "UMH-PD": "small",
   "IIPR-PA": "small",
-  "AESI": "small"
+  "AESI": "small",
+  "CBT": "pinged"
  }
 }
