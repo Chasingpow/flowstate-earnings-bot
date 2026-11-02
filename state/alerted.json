@@ -383,6 +383,8 @@
   "HSTM": "small",
   "DHCNL": "small",
   "CRGY": "pinged",
-  "RIG": "pinged"
+  "RIG": "pinged",
+  "HLMN": "small",
+  "NMFCZ": "small"
  }
 }
