@@ -391,6 +391,7 @@
   "ALG": "small",
   "CRC": "pinged",
   "UMH-PD": "small",
-  "IIPR-PA": "small"
+  "IIPR-PA": "small",
+  "AESI": "small"
  }
 }
