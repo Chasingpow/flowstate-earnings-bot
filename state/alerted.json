@@ -317,6 +317,8 @@
   "EVER": "small",
   "GAIA": "small",
   "IRT": "pinged",
-  "VNOM": "pinged"
+  "VNOM": "pinged",
+  "BLZE": "small",
+  "VRTX": "pinged"
  }
 }
