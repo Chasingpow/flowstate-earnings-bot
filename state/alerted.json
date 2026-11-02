@@ -360,6 +360,8 @@
   "CRBG": "pinged",
   "CSR": "small",
   "BRCC": "small",
-  "VOYA-PB": "pinged"
+  "VOYA-PB": "pinged",
+  "VOYG": "small",
+  "CE": "pinged"
  }
 }
