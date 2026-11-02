@@ -341,6 +341,10 @@
   "LIFE": "pinged",
   "UPWK": "small",
   "SBAC": "pinged",
-  "ALSN": "pinged"
+  "ALSN": "pinged",
+  "CWH": "small",
+  "SIBN": "small",
+  "SITC": "small",
+  "DOC": "pinged"
  }
 }
