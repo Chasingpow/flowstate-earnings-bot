@@ -356,6 +356,7 @@
   "VAL-WT": "small",
   "ON": "pinged",
   "BWXT": "pinged",
-  "GLRE": "small"
+  "GLRE": "small",
+  "CRBG": "pinged"
  }
 }
