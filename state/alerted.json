@@ -313,6 +313,9 @@
   "AEIS": "pinged",
   "CSWC": "small",
   "TCMD": "small",
-  "ADEA": "pinged"
+  "ADEA": "pinged",
+  "EVER": "small",
+  "GAIA": "small",
+  "IRT": "pinged"
  }
 }
