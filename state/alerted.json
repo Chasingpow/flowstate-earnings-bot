@@ -355,6 +355,7 @@
   "IBTA": "small",
   "VAL-WT": "small",
   "ON": "pinged",
-  "BWXT": "pinged"
+  "BWXT": "pinged",
+  "GLRE": "small"
  }
 }
