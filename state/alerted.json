@@ -308,6 +308,8 @@
   "CIFR": "pinged",
   "LTBR": "small",
   "KFFB": "small",
-  "WAY": "pinged"
+  "WAY": "pinged",
+  "SNDX": "small",
+  "AEIS": "pinged"
  }
 }
