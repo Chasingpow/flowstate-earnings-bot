@@ -365,6 +365,7 @@
   "CE": "pinged",
   "OPAD": "small",
   "CRD-B": "small",
-  "UDR": "pinged"
+  "UDR": "pinged",
+  "BCC": "pinged"
  }
 }
