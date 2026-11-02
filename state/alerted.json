@@ -319,6 +319,7 @@
   "IRT": "pinged",
   "VNOM": "pinged",
   "BLZE": "small",
-  "VRTX": "pinged"
+  "VRTX": "pinged",
+  "TVTX": "pinged"
  }
 }
