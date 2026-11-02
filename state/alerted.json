@@ -390,6 +390,7 @@
   "MSA": "pinged",
   "ALG": "small",
   "CRC": "pinged",
-  "UMH-PD": "small"
+  "UMH-PD": "small",
+  "IIPR-PA": "small"
  }
 }
