@@ -366,6 +366,9 @@
   "OPAD": "small",
   "CRD-B": "small",
   "UDR": "pinged",
-  "BCC": "pinged"
+  "BCC": "pinged",
+  "AEHR": "small",
+  "HLF": "small",
+  "GECCI": "small"
  }
 }
