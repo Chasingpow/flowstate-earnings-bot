@@ -321,6 +321,8 @@
   "BLZE": "small",
   "VRTX": "pinged",
   "TVTX": "pinged",
-  "WMB": "pinged"
+  "WMB": "pinged",
+  "EBS": "small",
+  "SBRA": "pinged"
  }
 }
