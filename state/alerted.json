@@ -395,6 +395,7 @@
   "AESI": "small",
   "CBT": "pinged",
   "CALX": "pinged",
-  "TTI": "small"
+  "TTI": "small",
+  "IAUX": "small"
  }
 }
