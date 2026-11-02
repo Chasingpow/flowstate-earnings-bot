@@ -381,6 +381,7 @@
   "CC": "small",
   "TNC": "small",
   "HSTM": "small",
-  "DHCNL": "small"
+  "DHCNL": "small",
+  "CRGY": "pinged"
  }
 }
