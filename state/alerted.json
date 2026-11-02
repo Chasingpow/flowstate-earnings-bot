@@ -370,6 +370,8 @@
   "AEHR": "small",
   "HLF": "small",
   "GECCI": "small",
-  "LSCC": "pinged"
+  "LSCC": "pinged",
+  "MTUS": "small",
+  "OGS": "pinged"
  }
 }
