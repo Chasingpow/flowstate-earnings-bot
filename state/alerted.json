@@ -310,6 +310,9 @@
   "KFFB": "small",
   "WAY": "pinged",
   "SNDX": "small",
-  "AEIS": "pinged"
+  "AEIS": "pinged",
+  "CSWC": "small",
+  "TCMD": "small",
+  "ADEA": "pinged"
  }
 }
