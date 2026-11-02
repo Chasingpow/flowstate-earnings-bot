@@ -357,6 +357,9 @@
   "ON": "pinged",
   "BWXT": "pinged",
   "GLRE": "small",
-  "CRBG": "pinged"
+  "CRBG": "pinged",
+  "CSR": "small",
+  "BRCC": "small",
+  "VOYA-PB": "pinged"
  }
 }
