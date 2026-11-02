@@ -351,6 +351,8 @@
   "BVS": "small",
   "ICHR": "small",
   "MTCH": "pinged",
-  "EQH-PC": "pinged"
+  "EQH-PC": "pinged",
+  "IBTA": "small",
+  "VAL-WT": "small"
  }
 }
