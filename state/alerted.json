@@ -154,6 +154,8 @@
   "MPLX": "pinged",
   "MPC": "pinged",
   "AMRX": "pinged",
-  "CNK": "pinged"
+  "CNK": "pinged",
+  "VITL": "small",
+  "SHOP": "pinged"
  }
 }
