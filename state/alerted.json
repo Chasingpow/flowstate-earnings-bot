@@ -236,6 +236,8 @@
   "PAMT": "small",
   "KTCC": "small",
   "ATRC": "pinged",
-  "FLYW": "pinged"
+  "FLYW": "pinged",
+  "CXDO": "small",
+  "RRR": "pinged"
  }
 }
