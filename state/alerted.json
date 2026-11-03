@@ -140,6 +140,7 @@
  "2026-11-03": {
   "LDOS": "pinged",
   "CURLF": "pinged",
-  "BSM": "pinged"
+  "BSM": "pinged",
+  "PLOW": "small"
  }
 }
