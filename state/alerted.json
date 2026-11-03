@@ -344,6 +344,7 @@
   "GIC": "small",
   "INN-PF": "small",
   "WMK": "small",
-  "PRIM": "pinged"
+  "PRIM": "pinged",
+  "OVV": "pinged"
  }
 }
