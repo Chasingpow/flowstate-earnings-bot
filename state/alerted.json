@@ -292,6 +292,9 @@
   "UFPT": "pinged",
   "TOST": "pinged",
   "FBIN": "pinged",
-  "SDRL": "pinged"
+  "SDRL": "pinged",
+  "RVLV": "small",
+  "EVTC": "small",
+  "OHI": "pinged"
  }
 }
