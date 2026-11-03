@@ -280,6 +280,8 @@
   "ALMR": "pinged",
   "PXED": "small",
   "MQ": "small",
-  "ALAB": "pinged"
+  "ALAB": "pinged",
+  "QDEL": "small",
+  "BXC": "small"
  }
 }
