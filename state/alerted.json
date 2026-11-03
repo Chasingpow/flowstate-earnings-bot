@@ -331,6 +331,8 @@
   "MEC": "small",
   "VTOL": "small",
   "FTEK": "small",
-  "SMCIP": "pinged"
+  "SMCIP": "pinged",
+  "LMB": "small",
+  "MOS": "pinged"
  }
 }
