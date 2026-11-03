@@ -296,6 +296,9 @@
   "RVLV": "small",
   "EVTC": "small",
   "OHI": "pinged",
-  "PACS": "pinged"
+  "PACS": "pinged",
+  "SWIM": "small",
+  "AQST": "small",
+  "RWTS": "small"
  }
 }
