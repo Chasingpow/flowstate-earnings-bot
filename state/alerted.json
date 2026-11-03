@@ -327,6 +327,10 @@
   "PSTL": "small",
   "OPRT": "small",
   "HMN": "small",
-  "HCKT": "small"
+  "HCKT": "small",
+  "MEC": "small",
+  "VTOL": "small",
+  "FTEK": "small",
+  "SMCIP": "pinged"
  }
 }
