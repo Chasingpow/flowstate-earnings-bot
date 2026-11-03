@@ -145,6 +145,8 @@
   "CRVL": "pinged",
   "LPX": "pinged",
   "AROC": "pinged",
-  "KPTI": "small"
+  "KPTI": "small",
+  "CLVT": "small",
+  "IT": "pinged"
  }
 }
