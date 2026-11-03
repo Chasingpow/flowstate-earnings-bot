@@ -300,6 +300,10 @@
   "SWIM": "small",
   "AQST": "small",
   "RWTS": "small",
-  "JXN-PA": "pinged"
+  "JXN-PA": "pinged",
+  "TXO": "small",
+  "CHCT": "small",
+  "SCOR": "small",
+  "AMD": "pinged"
  }
 }
