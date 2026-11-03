@@ -343,6 +343,7 @@
   "SLDPW": "small",
   "GIC": "small",
   "INN-PF": "small",
-  "WMK": "small"
+  "WMK": "small",
+  "PRIM": "pinged"
  }
 }
