@@ -233,6 +233,8 @@
   "SYRA": "small",
   "CMT": "small",
   "EXPD": "pinged",
-  "PAMT": "small"
+  "PAMT": "small",
+  "KTCC": "small",
+  "ATRC": "pinged"
  }
 }
