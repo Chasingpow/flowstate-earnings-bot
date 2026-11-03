@@ -246,6 +246,8 @@
   "TRNS": "small",
   "CAR": "pinged",
   "DNLI": "pinged",
-  "BKNG": "pinged"
+  "BKNG": "pinged",
+  "ARDX": "small",
+  "MIRM": "pinged"
  }
 }
