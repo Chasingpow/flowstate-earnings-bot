@@ -265,6 +265,8 @@
   "FLUX": "small",
   "CRCT": "small",
   "DRH": "pinged",
-  "MCY": "pinged"
+  "MCY": "pinged",
+  "FOA": "small",
+  "LIME": "small"
  }
 }
