@@ -277,6 +277,9 @@
   "NSLRL": "small",
   "ANET": "pinged",
   "VRNS": "pinged",
-  "ALMR": "pinged"
+  "ALMR": "pinged",
+  "PXED": "small",
+  "MQ": "small",
+  "ALAB": "pinged"
  }
 }
