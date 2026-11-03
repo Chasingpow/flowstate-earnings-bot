@@ -255,6 +255,7 @@
   "ANGI": "small",
   "WEYS": "small",
   "TSLX": "small",
-  "RXST": "small"
+  "RXST": "small",
+  "PCOR": "pinged"
  }
 }
