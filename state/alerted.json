@@ -213,6 +213,8 @@
   "DOCN": "pinged",
   "ADT": "pinged",
   "JBTM": "pinged",
-  "SUN": "pinged"
+  "SUN": "pinged",
+  "CMPS": "small",
+  "LAB": "small"
  }
 }
