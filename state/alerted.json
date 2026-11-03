@@ -306,6 +306,10 @@
   "SCOR": "small",
   "AMD": "pinged",
   "TREE": "small",
-  "ANDE": "pinged"
+  "ANDE": "pinged",
+  "KODK": "small",
+  "UFCS": "small",
+  "ALIT": "small",
+  "RYAM": "small"
  }
 }
