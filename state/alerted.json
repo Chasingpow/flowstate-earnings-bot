@@ -336,6 +336,7 @@
   "MOS": "pinged",
   "IPI": "small",
   "ECG": "pinged",
-  "CBLL": "small"
+  "CBLL": "small",
+  "JELD": "small"
  }
 }
