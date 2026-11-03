@@ -276,6 +276,7 @@
   "SAFE": "small",
   "NSLRL": "small",
   "ANET": "pinged",
-  "VRNS": "pinged"
+  "VRNS": "pinged",
+  "ALMR": "pinged"
  }
 }
