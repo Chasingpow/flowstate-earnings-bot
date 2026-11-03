@@ -333,6 +333,7 @@
   "FTEK": "small",
   "SMCIP": "pinged",
   "LMB": "small",
-  "MOS": "pinged"
+  "MOS": "pinged",
+  "IPI": "small"
  }
 }
