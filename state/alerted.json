@@ -257,6 +257,7 @@
   "TSLX": "small",
   "RXST": "small",
   "PCOR": "pinged",
-  "TARS": "pinged"
+  "TARS": "pinged",
+  "DUOL": "pinged"
  }
 }
