@@ -182,6 +182,8 @@
   "XIFR": "small",
   "ARVN": "small",
   "BALL": "pinged",
-  "HGTY": "pinged"
+  "HGTY": "pinged",
+  "SRTA": "small",
+  "IEP": "pinged"
  }
 }
