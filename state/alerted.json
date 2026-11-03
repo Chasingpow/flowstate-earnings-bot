@@ -187,6 +187,10 @@
   "IEP": "pinged",
   "WAT": "pinged",
   "ADTN": "small",
-  "HNI": "pinged"
+  "HNI": "pinged",
+  "AHCO": "small",
+  "CHGG": "small",
+  "DTIL": "small",
+  "GPK": "pinged"
  }
 }
