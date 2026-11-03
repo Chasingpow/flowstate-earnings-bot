@@ -272,6 +272,9 @@
   "NVTS": "pinged",
   "ZVRA": "small",
   "OUST": "pinged",
-  "SPT": "small"
+  "SPT": "small",
+  "SAFE": "small",
+  "NSLRL": "small",
+  "ANET": "pinged"
  }
 }
