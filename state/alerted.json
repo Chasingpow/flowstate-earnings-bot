@@ -317,6 +317,7 @@
   "PRU": "pinged",
   "AIZN": "pinged",
   "UNMA": "pinged",
-  "ACEL": "small"
+  "ACEL": "small",
+  "IOSP": "pinged"
  }
 }
