@@ -284,6 +284,8 @@
   "QDEL": "small",
   "BXC": "small",
   "HURN": "pinged",
-  "SM": "pinged"
+  "SM": "pinged",
+  "DEI": "small",
+  "USNA": "small"
  }
 }
