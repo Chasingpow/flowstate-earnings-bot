@@ -258,6 +258,7 @@
   "RXST": "small",
   "PCOR": "pinged",
   "TARS": "pinged",
-  "DUOL": "pinged"
+  "DUOL": "pinged",
+  "CPNG": "pinged"
  }
 }
