@@ -193,6 +193,9 @@
   "DTIL": "small",
   "GPK": "pinged",
   "UPST": "pinged",
-  "KDP": "pinged"
+  "KDP": "pinged",
+  "INFU": "small",
+  "XPRO": "small",
+  "ADM": "pinged"
  }
 }
