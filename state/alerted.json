@@ -259,6 +259,11 @@
   "PCOR": "pinged",
   "TARS": "pinged",
   "DUOL": "pinged",
-  "CPNG": "pinged"
+  "CPNG": "pinged",
+  "INNV": "small",
+  "RARE": "small",
+  "FLUX": "small",
+  "CRCT": "small",
+  "DRH": "pinged"
  }
 }
