@@ -148,6 +148,8 @@
   "KPTI": "small",
   "CLVT": "small",
   "IT": "pinged",
-  "DD": "pinged"
+  "DD": "pinged",
+  "XHR": "small",
+  "APOS": "pinged"
  }
 }
