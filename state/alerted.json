@@ -138,6 +138,7 @@
   "SIND": "small"
  },
  "2026-11-03": {
-  "LDOS": "pinged"
+  "LDOS": "pinged",
+  "CURLF": "pinged"
  }
 }
