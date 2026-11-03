@@ -230,6 +230,7 @@
   "FUSE": "small",
   "OTTR": "pinged",
   "ZBRA": "pinged",
-  "SYRA": "small"
+  "SYRA": "small",
+  "CMT": "small"
  }
 }
