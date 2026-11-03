@@ -334,6 +334,7 @@
   "SMCIP": "pinged",
   "LMB": "small",
   "MOS": "pinged",
-  "IPI": "small"
+  "IPI": "small",
+  "ECG": "pinged"
  }
 }
