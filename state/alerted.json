@@ -304,6 +304,8 @@
   "TXO": "small",
   "CHCT": "small",
   "SCOR": "small",
-  "AMD": "pinged"
+  "AMD": "pinged",
+  "TREE": "small",
+  "ANDE": "pinged"
  }
 }
