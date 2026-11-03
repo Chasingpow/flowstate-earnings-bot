@@ -256,6 +256,7 @@
   "WEYS": "small",
   "TSLX": "small",
   "RXST": "small",
-  "PCOR": "pinged"
+  "PCOR": "pinged",
+  "TARS": "pinged"
  }
 }
