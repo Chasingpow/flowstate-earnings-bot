@@ -629,6 +629,9 @@
   "GT": "small",
   "INVA": "small",
   "LNWO": "pinged",
-  "MKSI": "pinged"
+  "MKSI": "pinged",
+  "XPER": "small",
+  "MX": "small",
+  "PAHC": "small"
  }
 }
