@@ -388,6 +388,9 @@
   "SEDG": "pinged",
   "W": "pinged",
   "CRL": "pinged",
-  "TRMB": "pinged"
+  "TRMB": "pinged",
+  "CRTO": "small",
+  "MCRB": "small",
+  "NVCT": "small"
  }
 }
