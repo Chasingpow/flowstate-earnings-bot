@@ -420,6 +420,9 @@
   "MSGE": "pinged",
   "XPEL": "small",
   "BTU": "pinged",
-  "STIM": "small"
+  "STIM": "small",
+  "RSVR": "small",
+  "TRNZ": "small",
+  "BATRK": "pinged"
  }
 }
