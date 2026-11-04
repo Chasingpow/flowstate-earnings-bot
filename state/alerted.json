@@ -672,6 +672,9 @@
   "NFG": "pinged",
   "MTRX": "small",
   "BYND": "small",
-  "SVC": "small"
+  "SVC": "small",
+  "FRPH": "small",
+  "VMD": "small",
+  "EFC-PD": "small"
  }
 }
