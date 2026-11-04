@@ -590,6 +590,13 @@
   "MWA": "pinged",
   "ALL-PJ": "pinged",
   "GNW": "pinged",
-  "NTGR": "small"
+  "NTGR": "small",
+  "PRCT": "small",
+  "ACNT": "small",
+  "CODI-PC": "small",
+  "LODE": "small",
+  "NUVB": "small",
+  "EHTH": "small",
+  "MGNI": "pinged"
  }
 }
