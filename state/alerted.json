@@ -393,6 +393,9 @@
   "MCRB": "small",
   "NVCT": "small",
   "MLTX": "small",
-  "CDW": "pinged"
+  "CDW": "pinged",
+  "SHLS": "small",
+  "QURE": "small",
+  "DDOG": "pinged"
  }
 }
