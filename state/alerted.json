@@ -576,6 +576,7 @@
   "GPMT-PA": "small",
   "CIX": "small",
   "SITM": "pinged",
-  "BIO-B": "pinged"
+  "BIO-B": "pinged",
+  "CPAY": "pinged"
  }
 }
