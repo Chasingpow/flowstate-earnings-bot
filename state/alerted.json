@@ -402,6 +402,8 @@
   "SLQT": "small",
   "LFCR": "small",
   "DIN": "small",
-  "KD": "pinged"
+  "KD": "pinged",
+  "LAW": "small",
+  "VSH": "pinged"
  }
 }
