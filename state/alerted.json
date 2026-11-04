@@ -469,6 +469,9 @@
   "PTRN": "pinged",
   "HCC": "pinged",
   "SEZL": "pinged",
-  "COHR": "pinged"
+  "COHR": "pinged",
+  "PCT": "small",
+  "SBGI": "small",
+  "CLPR": "small"
  }
 }
