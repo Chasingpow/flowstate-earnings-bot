@@ -372,6 +372,9 @@
   "PFGC": "pinged",
   "OPLN": "pinged",
   "ODTX": "small",
-  "MLM": "pinged"
+  "MLM": "pinged",
+  "PMTS": "small",
+  "SDHC": "small",
+  "KHC": "pinged"
  }
 }
