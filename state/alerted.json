@@ -622,6 +622,7 @@
   "MLR": "small",
   "MET-PF": "pinged",
   "ACR-PD": "small",
-  "HCI": "pinged"
+  "HCI": "pinged",
+  "ACT": "pinged"
  }
 }
