@@ -463,6 +463,8 @@
   "MRVI": "pinged",
   "HBB": "small",
   "UPLD": "small",
-  "PTC": "pinged"
+  "PTC": "pinged",
+  "ARAY": "small",
+  "QCOM": "pinged"
  }
 }
