@@ -671,6 +671,7 @@
   "VCTR": "pinged",
   "NFG": "pinged",
   "MTRX": "small",
-  "BYND": "small"
+  "BYND": "small",
+  "SVC": "small"
  }
 }
