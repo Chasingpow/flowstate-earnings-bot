@@ -461,6 +461,8 @@
   "DLX": "small",
   "TWFG": "small",
   "MRVI": "pinged",
-  "HBB": "small"
+  "HBB": "small",
+  "UPLD": "small",
+  "PTC": "pinged"
  }
 }
