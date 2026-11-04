@@ -658,6 +658,7 @@
   "ARQ": "small",
   "NAVI": "small",
   "WTS": "pinged",
-  "LILAP": "pinged"
+  "LILAP": "pinged",
+  "ATO": "pinged"
  }
 }
