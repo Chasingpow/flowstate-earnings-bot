@@ -669,6 +669,8 @@
   "EE": "pinged",
   "IPAR": "pinged",
   "VCTR": "pinged",
-  "NFG": "pinged"
+  "NFG": "pinged",
+  "MTRX": "small",
+  "BYND": "small"
  }
 }
