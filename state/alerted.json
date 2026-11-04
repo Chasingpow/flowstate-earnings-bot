@@ -620,6 +620,8 @@
   "FC": "small",
   "UHAL-B": "pinged",
   "MLR": "small",
-  "MET-PF": "pinged"
+  "MET-PF": "pinged",
+  "ACR-PD": "small",
+  "HCI": "pinged"
  }
 }
