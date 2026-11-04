@@ -431,6 +431,7 @@
   "AVT": "pinged",
   "SMRT": "small",
   "URGN": "small",
-  "SWX": "pinged"
+  "SWX": "pinged",
+  "PCSA": "small"
  }
 }
