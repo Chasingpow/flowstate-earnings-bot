@@ -416,6 +416,7 @@
   "FSTR": "small",
   "FIS": "pinged",
   "NAMS": "pinged",
-  "RPRX": "pinged"
+  "RPRX": "pinged",
+  "MSGE": "pinged"
  }
 }
