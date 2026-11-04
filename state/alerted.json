@@ -418,6 +418,7 @@
   "NAMS": "pinged",
   "RPRX": "pinged",
   "MSGE": "pinged",
-  "XPEL": "small"
+  "XPEL": "small",
+  "BTU": "pinged"
  }
 }
