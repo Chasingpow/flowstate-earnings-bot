@@ -443,6 +443,7 @@
   "MFA-PC": "small",
   "UWMC": "pinged",
   "CLVT": "small",
-  "WTRG": "pinged"
+  "WTRG": "pinged",
+  "FRPT": "pinged"
  }
 }
