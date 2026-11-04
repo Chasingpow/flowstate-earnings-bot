@@ -531,6 +531,8 @@
   "HUBS": "pinged",
   "RLAY": "pinged",
   "ECOR": "small",
-  "MATX": "pinged"
+  "MATX": "pinged",
+  "PACB": "small",
+  "RUN": "pinged"
  }
 }
