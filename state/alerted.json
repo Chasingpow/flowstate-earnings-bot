@@ -417,6 +417,7 @@
   "FIS": "pinged",
   "NAMS": "pinged",
   "RPRX": "pinged",
-  "MSGE": "pinged"
+  "MSGE": "pinged",
+  "XPEL": "small"
  }
 }
