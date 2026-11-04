@@ -376,6 +376,7 @@
   "PMTS": "small",
   "SDHC": "small",
   "KHC": "pinged",
-  "ADV": "small"
+  "ADV": "small",
+  "VAC": "pinged"
  }
 }
