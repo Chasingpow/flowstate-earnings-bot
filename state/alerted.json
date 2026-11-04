@@ -567,6 +567,8 @@
   "ARDT": "small",
   "CDRE": "small",
   "VECO": "pinged",
-  "ECPG": "pinged"
+  "ECPG": "pinged",
+  "WBI": "small",
+  "LB": "pinged"
  }
 }
