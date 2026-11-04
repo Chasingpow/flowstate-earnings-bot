@@ -419,6 +419,7 @@
   "RPRX": "pinged",
   "MSGE": "pinged",
   "XPEL": "small",
-  "BTU": "pinged"
+  "BTU": "pinged",
+  "STIM": "small"
  }
 }
