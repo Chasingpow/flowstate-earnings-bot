@@ -613,6 +613,9 @@
   "UIS": "small",
   "WOLF": "small",
   "MBI": "small",
-  "EW": "pinged"
+  "EW": "pinged",
+  "RDW": "small",
+  "DDD": "small",
+  "PK": "pinged"
  }
 }
