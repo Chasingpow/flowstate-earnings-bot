@@ -441,6 +441,7 @@
   "RAND": "small",
   "MGEE": "pinged",
   "MFA-PC": "small",
-  "UWMC": "pinged"
+  "UWMC": "pinged",
+  "CLVT": "small"
  }
 }
