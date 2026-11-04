@@ -391,6 +391,8 @@
   "TRMB": "pinged",
   "CRTO": "small",
   "MCRB": "small",
-  "NVCT": "small"
+  "NVCT": "small",
+  "MLTX": "small",
+  "CDW": "pinged"
  }
 }
