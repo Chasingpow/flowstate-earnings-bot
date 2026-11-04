@@ -377,6 +377,7 @@
   "SDHC": "small",
   "KHC": "pinged",
   "ADV": "small",
-  "VAC": "pinged"
+  "VAC": "pinged",
+  "MCD": "pinged"
  }
 }
