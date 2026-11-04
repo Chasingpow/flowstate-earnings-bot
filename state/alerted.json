@@ -542,6 +542,9 @@
   "ELF": "pinged",
   "SNAP": "pinged",
   "TKNO": "small",
-  "WES": "pinged"
+  "WES": "pinged",
+  "EOLS": "small",
+  "QNST": "small",
+  "ALTO": "small"
  }
 }
