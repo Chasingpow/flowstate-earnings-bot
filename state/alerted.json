@@ -526,6 +526,8 @@
   "VIR": "small",
   "ADMA": "pinged",
   "ACHC": "pinged",
-  "PAYC": "pinged"
+  "PAYC": "pinged",
+  "SERA": "small",
+  "HUBS": "pinged"
  }
 }
