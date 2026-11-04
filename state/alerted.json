@@ -345,6 +345,8 @@
   "MITT-PC": "small",
   "RPC": "small",
   "ZBH": "pinged",
-  "UTHR": "pinged"
+  "UTHR": "pinged",
+  "ASIX": "small",
+  "ESAB": "pinged"
  }
 }
