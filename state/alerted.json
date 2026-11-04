@@ -494,6 +494,11 @@
   "ERII": "small",
   "MNTN": "small",
   "MCK": "pinged",
-  "FIG": "pinged"
+  "FIG": "pinged",
+  "AGL": "small",
+  "RGR": "small",
+  "AEVA": "small",
+  "ROOT": "small",
+  "RELY": "pinged"
  }
 }
