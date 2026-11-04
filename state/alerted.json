@@ -573,6 +573,8 @@
   "OM": "small",
   "ADPT": "pinged",
   "PSBD": "small",
-  "GPMT-PA": "small"
+  "GPMT-PA": "small",
+  "CIX": "small",
+  "SITM": "pinged"
  }
 }
