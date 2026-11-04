@@ -558,6 +558,7 @@
   "NVST": "pinged",
   "MATV": "small",
   "STKS": "small",
-  "MAC": "pinged"
+  "MAC": "pinged",
+  "TASK": "small"
  }
 }
