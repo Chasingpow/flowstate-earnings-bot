@@ -616,6 +616,8 @@
   "EW": "pinged",
   "RDW": "small",
   "DDD": "small",
-  "PK": "pinged"
+  "PK": "pinged",
+  "FC": "small",
+  "UHAL-B": "pinged"
  }
 }
