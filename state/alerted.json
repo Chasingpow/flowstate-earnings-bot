@@ -676,6 +676,8 @@
   "FRPH": "small",
   "VMD": "small",
   "EFC-PD": "small",
-  "CHRD": "pinged"
+  "CHRD": "pinged",
+  "SD": "small",
+  "NHP": "small"
  }
 }
