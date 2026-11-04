@@ -566,6 +566,7 @@
   "PLMR": "pinged",
   "ARDT": "small",
   "CDRE": "small",
-  "VECO": "pinged"
+  "VECO": "pinged",
+  "ECPG": "pinged"
  }
 }
