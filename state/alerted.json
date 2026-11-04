@@ -489,6 +489,10 @@
   "AKA": "small",
   "CLOV": "pinged",
   "SMA": "pinged",
-  "SDGR": "pinged"
+  "SDGR": "pinged",
+  "AMSC": "small",
+  "ERII": "small",
+  "MNTN": "small",
+  "MCK": "pinged"
  }
 }
