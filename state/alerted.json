@@ -546,6 +546,10 @@
   "EOLS": "small",
   "QNST": "small",
   "ALTO": "small",
-  "MSI": "pinged"
+  "MSI": "pinged",
+  "EGHT": "small",
+  "SCKT": "small",
+  "ZVIA": "small",
+  "SGHT": "small"
  }
 }
