@@ -659,6 +659,8 @@
   "NAVI": "small",
   "WTS": "pinged",
   "LILAP": "pinged",
-  "ATO": "pinged"
+  "ATO": "pinged",
+  "BGSF": "small",
+  "VSECU": "small"
  }
 }
