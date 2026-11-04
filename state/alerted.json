@@ -349,6 +349,7 @@
   "ASIX": "small",
   "ESAB": "pinged",
   "CVS": "pinged",
-  "RAL": "pinged"
+  "RAL": "pinged",
+  "VPG": "small"
  }
 }
