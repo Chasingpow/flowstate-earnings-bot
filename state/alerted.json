@@ -533,6 +533,8 @@
   "ECOR": "small",
   "MATX": "pinged",
   "PACB": "small",
-  "RUN": "pinged"
+  "RUN": "pinged",
+  "GTM": "small",
+  "CHYM": "pinged"
  }
 }
