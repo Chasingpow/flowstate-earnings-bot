@@ -440,6 +440,7 @@
   "TWIN": "small",
   "RAND": "small",
   "MGEE": "pinged",
-  "MFA-PC": "small"
+  "MFA-PC": "small",
+  "UWMC": "pinged"
  }
 }
