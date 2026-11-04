@@ -569,6 +569,8 @@
   "VECO": "pinged",
   "ECPG": "pinged",
   "WBI": "small",
-  "LB": "pinged"
+  "LB": "pinged",
+  "OM": "small",
+  "ADPT": "pinged"
  }
 }
