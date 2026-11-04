@@ -447,6 +447,9 @@
   "FRPT": "pinged",
   "EXPE": "pinged",
   "MGY": "pinged",
-  "ALGT": "pinged"
+  "ALGT": "pinged",
+  "APC": "small",
+  "NAGE": "small",
+  "MELI": "pinged"
  }
 }
