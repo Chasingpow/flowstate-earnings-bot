@@ -675,6 +675,7 @@
   "SVC": "small",
   "FRPH": "small",
   "VMD": "small",
-  "EFC-PD": "small"
+  "EFC-PD": "small",
+  "CHRD": "pinged"
  }
 }
