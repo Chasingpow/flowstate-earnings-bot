@@ -375,6 +375,7 @@
   "MLM": "pinged",
   "PMTS": "small",
   "SDHC": "small",
-  "KHC": "pinged"
+  "KHC": "pinged",
+  "ADV": "small"
  }
 }
