@@ -625,6 +625,9 @@
   "HCI": "pinged",
   "ACT": "pinged",
   "PRSU": "small",
-  "OPK": "small"
+  "OPK": "small",
+  "GT": "small",
+  "INVA": "small",
+  "LNWO": "pinged"
  }
 }
