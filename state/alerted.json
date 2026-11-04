@@ -652,6 +652,9 @@
   "STE": "pinged",
   "ITT": "pinged",
   "LEU": "small",
-  "LMAT": "pinged"
+  "LMAT": "pinged",
+  "NC": "small",
+  "XRN": "small",
+  "ARQ": "small"
  }
 }
