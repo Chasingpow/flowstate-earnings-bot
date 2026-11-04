@@ -571,6 +571,8 @@
   "WBI": "small",
   "LB": "pinged",
   "OM": "small",
-  "ADPT": "pinged"
+  "ADPT": "pinged",
+  "PSBD": "small",
+  "GPMT-PA": "small"
  }
 }
