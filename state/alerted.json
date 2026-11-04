@@ -623,6 +623,8 @@
   "MET-PF": "pinged",
   "ACR-PD": "small",
   "HCI": "pinged",
-  "ACT": "pinged"
+  "ACT": "pinged",
+  "PRSU": "small",
+  "OPK": "small"
  }
 }
