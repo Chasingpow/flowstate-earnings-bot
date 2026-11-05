@@ -1009,6 +1009,8 @@
   "KBDC": "small",
   "BIOA": "small",
   "AEE": "pinged",
-  "CON": "pinged"
+  "CON": "pinged",
+  "SUIG": "small",
+  "CBL": "small"
  }
 }
