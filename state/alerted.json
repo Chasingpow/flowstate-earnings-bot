@@ -732,6 +732,9 @@
   "RL": "pinged",
   "VCEL": "pinged",
   "ACFN": "small",
-  "NSIT": "pinged"
+  "NSIT": "pinged",
+  "NVAX": "small",
+  "TDAY": "small",
+  "ACLS": "pinged"
  }
 }
