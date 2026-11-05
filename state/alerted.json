@@ -936,6 +936,8 @@
   "FIP": "small",
   "PROF": "small",
   "IRTC": "pinged",
-  "NNDM": "small"
+  "NNDM": "small",
+  "AMN": "small",
+  "XRAY": "pinged"
  }
 }
