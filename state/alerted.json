@@ -842,6 +842,8 @@
   "SOLV": "pinged",
   "BRKRP": "pinged",
   "PRTA": "small",
-  "COMP": "pinged"
+  "COMP": "pinged",
+  "SVV": "small",
+  "TXG": "pinged"
  }
 }
