@@ -727,6 +727,8 @@
   "PTLO": "small",
   "PLTK": "small",
   "BGC": "pinged",
-  "LCUT": "small"
+  "LCUT": "small",
+  "TCPC": "small",
+  "RL": "pinged"
  }
 }
