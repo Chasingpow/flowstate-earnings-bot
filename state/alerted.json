@@ -692,6 +692,8 @@
   "INSW": "pinged",
   "IBP": "pinged",
   "LUCK": "small",
-  "CRON": "small"
+  "CRON": "small",
+  "SNDA": "small",
+  "ARW": "pinged"
  }
 }
