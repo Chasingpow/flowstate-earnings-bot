@@ -631,6 +631,8 @@
   "BSY": "pinged",
   "FLWS": "small",
   "BKSY": "small",
-  "NXST": "pinged"
+  "NXST": "pinged",
+  "LXRX": "small",
+  "GPN": "pinged"
  }
 }
