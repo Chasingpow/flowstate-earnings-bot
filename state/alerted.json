@@ -651,6 +651,11 @@
   "ASTE": "small",
   "EVRG": "pinged",
   "OESX": "small",
-  "WW": "small"
+  "WW": "small",
+  "DIBS": "small",
+  "GEL": "small",
+  "TRIP": "small",
+  "ACTG": "small",
+  "IOVA": "pinged"
  }
 }
