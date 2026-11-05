@@ -769,6 +769,7 @@
   "MSIF": "small",
   "LPCN": "small",
   "NWE": "pinged",
-  "SREA": "pinged"
+  "SREA": "pinged",
+  "GLIBK": "small"
  }
 }
