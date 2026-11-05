@@ -779,6 +779,10 @@
   "OMDA": "small",
   "PRDO": "small",
   "TMDX": "pinged",
-  "ABNB": "pinged"
+  "ABNB": "pinged",
+  "CDLX": "small",
+  "CNDT": "small",
+  "KROS": "small",
+  "BILL": "pinged"
  }
 }
