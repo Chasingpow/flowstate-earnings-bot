@@ -973,6 +973,7 @@
   "FGSN": "small",
   "VHI": "small",
   "DTI": "small",
-  "ABXL": "pinged"
+  "ABXL": "pinged",
+  "AGO": "pinged"
  }
 }
