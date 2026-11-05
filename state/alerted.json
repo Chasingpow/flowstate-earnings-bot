@@ -844,6 +844,7 @@
   "PRTA": "small",
   "COMP": "pinged",
   "SVV": "small",
-  "TXG": "pinged"
+  "TXG": "pinged",
+  "NTRA": "pinged"
  }
 }
