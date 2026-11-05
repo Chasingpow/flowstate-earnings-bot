@@ -770,6 +770,10 @@
   "LPCN": "small",
   "NWE": "pinged",
   "SREA": "pinged",
-  "GLIBK": "small"
+  "GLIBK": "small",
+  "AGNT": "small",
+  "CCSI": "small",
+  "UMAC": "small",
+  "CGBD": "small"
  }
 }
