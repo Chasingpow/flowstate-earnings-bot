@@ -660,6 +660,8 @@
   "ZTS": "pinged",
   "IRWD": "small",
   "CCLD": "small",
-  "GPGI": "pinged"
+  "GPGI": "pinged",
+  "WEN": "small",
+  "FUN": "small"
  }
 }
