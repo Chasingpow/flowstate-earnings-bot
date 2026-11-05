@@ -730,6 +730,7 @@
   "LCUT": "small",
   "TCPC": "small",
   "RL": "pinged",
-  "VCEL": "pinged"
+  "VCEL": "pinged",
+  "ACFN": "small"
  }
 }
