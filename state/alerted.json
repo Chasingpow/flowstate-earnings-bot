@@ -964,6 +964,7 @@
   "EOG": "pinged",
   "MAT": "pinged",
   "NET": "pinged",
-  "CALY": "pinged"
+  "CALY": "pinged",
+  "TSSI": "small"
  }
 }
