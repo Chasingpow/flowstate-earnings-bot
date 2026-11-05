@@ -820,6 +820,8 @@
   "VSAT": "pinged",
   "CENX": "pinged",
   "PRAA": "small",
-  "VERA": "pinged"
+  "VERA": "pinged",
+  "DNA": "small",
+  "IONQ": "pinged"
  }
 }
