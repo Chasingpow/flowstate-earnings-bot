@@ -867,6 +867,7 @@
   "WLDN": "small",
   "DH": "small",
   "INDI": "small",
-  "TDC": "pinged"
+  "TDC": "pinged",
+  "SPG-PJ": "pinged"
  }
 }
