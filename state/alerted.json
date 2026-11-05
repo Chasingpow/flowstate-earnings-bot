@@ -735,6 +735,9 @@
   "NSIT": "pinged",
   "NVAX": "small",
   "TDAY": "small",
-  "ACLS": "pinged"
+  "ACLS": "pinged",
+  "PCSA": "small",
+  "FLNA": "small",
+  "CRAI": "small"
  }
 }
