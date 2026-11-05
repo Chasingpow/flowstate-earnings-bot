@@ -765,6 +765,7 @@
   "HPP-PC": "pinged",
   "DBX": "pinged",
   "CLDT-PA": "small",
-  "MTVA": "small"
+  "MTVA": "small",
+  "MSIF": "small"
  }
 }
