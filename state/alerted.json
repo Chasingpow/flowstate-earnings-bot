@@ -662,6 +662,8 @@
   "CCLD": "small",
   "GPGI": "pinged",
   "WEN": "small",
-  "FUN": "small"
+  "FUN": "small",
+  "CPS": "small",
+  "CERT": "small"
  }
 }
