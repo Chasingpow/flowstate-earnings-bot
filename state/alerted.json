@@ -868,6 +868,11 @@
   "DH": "small",
   "INDI": "small",
   "TDC": "pinged",
-  "SPG-PJ": "pinged"
+  "SPG-PJ": "pinged",
+  "EVCM": "small",
+  "FLL": "small",
+  "JANX": "small",
+  "SANA": "small",
+  "PCTY": "pinged"
  }
 }
