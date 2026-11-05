@@ -767,6 +767,7 @@
   "CLDT-PA": "small",
   "MTVA": "small",
   "MSIF": "small",
-  "LPCN": "small"
+  "LPCN": "small",
+  "NWE": "pinged"
  }
 }
