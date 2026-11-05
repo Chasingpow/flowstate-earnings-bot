@@ -1026,6 +1026,9 @@
   "INSE": "small",
   "STRW": "small",
   "ISPC": "small",
-  "EGY": "small"
+  "EGY": "small",
+  "TCX": "small",
+  "RC-PE": "small",
+  "DIOD": "pinged"
  }
 }
