@@ -893,6 +893,13 @@
   "PAR": "small",
   "GRDN": "pinged",
   "ICUI": "pinged",
-  "CARG": "pinged"
+  "CARG": "pinged",
+  "FOCL": "small",
+  "SRPT": "small",
+  "INAB": "small",
+  "ALEC": "small",
+  "RCEL": "small",
+  "SERV": "small",
+  "LYFT": "pinged"
  }
 }
