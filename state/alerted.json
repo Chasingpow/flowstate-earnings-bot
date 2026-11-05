@@ -813,6 +813,10 @@
   "QRHC": "small",
   "RWAYM": "small",
   "EVC": "small",
-  "TXRH": "pinged"
+  "TXRH": "pinged",
+  "NEPH": "small",
+  "YELP": "small",
+  "AOSL": "small",
+  "VSAT": "pinged"
  }
 }
