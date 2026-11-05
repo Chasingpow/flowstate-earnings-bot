@@ -789,6 +789,7 @@
   "BLNK": "small",
   "SINT": "small",
   "BDSX": "small",
-  "IREN": "pinged"
+  "IREN": "pinged",
+  "DOCS": "pinged"
  }
 }
