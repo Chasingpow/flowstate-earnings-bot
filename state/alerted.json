@@ -763,6 +763,7 @@
   "KVHI": "small",
   "TROX": "small",
   "HPP-PC": "pinged",
-  "DBX": "pinged"
+  "DBX": "pinged",
+  "CLDT-PA": "small"
  }
 }
