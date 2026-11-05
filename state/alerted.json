@@ -676,6 +676,8 @@
   "KRP": "small",
   "XERS": "small",
   "COP": "pinged",
-  "APPN": "pinged"
+  "APPN": "pinged",
+  "AKBA": "small",
+  "MH": "pinged"
  }
 }
