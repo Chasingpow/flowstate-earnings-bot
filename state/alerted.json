@@ -818,6 +818,8 @@
   "YELP": "small",
   "AOSL": "small",
   "VSAT": "pinged",
-  "CENX": "pinged"
+  "CENX": "pinged",
+  "PRAA": "small",
+  "VERA": "pinged"
  }
 }
