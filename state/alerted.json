@@ -690,6 +690,8 @@
   "PVLA": "pinged",
   "GNE": "small",
   "INSW": "pinged",
-  "IBP": "pinged"
+  "IBP": "pinged",
+  "LUCK": "small",
+  "CRON": "small"
  }
 }
