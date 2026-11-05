@@ -591,6 +591,8 @@
   "AGIO": "small",
   "PRKS": "small",
   "KMB": "pinged",
-  "TAP-A": "pinged"
+  "TAP-A": "pinged",
+  "STRA": "small",
+  "COLD": "pinged"
  }
 }
