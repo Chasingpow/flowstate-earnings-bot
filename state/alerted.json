@@ -828,6 +828,11 @@
   "AVPT": "pinged",
   "GSIT": "small",
   "BL": "small",
-  "STEP": "pinged"
+  "STEP": "pinged",
+  "INOD": "small",
+  "BLND": "small",
+  "AORT": "small",
+  "RILY": "small",
+  "PLSE": "pinged"
  }
 }
