@@ -962,6 +962,7 @@
   "ASLE": "small",
   "AXON": "pinged",
   "EOG": "pinged",
-  "MAT": "pinged"
+  "MAT": "pinged",
+  "NET": "pinged"
  }
 }
