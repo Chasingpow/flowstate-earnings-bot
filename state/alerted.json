@@ -688,6 +688,7 @@
   "NXDR": "small",
   "CW": "pinged",
   "PVLA": "pinged",
-  "GNE": "small"
+  "GNE": "small",
+  "INSW": "pinged"
  }
 }
