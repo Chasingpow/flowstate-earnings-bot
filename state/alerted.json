@@ -935,6 +935,7 @@
   "CLNE": "small",
   "FIP": "small",
   "PROF": "small",
-  "IRTC": "pinged"
+  "IRTC": "pinged",
+  "NNDM": "small"
  }
 }
