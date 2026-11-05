@@ -938,6 +938,9 @@
   "IRTC": "pinged",
   "NNDM": "small",
   "AMN": "small",
-  "XRAY": "pinged"
+  "XRAY": "pinged",
+  "OPENZ": "small",
+  "LBRX": "small",
+  "DXPE": "pinged"
  }
 }
