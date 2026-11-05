@@ -957,6 +957,9 @@
   "NNI": "pinged",
   "KRMN": "pinged",
   "BFS-PE": "small",
-  "GRND": "pinged"
+  "GRND": "pinged",
+  "CABO": "small",
+  "ASLE": "small",
+  "AXON": "pinged"
  }
 }
