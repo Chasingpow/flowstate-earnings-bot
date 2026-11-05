@@ -965,6 +965,8 @@
   "MAT": "pinged",
   "NET": "pinged",
   "CALY": "pinged",
-  "TSSI": "small"
+  "TSSI": "small",
+  "PLBY": "small",
+  "MAIN": "pinged"
  }
 }
