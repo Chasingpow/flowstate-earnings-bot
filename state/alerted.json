@@ -833,6 +833,12 @@
   "BLND": "small",
   "AORT": "small",
   "RILY": "small",
-  "PLSE": "pinged"
+  "PLSE": "pinged",
+  "CTMX": "small",
+  "DMLP": "small",
+  "HCAT": "small",
+  "ARLO": "small",
+  "ICFI": "small",
+  "SOLV": "pinged"
  }
 }
