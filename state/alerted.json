@@ -955,6 +955,8 @@
   "IBEX": "small",
   "PSQH": "small",
   "NNI": "pinged",
-  "KRMN": "pinged"
+  "KRMN": "pinged",
+  "BFS-PE": "small",
+  "GRND": "pinged"
  }
 }
