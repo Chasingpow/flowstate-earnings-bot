@@ -840,6 +840,8 @@
   "ARLO": "small",
   "ICFI": "small",
   "SOLV": "pinged",
-  "BRKRP": "pinged"
+  "BRKRP": "pinged",
+  "PRTA": "small",
+  "COMP": "pinged"
  }
 }
