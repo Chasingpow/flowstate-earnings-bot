@@ -718,6 +718,9 @@
   "ACIW": "pinged",
   "INTS": "small",
   "NTCT": "pinged",
-  "RDN": "pinged"
+  "RDN": "pinged",
+  "AGEN": "small",
+  "LYTS": "small",
+  "TRC": "small"
  }
 }
