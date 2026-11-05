@@ -790,6 +790,8 @@
   "SINT": "small",
   "BDSX": "small",
   "IREN": "pinged",
-  "DOCS": "pinged"
+  "DOCS": "pinged",
+  "NUTX": "small",
+  "QNT": "pinged"
  }
 }
