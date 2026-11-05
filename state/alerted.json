@@ -1015,6 +1015,8 @@
   "EFC-PD": "small",
   "CPK": "pinged",
   "ED": "pinged",
-  "FRD": "small"
+  "FRD": "small",
+  "BRT": "small",
+  "PANL": "small"
  }
 }
