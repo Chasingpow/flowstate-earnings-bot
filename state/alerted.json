@@ -901,6 +901,8 @@
   "RCEL": "small",
   "SERV": "small",
   "LYFT": "pinged",
-  "TEAM": "pinged"
+  "TEAM": "pinged",
+  "MOBI": "small",
+  "LOCO": "small"
  }
 }
