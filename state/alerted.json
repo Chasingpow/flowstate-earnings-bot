@@ -601,6 +601,7 @@
   "CIM-PD": "small",
   "TPR": "pinged",
   "WRBY": "pinged",
-  "IRM": "pinged"
+  "IRM": "pinged",
+  "EOSEW": "small"
  }
 }
