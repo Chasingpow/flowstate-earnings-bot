@@ -656,6 +656,7 @@
   "GEL": "small",
   "TRIP": "small",
   "ACTG": "small",
-  "IOVA": "pinged"
+  "IOVA": "pinged",
+  "ZTS": "pinged"
  }
 }
