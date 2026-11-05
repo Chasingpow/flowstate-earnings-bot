@@ -721,6 +721,8 @@
   "RDN": "pinged",
   "AGEN": "small",
   "LYTS": "small",
-  "TRC": "small"
+  "TRC": "small",
+  "STTK": "small",
+  "GSAT": "pinged"
  }
 }
