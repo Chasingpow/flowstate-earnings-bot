@@ -657,6 +657,9 @@
   "TRIP": "small",
   "ACTG": "small",
   "IOVA": "pinged",
-  "ZTS": "pinged"
+  "ZTS": "pinged",
+  "IRWD": "small",
+  "CCLD": "small",
+  "GPGI": "pinged"
  }
 }
