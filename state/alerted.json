@@ -974,6 +974,9 @@
   "VHI": "small",
   "DTI": "small",
   "ABXL": "pinged",
-  "AGO": "pinged"
+  "AGO": "pinged",
+  "NUS": "small",
+  "VTVT": "small",
+  "BHR-PD": "small"
  }
 }
