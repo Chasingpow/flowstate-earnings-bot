@@ -817,6 +817,7 @@
   "NEPH": "small",
   "YELP": "small",
   "AOSL": "small",
-  "VSAT": "pinged"
+  "VSAT": "pinged",
+  "CENX": "pinged"
  }
 }
