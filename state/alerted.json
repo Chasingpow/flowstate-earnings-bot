@@ -880,6 +880,11 @@
   "VXRT": "small",
   "G": "pinged",
   "WK": "pinged",
-  "ALRM": "pinged"
+  "ALRM": "pinged",
+  "ASTH": "small",
+  "CVRX": "small",
+  "LIDR": "small",
+  "GPRE": "small",
+  "AAOI": "pinged"
  }
 }
