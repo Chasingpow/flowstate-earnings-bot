@@ -726,6 +726,7 @@
   "GSAT": "pinged",
   "PTLO": "small",
   "PLTK": "small",
-  "BGC": "pinged"
+  "BGC": "pinged",
+  "LCUT": "small"
  }
 }
