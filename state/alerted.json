@@ -785,6 +785,10 @@
   "KROS": "small",
   "BILL": "pinged",
   "TRUP": "small",
-  "CRVS": "small"
+  "CRVS": "small",
+  "BLNK": "small",
+  "SINT": "small",
+  "BDSX": "small",
+  "IREN": "pinged"
  }
 }
