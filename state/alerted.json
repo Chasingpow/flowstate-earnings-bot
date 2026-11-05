@@ -628,6 +628,9 @@
   "CMRC": "small",
   "MBUU": "small",
   "TRDA": "small",
-  "BSY": "pinged"
+  "BSY": "pinged",
+  "FLWS": "small",
+  "BKSY": "small",
+  "NXST": "pinged"
  }
 }
