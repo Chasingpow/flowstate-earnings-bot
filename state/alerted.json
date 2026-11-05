@@ -986,6 +986,11 @@
   "NXH": "small",
   "CLAR": "small",
   "BARK": "small",
-  "PDFS": "small"
+  "PDFS": "small",
+  "SMR": "small",
+  "RDVT": "small",
+  "HTFC": "small",
+  "TECX": "small",
+  "CPT": "pinged"
  }
 }
