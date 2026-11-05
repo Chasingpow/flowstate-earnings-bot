@@ -633,6 +633,9 @@
   "BKSY": "small",
   "NXST": "pinged",
   "LXRX": "small",
-  "GPN": "pinged"
+  "GPN": "pinged",
+  "GLUE": "small",
+  "RNAC": "small",
+  "FOUR": "pinged"
  }
 }
