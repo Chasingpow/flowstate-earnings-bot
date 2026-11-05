@@ -928,6 +928,13 @@
   "TSNDF": "small",
   "APLE": "pinged",
   "SRFM": "small",
-  "NOG": "pinged"
+  "NOG": "pinged",
+  "QSI": "small",
+  "GNL-PE": "small",
+  "BBDC": "small",
+  "CLNE": "small",
+  "FIP": "small",
+  "PROF": "small",
+  "IRTC": "pinged"
  }
 }
