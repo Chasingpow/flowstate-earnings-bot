@@ -731,6 +731,7 @@
   "TCPC": "small",
   "RL": "pinged",
   "VCEL": "pinged",
-  "ACFN": "small"
+  "ACFN": "small",
+  "NSIT": "pinged"
  }
 }
