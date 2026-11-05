@@ -853,6 +853,8 @@
   "LION": "pinged",
   "CTRE": "pinged",
   "ALLO": "small",
-  "OUT": "pinged"
+  "OUT": "pinged",
+  "TNDM": "small",
+  "HALO": "pinged"
  }
 }
