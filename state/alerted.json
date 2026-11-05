@@ -636,6 +636,8 @@
   "GPN": "pinged",
   "GLUE": "small",
   "RNAC": "small",
-  "FOUR": "pinged"
+  "FOUR": "pinged",
+  "APYX": "small",
+  "ROK": "pinged"
  }
 }
