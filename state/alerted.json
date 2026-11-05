@@ -885,6 +885,12 @@
   "CVRX": "small",
   "LIDR": "small",
   "GPRE": "small",
-  "AAOI": "pinged"
+  "AAOI": "pinged",
+  "WEST": "small",
+  "ORGO": "small",
+  "KLXE": "small",
+  "RIGL": "small",
+  "PAR": "small",
+  "GRDN": "pinged"
  }
 }
