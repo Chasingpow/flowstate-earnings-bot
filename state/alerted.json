@@ -857,6 +857,9 @@
   "TNDM": "small",
   "HALO": "pinged",
   "SYNA": "pinged",
-  "GH": "pinged"
+  "GH": "pinged",
+  "INGN": "small",
+  "FLGT": "small",
+  "AKAM": "pinged"
  }
 }
