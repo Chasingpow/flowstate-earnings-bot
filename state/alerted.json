@@ -678,6 +678,9 @@
   "COP": "pinged",
   "APPN": "pinged",
   "AKBA": "small",
-  "MH": "pinged"
+  "MH": "pinged",
+  "ACRS": "small",
+  "CCCC": "small",
+  "SSTK": "small"
  }
 }
