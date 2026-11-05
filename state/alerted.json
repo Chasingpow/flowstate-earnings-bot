@@ -729,6 +729,7 @@
   "BGC": "pinged",
   "LCUT": "small",
   "TCPC": "small",
-  "RL": "pinged"
+  "RL": "pinged",
+  "VCEL": "pinged"
  }
 }
