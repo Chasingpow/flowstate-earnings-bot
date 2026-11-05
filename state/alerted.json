@@ -596,6 +596,9 @@
   "COLD": "pinged",
   "ZLAB": "pinged",
   "FSK": "pinged",
-  "VNT": "pinged"
+  "VNT": "pinged",
+  "ONIT": "small",
+  "CIM-PD": "small",
+  "TPR": "pinged"
  }
 }
