@@ -694,6 +694,8 @@
   "LUCK": "small",
   "CRON": "small",
   "SNDA": "small",
-  "ARW": "pinged"
+  "ARW": "pinged",
+  "COLL": "small",
+  "MTSI": "pinged"
  }
 }
