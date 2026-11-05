@@ -723,6 +723,8 @@
   "LYTS": "small",
   "TRC": "small",
   "STTK": "small",
-  "GSAT": "pinged"
+  "GSAT": "pinged",
+  "PTLO": "small",
+  "PLTK": "small"
  }
 }
