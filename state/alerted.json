@@ -855,6 +855,7 @@
   "ALLO": "small",
   "OUT": "pinged",
   "TNDM": "small",
-  "HALO": "pinged"
+  "HALO": "pinged",
+  "SYNA": "pinged"
  }
 }
