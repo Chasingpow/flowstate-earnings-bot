@@ -826,6 +826,7 @@
   "BGDE": "small",
   "MMI": "small",
   "SLVM": "small",
-  "CTM": "small"
+  "CTM": "small",
+  "HUM": "pinged"
  }
 }
