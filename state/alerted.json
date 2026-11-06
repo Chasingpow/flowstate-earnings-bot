@@ -820,6 +820,10 @@
  },
  "2026-11-06": {
   "GTE": "small",
-  "GSBD": "small"
+  "GSBD": "small",
+  "ZD": "small",
+  "ACRE": "small",
+  "BGDE": "small",
+  "MMI": "small"
  }
 }
