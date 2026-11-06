@@ -828,6 +828,9 @@
   "SLVM": "small",
   "CTM": "small",
   "HUM": "pinged",
-  "ELAN": "pinged"
+  "ELAN": "pinged",
+  "PSQH": "small",
+  "JBGS": "small",
+  "GTN-A": "small"
  }
 }
