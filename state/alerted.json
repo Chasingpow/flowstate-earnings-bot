@@ -827,6 +827,7 @@
   "MMI": "small",
   "SLVM": "small",
   "CTM": "small",
-  "HUM": "pinged"
+  "HUM": "pinged",
+  "ELAN": "pinged"
  }
 }
