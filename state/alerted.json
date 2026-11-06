@@ -819,6 +819,7 @@
   "REVBW": "small"
  },
  "2026-11-06": {
-  "GTE": "small"
+  "GTE": "small",
+  "GSBD": "small"
  }
 }
