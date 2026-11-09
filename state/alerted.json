@@ -596,6 +596,9 @@
   "KMPR": "small",
   "ONTO": "pinged",
   "CRVO": "small",
-  "NHI": "pinged"
+  "NHI": "pinged",
+  "AMRC": "small",
+  "OSUR": "small",
+  "QLYS": "pinged"
  }
 }
