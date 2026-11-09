@@ -543,6 +543,8 @@
   "OFIX": "small",
   "TPB": "small",
   "DCTH": "small",
-  "RBA": "pinged"
+  "RBA": "pinged",
+  "JSPR": "small",
+  "SPRB": "small"
  }
 }
