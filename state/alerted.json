@@ -586,6 +586,8 @@
   "KLTR": "small",
   "ACHR": "pinged",
   "IHRT": "small",
-  "CSQR": "pinged"
+  "CSQR": "pinged",
+  "NRDY": "small",
+  "PLUG": "pinged"
  }
 }
