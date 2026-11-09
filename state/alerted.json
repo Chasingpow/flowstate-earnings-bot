@@ -535,6 +535,7 @@
   "AIOT": "small",
   "ROIV": "pinged",
   "TNXP": "small",
-  "HRTX": "small"
+  "HRTX": "small",
+  "RDNT": "pinged"
  }
 }
