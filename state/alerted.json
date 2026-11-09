@@ -518,6 +518,9 @@
   "VIA": "pinged",
   "ISPR": "small",
   "IONS": "pinged",
-  "PROK": "small"
+  "PROK": "small",
+  "GCMG": "small",
+  "VRTS": "small",
+  "PRAX": "pinged"
  }
 }
