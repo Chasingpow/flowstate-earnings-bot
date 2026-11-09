@@ -565,6 +565,10 @@
   "OXBRW": "small",
   "SKYD": "pinged",
   "SEPN": "pinged",
-  "AMCX": "small"
+  "AMCX": "small",
+  "APPS": "small",
+  "LTRX": "small",
+  "PAYS": "small",
+  "ZETA": "pinged"
  }
 }
