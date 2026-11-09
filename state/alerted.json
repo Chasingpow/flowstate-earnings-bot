@@ -588,6 +588,10 @@
   "IHRT": "small",
   "CSQR": "pinged",
   "NRDY": "small",
-  "PLUG": "pinged"
+  "PLUG": "pinged",
+  "PUBM": "small",
+  "DJT": "small",
+  "PAAI": "small",
+  "ZYME": "pinged"
  }
 }
