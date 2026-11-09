@@ -662,6 +662,8 @@
   "MLAB": "small",
   "ASTS": "pinged",
   "NOVTU": "pinged",
-  "GMRS": "small"
+  "GMRS": "small",
+  "SMC": "small",
+  "EQPT": "pinged"
  }
 }
