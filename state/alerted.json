@@ -603,6 +603,9 @@
   "ZIP": "small",
   "LCID": "small",
   "QUBT": "small",
-  "AAON": "pinged"
+  "AAON": "pinged",
+  "MAZE": "small",
+  "OSG": "small",
+  "TTD": "pinged"
  }
 }
