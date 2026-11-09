@@ -521,6 +521,7 @@
   "PROK": "small",
   "GCMG": "small",
   "VRTS": "small",
-  "PRAX": "pinged"
+  "PRAX": "pinged",
+  "TGTX": "pinged"
  }
 }
