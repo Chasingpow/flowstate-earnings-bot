@@ -547,6 +547,8 @@
   "JSPR": "small",
   "SPRB": "small",
   "ADCT": "small",
-  "UNIT": "small"
+  "UNIT": "small",
+  "OPAL": "small",
+  "QTRX": "small"
  }
 }
