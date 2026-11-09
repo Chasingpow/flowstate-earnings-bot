@@ -607,6 +607,9 @@
   "MAZE": "small",
   "OSG": "small",
   "TTD": "pinged",
-  "DFTX": "pinged"
+  "DFTX": "pinged",
+  "CCAP": "small",
+  "MYO": "small",
+  "ETD": "small"
  }
 }
