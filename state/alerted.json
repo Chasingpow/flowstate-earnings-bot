@@ -661,6 +661,7 @@
   "RNGR": "small",
   "MLAB": "small",
   "ASTS": "pinged",
-  "NOVTU": "pinged"
+  "NOVTU": "pinged",
+  "GMRS": "small"
  }
 }
