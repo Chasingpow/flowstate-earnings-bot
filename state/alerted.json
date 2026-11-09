@@ -664,6 +664,7 @@
   "NOVTU": "pinged",
   "GMRS": "small",
   "SMC": "small",
-  "EQPT": "pinged"
+  "EQPT": "pinged",
+  "EXOD": "small"
  }
 }
