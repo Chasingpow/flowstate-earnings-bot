@@ -620,6 +620,7 @@
   "APEI": "small",
   "HRB": "pinged",
   "USAR": "small",
-  "LIF": "pinged"
+  "LIF": "pinged",
+  "CWST": "pinged"
  }
 }
