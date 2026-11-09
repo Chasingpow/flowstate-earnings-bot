@@ -665,6 +665,8 @@
   "GMRS": "small",
   "SMC": "small",
   "EQPT": "pinged",
-  "EXOD": "small"
+  "EXOD": "small",
+  "RANI": "small",
+  "BCSF": "small"
  }
 }
