@@ -625,6 +625,10 @@
   "GRPN": "small",
   "QMCO": "small",
   "HROW": "small",
-  "OXY-WT": "pinged"
+  "OXY-WT": "pinged",
+  "RPAY": "small",
+  "SECZ": "small",
+  "WBTN": "small",
+  "EVI": "small"
  }
 }
