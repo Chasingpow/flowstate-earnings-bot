@@ -525,6 +525,8 @@
   "TGTX": "pinged",
   "EDIT": "small",
   "VFF": "small",
-  "WTTR": "pinged"
+  "WTTR": "pinged",
+  "FHTX": "small",
+  "MGRE": "pinged"
  }
 }
