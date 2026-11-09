@@ -508,6 +508,7 @@
   "SEAT": "small",
   "SOC": "small",
   "CNH": "pinged",
-  "SGI": "pinged"
+  "SGI": "pinged",
+  "NRG": "pinged"
  }
 }
