@@ -522,6 +522,8 @@
   "GCMG": "small",
   "VRTS": "small",
   "PRAX": "pinged",
-  "TGTX": "pinged"
+  "TGTX": "pinged",
+  "EDIT": "small",
+  "VFF": "small"
  }
 }
