@@ -653,6 +653,8 @@
   "BW-PA": "small",
   "OPI": "small",
   "TRVI": "pinged",
-  "GDOT": "small"
+  "GDOT": "small",
+  "DSP": "small",
+  "JBS": "pinged"
  }
 }
