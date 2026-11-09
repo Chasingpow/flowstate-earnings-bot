@@ -643,6 +643,8 @@
   "INR": "small",
   "CNNE": "small",
   "LINC": "small",
-  "CHRS": "small"
+  "CHRS": "small",
+  "FF": "small",
+  "TDW": "pinged"
  }
 }
