@@ -515,6 +515,8 @@
   "TH": "small",
   "KKRT": "small",
   "CEG": "pinged",
-  "VIA": "pinged"
+  "VIA": "pinged",
+  "ISPR": "small",
+  "IONS": "pinged"
  }
 }
