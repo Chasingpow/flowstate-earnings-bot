@@ -618,6 +618,8 @@
   "HIMS": "pinged",
   "AMPY": "small",
   "APEI": "small",
-  "HRB": "pinged"
+  "HRB": "pinged",
+  "USAR": "small",
+  "LIF": "pinged"
  }
 }
