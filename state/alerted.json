@@ -509,6 +509,7 @@
   "SOC": "small",
   "CNH": "pinged",
   "SGI": "pinged",
-  "NRG": "pinged"
+  "NRG": "pinged",
+  "LDI": "small"
  }
 }
