@@ -534,6 +534,7 @@
   "SGC": "small",
   "AIOT": "small",
   "ROIV": "pinged",
-  "TNXP": "small"
+  "TNXP": "small",
+  "HRTX": "small"
  }
 }
