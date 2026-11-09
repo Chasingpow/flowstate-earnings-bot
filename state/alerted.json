@@ -517,6 +517,7 @@
   "CEG": "pinged",
   "VIA": "pinged",
   "ISPR": "small",
-  "IONS": "pinged"
+  "IONS": "pinged",
+  "PROK": "small"
  }
 }
