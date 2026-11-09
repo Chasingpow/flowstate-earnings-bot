@@ -636,6 +636,8 @@
   "DIT": "small",
   "OBIO": "small",
   "HFFG": "small",
-  "RAIL": "small"
+  "RAIL": "small",
+  "AVIR": "small",
+  "LINE": "pinged"
  }
 }
