@@ -638,6 +638,10 @@
   "HFFG": "small",
   "RAIL": "small",
   "AVIR": "small",
-  "LINE": "pinged"
+  "LINE": "pinged",
+  "BTGO": "small",
+  "INR": "small",
+  "CNNE": "small",
+  "LINC": "small"
  }
 }
