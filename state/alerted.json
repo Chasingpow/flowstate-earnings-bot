@@ -545,6 +545,8 @@
   "DCTH": "small",
   "RBA": "pinged",
   "JSPR": "small",
-  "SPRB": "small"
+  "SPRB": "small",
+  "ADCT": "small",
+  "UNIT": "small"
  }
 }
