@@ -599,6 +599,8 @@
   "NHI": "pinged",
   "AMRC": "small",
   "OSUR": "small",
-  "QLYS": "pinged"
+  "QLYS": "pinged",
+  "ZIP": "small",
+  "LCID": "small"
  }
 }
