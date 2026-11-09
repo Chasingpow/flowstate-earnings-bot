@@ -569,6 +569,9 @@
   "APPS": "small",
   "LTRX": "small",
   "PAYS": "small",
-  "ZETA": "pinged"
+  "ZETA": "pinged",
+  "RLGT": "small",
+  "ANNX": "small",
+  "MBX": "pinged"
  }
 }
