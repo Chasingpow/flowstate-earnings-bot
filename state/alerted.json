@@ -246,6 +246,8 @@
   "PDYN": "small",
   "COAG": "small",
   "LNSR": "small",
-  "SRRK": "pinged"
+  "SRRK": "pinged",
+  "CLRB": "small",
+  "AUTL": "small"
  }
 }
