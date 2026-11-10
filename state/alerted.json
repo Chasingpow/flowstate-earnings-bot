@@ -242,6 +242,8 @@
   "HUMA": "small",
   "UPB": "small",
   "OLMA": "small",
-  "MASS": "small"
+  "MASS": "small",
+  "PDYN": "small",
+  "COAG": "small"
  }
 }
