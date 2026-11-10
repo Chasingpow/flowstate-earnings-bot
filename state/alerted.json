@@ -335,6 +335,9 @@
   "SWMR": "small",
   "PALI": "small",
   "SONO": "small",
-  "STUB": "pinged"
+  "STUB": "pinged",
+  "AIRI": "small",
+  "BMEA": "small",
+  "QUIK": "small"
  }
 }
