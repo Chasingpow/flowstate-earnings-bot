@@ -269,6 +269,10 @@
   "ACCS": "small",
   "MANE": "pinged",
   "APT": "small",
-  "CLFD": "small"
+  "CLFD": "small",
+  "AVD": "small",
+  "USIO": "small",
+  "NCMI": "small",
+  "MRCY": "pinged"
  }
 }
