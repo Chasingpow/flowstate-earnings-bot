@@ -290,6 +290,11 @@
   "GANX": "small",
   "LMRI": "small",
   "VELO": "small",
-  "OIG": "small"
+  "OIG": "small",
+  "BEEP": "small",
+  "FLDDW": "small",
+  "QMLS": "small",
+  "FRNM": "small",
+  "CRWV": "pinged"
  }
 }
