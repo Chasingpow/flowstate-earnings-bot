@@ -312,6 +312,9 @@
   "NN": "small",
   "SNES": "small",
   "VRM": "small",
-  "BRCB": "small"
+  "BRCB": "small",
+  "LPTH": "small",
+  "IPM": "small",
+  "AAON": "pinged"
  }
 }
