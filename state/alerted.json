@@ -303,6 +303,13 @@
   "INO": "small",
   "AIRG": "small",
   "BODI": "small",
-  "FLY": "pinged"
+  "FLY": "pinged",
+  "FOSL": "small",
+  "LAND": "small",
+  "EVLV": "small",
+  "ELMD": "small",
+  "SKYH-WT": "small",
+  "NN": "small",
+  "SNES": "small"
  }
 }
