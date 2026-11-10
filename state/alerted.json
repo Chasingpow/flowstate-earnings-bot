@@ -285,6 +285,11 @@
   "KURA": "small",
   "BGS": "small",
   "STXS": "small",
-  "RGTIW": "pinged"
+  "RGTIW": "pinged",
+  "ATEX": "small",
+  "GANX": "small",
+  "LMRI": "small",
+  "VELO": "small",
+  "OIG": "small"
  }
 }
