@@ -323,6 +323,8 @@
   "SATLW": "small",
   "RDNW": "small",
   "BV": "small",
-  "PRPO": "small"
+  "PRPO": "small",
+  "SPIR": "small",
+  "NLST": "pinged"
  }
 }
