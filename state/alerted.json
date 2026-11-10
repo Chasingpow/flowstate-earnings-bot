@@ -244,6 +244,7 @@
   "OLMA": "small",
   "MASS": "small",
   "PDYN": "small",
-  "COAG": "small"
+  "COAG": "small",
+  "LNSR": "small"
  }
 }
