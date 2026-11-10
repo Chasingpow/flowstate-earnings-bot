@@ -273,6 +273,10 @@
   "AVD": "small",
   "USIO": "small",
   "NCMI": "small",
-  "MRCY": "pinged"
+  "MRCY": "pinged",
+  "BNGO": "small",
+  "GO": "small",
+  "ACHV": "small",
+  "TELA": "small"
  }
 }
