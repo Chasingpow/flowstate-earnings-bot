@@ -296,6 +296,13 @@
   "QMLS": "small",
   "FRNM": "small",
   "CRWV": "pinged",
-  "SLAB": "pinged"
+  "SLAB": "pinged",
+  "MGX": "small",
+  "GEVO": "small",
+  "QTI": "small",
+  "INO": "small",
+  "AIRG": "small",
+  "BODI": "small",
+  "FLY": "pinged"
  }
 }
