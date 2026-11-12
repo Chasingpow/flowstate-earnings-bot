@@ -452,6 +452,12 @@
   "PLRX": "small",
   "ALMS": "small",
   "CBUS": "small",
-  "INVE": "small"
+  "INVE": "small",
+  "BOLT": "small",
+  "BCDA": "small",
+  "ROC": "small",
+  "SRTS": "small",
+  "SSTI": "small",
+  "SER": "small"
  }
 }
