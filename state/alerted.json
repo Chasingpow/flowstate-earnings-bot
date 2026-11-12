@@ -326,6 +326,7 @@
   "EPC": "small",
   "ENS": "pinged",
   "TTEK": "pinged",
-  "LSTA": "small"
+  "LSTA": "small",
+  "ELTP": "small"
  }
 }
