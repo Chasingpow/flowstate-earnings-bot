@@ -386,6 +386,10 @@
   "CRMD": "small",
   "COHN": "small",
   "PMN": "small",
-  "ARX": "pinged"
+  "ARX": "pinged",
+  "GRCE": "small",
+  "MNPR": "small",
+  "BTCS": "small",
+  "ONCY": "small"
  }
 }
