@@ -502,6 +502,8 @@
   "TPST": "small",
   "DDS": "pinged",
   "DMAC": "small",
-  "CTVA": "pinged"
+  "CTVA": "pinged",
+  "APVO": "small",
+  "LGL": "small"
  }
 }
