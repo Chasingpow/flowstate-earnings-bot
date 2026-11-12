@@ -321,6 +321,9 @@
   "BTBT": "small",
   "ITP": "small",
   "PXLW": "small",
-  "QXO": "pinged"
+  "QXO": "pinged",
+  "EYE": "small",
+  "EPC": "small",
+  "ENS": "pinged"
  }
 }
