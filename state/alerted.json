@@ -424,6 +424,10 @@
   "DMRC": "small",
   "NMAX": "small",
   "CSCO": "pinged",
-  "HQI": "small"
+  "HQI": "small",
+  "KSCP": "small",
+  "STEX": "small",
+  "SLS": "small",
+  "LFTO": "pinged"
  }
 }
