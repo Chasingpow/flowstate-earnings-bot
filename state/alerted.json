@@ -417,6 +417,12 @@
   "INTZ": "small",
   "JCAP": "small",
   "PRME": "small",
-  "SST": "small"
+  "SST": "small",
+  "SLSN": "small",
+  "OPNW": "small",
+  "DERM": "small",
+  "DMRC": "small",
+  "NMAX": "small",
+  "CSCO": "pinged"
  }
 }
