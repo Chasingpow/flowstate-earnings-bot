@@ -458,6 +458,13 @@
   "ROC": "small",
   "SRTS": "small",
   "SSTI": "small",
-  "SER": "small"
+  "SER": "small",
+  "TACT": "small",
+  "MRLN": "small",
+  "KLC": "small",
+  "NEOV": "small",
+  "CBIO": "small",
+  "FLO": "small",
+  "AZTR": "small"
  }
 }
