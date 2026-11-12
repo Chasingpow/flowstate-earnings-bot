@@ -429,6 +429,12 @@
   "STEX": "small",
   "SLS": "small",
   "LFTO": "pinged",
-  "ERAS": "pinged"
+  "ERAS": "pinged",
+  "SHIM": "small",
+  "IDN": "small",
+  "TMC": "small",
+  "NPCE": "small",
+  "ACCV": "small",
+  "REKR": "small"
  }
 }
