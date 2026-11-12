@@ -500,6 +500,7 @@
   "CV": "small",
   "GEMI": "small",
   "TPST": "small",
-  "DDS": "pinged"
+  "DDS": "pinged",
+  "DMAC": "small"
  }
 }
