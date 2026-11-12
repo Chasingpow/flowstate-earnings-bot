@@ -408,6 +408,15 @@
   "ENHA": "small",
   "MTEX": "small",
   "HAWK": "small",
-  "LINK": "small"
+  "LINK": "small",
+  "BLNE": "small",
+  "TLPH": "small",
+  "CADL": "small",
+  "BSEM": "small",
+  "GUTS": "small",
+  "INTZ": "small",
+  "JCAP": "small",
+  "PRME": "small",
+  "SST": "small"
  }
 }
