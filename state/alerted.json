@@ -476,6 +476,9 @@
   "WATT": "small",
   "CTSO": "small",
   "DFLIW": "small",
-  "PARK": "small"
+  "PARK": "small",
+  "GROW": "small",
+  "RMR": "small",
+  "CRWS": "small"
  }
 }
