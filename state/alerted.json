@@ -501,6 +501,7 @@
   "GEMI": "small",
   "TPST": "small",
   "DDS": "pinged",
-  "DMAC": "small"
+  "DMAC": "small",
+  "CTVA": "pinged"
  }
 }
