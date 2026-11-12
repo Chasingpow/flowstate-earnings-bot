@@ -428,6 +428,7 @@
   "KSCP": "small",
   "STEX": "small",
   "SLS": "small",
-  "LFTO": "pinged"
+  "LFTO": "pinged",
+  "ERAS": "pinged"
  }
 }
