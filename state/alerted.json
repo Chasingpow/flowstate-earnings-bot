@@ -345,6 +345,7 @@
   "NDLS": "small",
   "HURA": "small",
   "IMUX": "small",
-  "AVAH": "pinged"
+  "AVAH": "pinged",
+  "BIRD": "small"
  }
 }
