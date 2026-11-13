@@ -374,6 +374,10 @@
   "CRTD": "small",
   "NSYS": "small",
   "OBAI": "small",
-  "WSBF": "small"
+  "WSBF": "small",
+  "SEV": "small",
+  "ENVB": "small",
+  "CRIS": "small",
+  "BJDX": "small"
  }
 }
