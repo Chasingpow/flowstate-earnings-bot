@@ -347,6 +347,9 @@
   "IMUX": "small",
   "AVAH": "pinged",
   "BIRD": "small",
-  "BNTC": "small"
+  "BNTC": "small",
+  "PDSB": "small",
+  "PAVM": "small",
+  "OWLT": "small"
  }
 }
