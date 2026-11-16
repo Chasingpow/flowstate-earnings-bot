@@ -149,6 +149,8 @@
   "SMID": "small",
   "FIRY": "small",
   "VIP": "small",
-  "POWL": "pinged"
+  "POWL": "pinged",
+  "POCI": "small",
+  "GPUS": "small"
  }
 }
