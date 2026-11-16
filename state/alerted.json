@@ -152,6 +152,10 @@
   "POWL": "pinged",
   "POCI": "small",
   "GPUS": "small",
-  "CVU": "small"
+  "CVU": "small",
+  "AMCI": "small",
+  "BAERW": "small",
+  "WRAP": "small",
+  "MLP": "small"
  }
 }
