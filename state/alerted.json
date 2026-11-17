@@ -88,6 +88,8 @@
   "GFF": "pinged",
   "QNME": "small",
   "AIMD": "small",
-  "EMAT": "small"
+  "EMAT": "small",
+  "GIPR": "small",
+  "AGPU": "small"
  }
 }
