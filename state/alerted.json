@@ -95,6 +95,8 @@
   "BOF": "small",
   "SCCG": "small",
   "IDXG": "small",
-  "DLB": "pinged"
+  "DLB": "pinged",
+  "LZB": "small",
+  "IRIX": "small"
  }
 }
