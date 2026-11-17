@@ -93,6 +93,8 @@
   "AGPU": "small",
   "GBDC": "pinged",
   "BOF": "small",
-  "SCCG": "small"
+  "SCCG": "small",
+  "IDXG": "small",
+  "DLB": "pinged"
  }
 }
