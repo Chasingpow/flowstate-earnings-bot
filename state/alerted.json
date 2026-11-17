@@ -91,6 +91,7 @@
   "EMAT": "small",
   "GIPR": "small",
   "AGPU": "small",
-  "GBDC": "pinged"
+  "GBDC": "pinged",
+  "BOF": "small"
  }
 }
