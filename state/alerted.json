@@ -92,6 +92,7 @@
   "GIPR": "small",
   "AGPU": "small",
   "GBDC": "pinged",
-  "BOF": "small"
+  "BOF": "small",
+  "SCCG": "small"
  }
 }
