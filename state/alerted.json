@@ -90,6 +90,7 @@
   "AIMD": "small",
   "EMAT": "small",
   "GIPR": "small",
-  "AGPU": "small"
+  "AGPU": "small",
+  "GBDC": "pinged"
  }
 }
