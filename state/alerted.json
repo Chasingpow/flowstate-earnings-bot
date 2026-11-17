@@ -79,6 +79,7 @@
   "CAST": "small",
   "OCSL": "small",
   "HD": "pinged",
-  "DIS": "pinged"
+  "DIS": "pinged",
+  "ENR": "small"
  }
 }
