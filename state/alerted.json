@@ -101,6 +101,8 @@
  },
  "2026-11-18": {
   "LOW": "pinged",
-  "TGT": "pinged"
+  "TGT": "pinged",
+  "JJSF": "small",
+  "BRBR": "small"
  }
 }
