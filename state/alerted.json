@@ -1,10 +1,4 @@
 {
- "2026-11-14": {
-  "BFRI": "small",
-  "ELDN": "small",
-  "NCRA": "small",
-  "RMCO": "small"
- },
  "2026-11-16": {
   "CMCT": "small",
   "XXII": "small",
@@ -104,5 +98,8 @@
   "IIIV": "small",
   "FTLF": "small",
   "GRDX": "small"
+ },
+ "2026-11-18": {
+  "LOW": "pinged"
  }
 }
