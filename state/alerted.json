@@ -1,40 +1,4 @@
 {
- "2026-11-17": {
-  "XPON": "small",
-  "FBDT": "small",
-  "SCWO": "small",
-  "AIB": "small",
-  "USDE": "small",
-  "VVOS": "small",
-  "CAST": "small",
-  "OCSL": "small",
-  "HD": "pinged",
-  "DIS": "pinged",
-  "ENR": "small",
-  "FUBO": "small",
-  "SRJN": "small",
-  "MFP": "small",
-  "ONEW": "small",
-  "GFF": "pinged",
-  "QNME": "small",
-  "AIMD": "small",
-  "EMAT": "small",
-  "GIPR": "small",
-  "AGPU": "small",
-  "GBDC": "pinged",
-  "BOF": "small",
-  "SCCG": "small",
-  "IDXG": "small",
-  "DLB": "pinged",
-  "LZB": "small",
-  "IRIX": "small",
-  "NVDA": "pinged",
-  "GLAD": "small",
-  "DUOT": "small",
-  "IIIV": "small",
-  "FTLF": "small",
-  "GRDX": "small"
- },
  "2026-11-18": {
   "LOW": "pinged",
   "TGT": "pinged",
@@ -77,5 +41,8 @@
   "ONAR": "small",
   "GEOS": "small",
   "EARN": "small"
+ },
+ "2026-11-20": {
+  "ITP": "small"
  }
 }
