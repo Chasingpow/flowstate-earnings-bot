@@ -34,6 +34,7 @@
   "ADSK": "pinged",
   "DELL": "pinged",
   "CLSK": "small",
-  "AMBA": "small"
+  "AMBA": "small",
+  "HPQ": "pinged"
  }
 }
