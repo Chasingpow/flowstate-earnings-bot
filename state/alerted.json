@@ -37,6 +37,7 @@
   "AMBA": "small",
   "HPQ": "pinged",
   "GDRX": "small",
-  "LOCL": "small"
+  "LOCL": "small",
+  "EONR": "small"
  }
 }
