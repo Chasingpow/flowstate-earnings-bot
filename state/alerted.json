@@ -36,6 +36,7 @@
   "CLSK": "small",
   "AMBA": "small",
   "HPQ": "pinged",
-  "GDRX": "small"
+  "GDRX": "small",
+  "LOCL": "small"
  }
 }
