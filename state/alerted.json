@@ -1,28 +1,4 @@
 {
- "2026-11-19": {
-  "WSM": "pinged",
-  "NTIC": "small",
-  "MMS": "pinged",
-  "UGI": "pinged",
-  "SPWRW": "small",
-  "WMG": "pinged",
-  "ROAD": "pinged",
-  "BBWI": "pinged",
-  "VVV": "pinged",
-  "LQDT": "small",
-  "WMT": "pinged",
-  "EMMA": "small",
-  "BEEM": "small",
-  "NJR": "pinged",
-  "HP": "pinged",
-  "PANW": "pinged",
-  "GYGY": "small",
-  "MATW": "small",
-  "PCYO": "small",
-  "ONAR": "small",
-  "GEOS": "small",
-  "EARN": "small"
- },
  "2026-11-20": {
   "ITP": "small",
   "BJ": "pinged",
@@ -37,5 +13,8 @@
  },
  "2026-11-23": {
   "SOAR": "small"
+ },
+ "2026-11-24": {
+  "DRVN": "small"
  }
 }
