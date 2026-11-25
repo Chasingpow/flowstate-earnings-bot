@@ -1,16 +1,4 @@
 {
- "2026-11-20": {
-  "ITP": "small",
-  "BJ": "pinged",
-  "IESC": "pinged",
-  "MATW": "small",
-  "MOG-A": "pinged",
-  "MYSZ": "small",
-  "CLIR": "small",
-  "COPL": "small",
-  "LQDT": "small",
-  "SUNE": "small"
- },
  "2026-11-23": {
   "SOAR": "small"
  },
@@ -40,5 +28,8 @@
   "LOCL": "small",
   "EONR": "small",
   "DSNY": "small"
+ },
+ "2026-11-25": {
+  "IMKTA": "small"
  }
 }
