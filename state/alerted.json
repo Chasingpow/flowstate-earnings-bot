@@ -1,7 +1,4 @@
 {
- "2026-11-23": {
-  "SOAR": "small"
- },
  "2026-11-24": {
   "DRVN": "small",
   "SHOE": "small",
@@ -32,5 +29,8 @@
  "2026-11-25": {
   "IMKTA": "small",
   "URBN": "pinged"
+ },
+ "2026-11-27": {
+  "LEDS": "small"
  }
 }
